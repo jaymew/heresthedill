@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Here&#39;s the Dill</title>
+    <link>http://heresthedill.com/</link>
+    <description>Recent content in Home on Here&#39;s the Dill</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 05 Aug 2018 16:04:30 -0500</lastBuildDate>
+    
+	<atom:link href="http://heresthedill.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Launch</title>
+      <link>http://heresthedill.com/posts/launch/</link>
+      <pubDate>Sun, 05 Aug 2018 16:24:49 -0500</pubDate>
+      
+      <guid>http://heresthedill.com/posts/launch/</guid>
+      <description>Here&amp;rsquo;s the Dill is&amp;hellip; almost here.</description>
+    </item>
+    
+  </channel>
+</rss>

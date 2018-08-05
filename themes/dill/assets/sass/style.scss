@@ -1,0 +1,22 @@
+/*! Dill Styles */
+/*--------------------------------------------------------------
+Reset
+--------------------------------------------------------------*/
+@import "normalize";
+
+body {
+	text-align: center;
+	background: #44c322;
+	font-family: "Helvetica", "Verdana", sans-serif;
+	color: white;
+	font-size: 1.6rem;
+	margin-top: 20rem;
+	height: 100%;
+}
+
+h1 {
+	font-size: 4rem;
+	letter-spacing: 3px;
+	font-weight: 100;
+	margin-bottom: 1rem;
+}

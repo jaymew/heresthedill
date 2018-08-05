@@ -1,0 +1,34 @@
+{
+  "name": "heresthedill",
+  "version": "1.0.0",
+  "description": "heresthedill.com",
+  "dependencies": {
+    "feather-icons": "^4.7.0"
+  },
+  "devDependencies": {
+    "autoprefixer": "latest",
+    "browser-sync": "latest",
+    "gulp": "latest",
+    "gulp-image": "latest",
+    "gulp-jshint": "latest",
+    "gulp-newer": "latest",
+    "gulp-postcss": "latest",
+    "gulp-sass": "latest",
+    "gulp-sourcemaps": "latest",
+    "jshint": "latest"
+  },
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaymew/heresthedill.git"
+  },
+  "author": "Mike Costelloe <mike@mikecostelloe.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jaymew/heresthedill/issues"
+  },
+  "homepage": "https://github.com/jaymew/heresthedill#readme"
+}
