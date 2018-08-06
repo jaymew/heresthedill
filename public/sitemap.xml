@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://heresthedill.com/posts/2018-08-06-netlify-test/</loc>
+    <lastmod>2018-08-06T13:37:04+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://heresthedill.com/posts/launch/</loc>
     <lastmod>2018-08-05T16:24:49-05:00</lastmod>
   </url>
@@ -19,7 +24,7 @@
   
   <url>
     <loc>http://heresthedill.com/posts/</loc>
-    <lastmod>2018-08-05T16:24:49-05:00</lastmod>
+    <lastmod>2018-08-06T13:37:04+00:00</lastmod>
     <priority>0</priority>
   </url>
   
