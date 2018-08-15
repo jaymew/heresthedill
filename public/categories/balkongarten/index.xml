@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Here&#39;s the Dill</title>
-    <link>http://heresthedill.com/posts/</link>
-    <description>Recent content in Posts on Here&#39;s the Dill</description>
+    <title>Balkongarten on Here&#39;s the Dill</title>
+    <link>http://heresthedill.com/categories/balkongarten/</link>
+    <description>Recent content in Balkongarten on Here&#39;s the Dill</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 06 Aug 2018 13:37:04 +0000</lastBuildDate>
     
-	<atom:link href="http://heresthedill.com/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://heresthedill.com/categories/balkongarten/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -17,15 +17,6 @@
       <pubDate>Mon, 06 Aug 2018 13:37:04 +0000</pubDate>
       
       <guid>http://heresthedill.com/posts/2018-08-06-netlify-test/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse et dui dictum metus aliquet dictum. Phasellus tristique odio et nibh porta, sed fringilla dolor consequat. Fusce tristique purus quis semper lobortis. Morbi in pharetra tortor. Proin sagittis turpis at volutpat elementum. Phasellus eget massa nibh. Nam rutrum ligula quis ante egestas tempus. Phasellus velit quam, molestie vehicula rhoncus ut, auctor vel ipsum. Nullam id sodales nisl. Integer rhoncus bibendum risus. Cras malesuada mauris et sem bibendum, non pharetra nunc pulvinar.</description>
-    </item>
-    
-    <item>
-      <title>Here&#39;s the Dill is almost here</title>
-      <link>http://heresthedill.com/posts/launch/</link>
-      <pubDate>Sun, 05 Aug 2018 16:24:49 -0500</pubDate>
-      
-      <guid>http://heresthedill.com/posts/launch/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse et dui dictum metus aliquet dictum. Phasellus tristique odio et nibh porta, sed fringilla dolor consequat. Fusce tristique purus quis semper lobortis. Morbi in pharetra tortor. Proin sagittis turpis at volutpat elementum. Phasellus eget massa nibh. Nam rutrum ligula quis ante egestas tempus. Phasellus velit quam, molestie vehicula rhoncus ut, auctor vel ipsum. Nullam id sodales nisl. Integer rhoncus bibendum risus. Cras malesuada mauris et sem bibendum, non pharetra nunc pulvinar.</description>
     </item>
     

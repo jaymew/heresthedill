@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://heresthedill.com/about/</loc>
+    <lastmod>2018-08-14T15:25:08-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://heresthedill.com/posts/2018-08-06-netlify-test/</loc>
     <lastmod>2018-08-06T13:37:04+00:00</lastmod>
   </url>
@@ -18,7 +23,14 @@
   </url>
   
   <url>
+    <loc>http://heresthedill.com/categories/balkongarten/</loc>
+    <lastmod>2018-08-06T13:37:04+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://heresthedill.com/categories/</loc>
+    <lastmod>2018-08-06T13:37:04+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -30,6 +42,12 @@
   
   <url>
     <loc>http://heresthedill.com/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://heresthedill.com/categories/thoughts/</loc>
+    <lastmod>2018-08-05T16:24:49-05:00</lastmod>
     <priority>0</priority>
   </url>
   

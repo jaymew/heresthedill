@@ -1,9 +1,8 @@
 ---
-title: "Here's the Dill is almost here"
-date: 2018-08-05T16:24:49-05:00
+title: "About"
+date: 2018-08-14T15:25:08-05:00
+type: "static"
 draft: false
-categories:
-- Thoughts
 ---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse et dui dictum metus aliquet dictum. Phasellus tristique odio et nibh porta, sed fringilla dolor consequat. Fusce tristique purus quis semper lobortis. Morbi in pharetra tortor. Proin sagittis turpis at volutpat elementum. Phasellus eget massa nibh. Nam rutrum ligula quis ante egestas tempus. Phasellus velit quam, molestie vehicula rhoncus ut, auctor vel ipsum. Nullam id sodales nisl. Integer rhoncus bibendum risus. Cras malesuada mauris et sem bibendum, non pharetra nunc pulvinar. Nam egestas euismod dui et dictum.
 

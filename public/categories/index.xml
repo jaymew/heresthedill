@@ -6,9 +6,28 @@
     <description>Recent content in Categories on Here&#39;s the Dill</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Mon, 06 Aug 2018 13:37:04 +0000</lastBuildDate>
     
 	<atom:link href="http://heresthedill.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Balkongarten</title>
+      <link>http://heresthedill.com/categories/balkongarten/</link>
+      <pubDate>Mon, 06 Aug 2018 13:37:04 +0000</pubDate>
+      
+      <guid>http://heresthedill.com/categories/balkongarten/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thoughts</title>
+      <link>http://heresthedill.com/categories/thoughts/</link>
+      <pubDate>Sun, 05 Aug 2018 16:24:49 -0500</pubDate>
+      
+      <guid>http://heresthedill.com/categories/thoughts/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

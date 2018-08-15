@@ -2,3 +2,31 @@ baseURL = "http://heresthedill.com/"
 languageCode = "en-us"
 title = "Here's the Dill"
 theme = "dill"
+
+[[menu.main]]
+	name = "Posts"
+	weight = 110
+	identifier = "posts"
+	url = "/posts"
+[[menu.main]]
+	name = "About"
+	weight = 110
+	identifier = "about"
+	url = "/about"
+[[menu.main]]
+	name = "Categories"
+	weight = 120
+	identifier = "categories"
+	url = "/categories"
+
+[[menu.social]]
+	name = "Twitter"
+	target = "_blank"
+	weight = 100
+	identifier = "twitter"
+	url = "https://twitter.com/heresthedill"
+	pre = "<svg class='feather'><use xlink:href='/img/feather-sprite.svg#twitter'/></svg>"
+
+[params]
+    description = "Jayme's German Gardening Journey"
+		footer = "&copy; 2018 Jayme Weglarski | All rights reserved"

@@ -1,0 +1,48 @@
+body {
+	font-size: 1.2rem;
+	font-family: "Helvetica", "Verdana", sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-weight: 100;
+	font-family: "Helvetica", "Verdana", sans-serif;
+	color: $color__green;
+}
+
+h1 {
+	font-size: 4rem;
+	letter-spacing: 3px;
+	font-weight: 100;
+	margin-bottom: 1rem;
+}
+
+h2 {
+	font-size: 3.2rem;
+	font-weight: 100;
+	margin-bottom: 1rem;
+}
+h3 {
+	font-size: 2.8rem;
+	font-weight: 100;
+	margin-bottom: 1rem;
+}
+
+a {
+	color: $color__pink;
+}
+
+p {
+	font-size: 1.6rem;
+	line-height: 2rem;
+	margin-bottom: 2rem;
+}
+
+.feather {
+  width: 16px;
+  height: 16px;
+  stroke: currentColor;
+  stroke-width: 2;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  fill: none;
+}

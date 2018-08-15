@@ -12,21 +12,30 @@
     
     
     <item>
-      <title>Netlify Test</title>
+      <title>About</title>
+      <link>http://heresthedill.com/about/</link>
+      <pubDate>Tue, 14 Aug 2018 15:25:08 -0500</pubDate>
+      
+      <guid>http://heresthedill.com/about/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse et dui dictum metus aliquet dictum. Phasellus tristique odio et nibh porta, sed fringilla dolor consequat. Fusce tristique purus quis semper lobortis. Morbi in pharetra tortor. Proin sagittis turpis at volutpat elementum. Phasellus eget massa nibh. Nam rutrum ligula quis ante egestas tempus. Phasellus velit quam, molestie vehicula rhoncus ut, auctor vel ipsum. Nullam id sodales nisl. Integer rhoncus bibendum risus. Cras malesuada mauris et sem bibendum, non pharetra nunc pulvinar.</description>
+    </item>
+    
+    <item>
+      <title>Balkongarten</title>
       <link>http://heresthedill.com/posts/2018-08-06-netlify-test/</link>
       <pubDate>Mon, 06 Aug 2018 13:37:04 +0000</pubDate>
       
       <guid>http://heresthedill.com/posts/2018-08-06-netlify-test/</guid>
-      <description>This is the Netflify test</description>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse et dui dictum metus aliquet dictum. Phasellus tristique odio et nibh porta, sed fringilla dolor consequat. Fusce tristique purus quis semper lobortis. Morbi in pharetra tortor. Proin sagittis turpis at volutpat elementum. Phasellus eget massa nibh. Nam rutrum ligula quis ante egestas tempus. Phasellus velit quam, molestie vehicula rhoncus ut, auctor vel ipsum. Nullam id sodales nisl. Integer rhoncus bibendum risus. Cras malesuada mauris et sem bibendum, non pharetra nunc pulvinar.</description>
     </item>
     
     <item>
-      <title>Launch</title>
+      <title>Here&#39;s the Dill is almost here</title>
       <link>http://heresthedill.com/posts/launch/</link>
       <pubDate>Sun, 05 Aug 2018 16:24:49 -0500</pubDate>
       
       <guid>http://heresthedill.com/posts/launch/</guid>
-      <description>Here&amp;rsquo;s the Dill is&amp;hellip; almost here.</description>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse et dui dictum metus aliquet dictum. Phasellus tristique odio et nibh porta, sed fringilla dolor consequat. Fusce tristique purus quis semper lobortis. Morbi in pharetra tortor. Proin sagittis turpis at volutpat elementum. Phasellus eget massa nibh. Nam rutrum ligula quis ante egestas tempus. Phasellus velit quam, molestie vehicula rhoncus ut, auctor vel ipsum. Nullam id sodales nisl. Integer rhoncus bibendum risus. Cras malesuada mauris et sem bibendum, non pharetra nunc pulvinar.</description>
     </item>
     
   </channel>

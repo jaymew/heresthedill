@@ -1,0 +1,47 @@
+header {
+	max-width: 1000px;
+	margin: 2rem auto;
+	padding-top: 5rem;
+}
+
+.container {
+	display: flex;
+	max-width: 1000px;
+	margin: 2rem auto;
+}
+
+main {
+	flex: 1 0 auto;
+	max-width: 780px;
+	margin-left: 2rem;
+	margin-bottom: 2rem;
+}
+
+article {
+	margin-bottom: 4rem;
+	padding-bottom: 2rem;
+	border-bottom: 2px solid $color__green;
+}
+
+.meta-box {
+	display: block;
+	float: left;
+	padding: 0 2rem 1rem 0;
+}
+
+.copy-box {
+
+}
+
+aside {
+	max-width: 200px;
+}
+
+.sidebar-left {
+	max-width: 200px;
+}
+
+footer {
+	text-align: center;
+	margin: 3rem; 
+}

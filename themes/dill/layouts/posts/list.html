@@ -1,15 +1,19 @@
 {{ partial "header.html" . }}
+
+{{ partial "sidebar.html" . }}
 <main>
 {{ .Content }}
-
-<ul>
   {{ range (where .Data.Pages "Section" "!=" "") }}
-  <li>
-    <span class="date">{{ .Date.Format "2006/01/02" }}</span>
-    <a href="{{ .URL }}">{{ .Title }}</a>
-  </li>
+  <article>
+		<h2>{{ .Title }}</h2>
+		<div class="meta-box">
+			{{ .Params.Author }}
+    	<br/><span class="date">{{ .Date.Format "2006/01/02" }}</span>
+			<br/><a href="{{ .URL }}">Permalink</a>
+		</div>
+		{{ .Content }}
+  </article>
   {{ end }}
-</ul>
 </main>
 
 {{ partial "footer.html" . }}
