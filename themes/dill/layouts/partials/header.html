@@ -3,7 +3,11 @@
 	{{ partial "head.html" . }}
 	<body>
 	<header>
-		<h3>Here's the Dill: Jayme's German Garden Journey</h3>
+		<div class="banner">
+			<div class="logo">
+			<a href="/posts"><img src="/img/logo2.png" alt="Here's the Dill Logo"></a>
+			</div>
+		</div>
 		<nav class="navigation">
 				<ul class="menu">
 					{{ range .Site.Menus.main }}

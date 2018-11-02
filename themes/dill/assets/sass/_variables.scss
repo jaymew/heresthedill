@@ -1,2 +1,11 @@
-$color__green: lime;
+$color__green:#669966;
 $color__pink: pink;
+$color__orange:#ff6633;
+$color__yellow:#e8b109;
+
+@font-face {
+	font-family: "Bodedo";
+	src: url('/fonts/HVD_Bodedo/HVD_Bodedo.ttf')
+}
+
+$font__display: "Bodedo", "Bodoni", sans-serif;

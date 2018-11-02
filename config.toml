@@ -26,6 +26,13 @@ theme = "dill"
 	identifier = "twitter"
 	url = "https://twitter.com/heresthedill"
 	pre = "<svg class='feather'><use xlink:href='/img/feather-sprite.svg#twitter'/></svg>"
+[[menu.social]]
+	name = "Instagram"
+	target = "_blank"
+	weight = 110
+	identifier = "instagram"
+	url = "https://instagram.com/heresthedill"
+	pre = "<svg class='feather'><use xlink:href='/img/feather-sprite.svg#instagram'/></svg>"
 
 [params]
     description = "Jayme's German Gardening Journey"

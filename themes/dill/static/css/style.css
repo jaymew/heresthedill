@@ -110,50 +110,125 @@ a img {
 /*--------------------------------------------------------------
 variables
 --------------------------------------------------------------*/
+@font-face {
+	font-family: "Bodedo";
+	src: url("/fonts/HVD_Bodedo/HVD_Bodedo.ttf");
+}
+
 /*--------------------------------------------------------------
 structure
 --------------------------------------------------------------*/
 header {
-	max-width: 1000px;
+	max-width: 1200px;
 	margin: 2rem auto;
 	padding-top: 5rem;
+}
+
+.banner {
+	width: 100%;
+}
+
+.logo {
+	margin: 0 auto;
+	max-width: 300px;
 }
 
 .container {
 	display: -webkit-box;
 	display: -ms-flexbox;
 	display: flex;
-	max-width: 1000px;
+	max-width: 1200px;
 	margin: 2rem auto;
 }
 
 main {
 	-webkit-box-flex: 1;
-	    -ms-flex: 1 0 auto;
-	        flex: 1 0 auto;
-	max-width: 780px;
+	    -ms-flex: 1 1 auto;
+	        flex: 1 1 auto;
 	margin-left: 2rem;
 	margin-bottom: 2rem;
 }
 
 article {
 	margin-bottom: 4rem;
-	padding-bottom: 2rem;
-	border-bottom: 2px solid lime;
+	padding: 3rem 2rem;
+	border-bottom: 2px solid #669966;
 }
 
 .meta-box {
 	display: block;
 	float: left;
 	padding: 0 2rem 1rem 0;
+	text-align: center;
+}
+
+.date-day {
+	font-family: "Bodedo", "Bodoni", sans-serif;
+	color: #e8b109;
+	line-height: 1.8rem;
+	font-size: 6rem;
+}
+
+.date-mon-year {
+	font-family: "Bodedo", "Bodoni", sans-serif;
+	color: #669966;
+	font-size: 2rem;
 }
 
 aside {
-	max-width: 200px;
+	-webkit-box-flex: 0;
+	    -ms-flex: 0 0 auto;
+	        flex: 0 0 auto;
+	width: 300px;
+	margin-left: 3rem;
 }
 
-.sidebar-left {
-	max-width: 200px;
+.name-box {
+	width: 100%;
+	text-align: center;
+}
+
+.sidebar-content {
+	clear: both;
+	font-size: 1.6rem;
+	padding: 2rem 1rem;
+	border-bottom: 2px solid #ff6633;
+}
+
+.sidebar-tax {
+	clear: both;
+	padding: 1rem;
+	border-bottom: 2px solid #ff6633;
+	margin-bottom: 2rem;
+}
+
+.sidebar-tax a {
+	font-family: "Bodedo", "Bodoni", sans-serif;
+	text-decoration: none;
+	font-size: 3rem;
+}
+
+@media screen and (max-width: 1000px) {
+	.container {
+		display: block;
+		max-width: 1200px;
+		margin: 2rem 0;
+	}
+	main {
+		display: block;
+		width: 100%;
+		margin: 2rem 0;
+	}
+	aside {
+		display: block;
+		width: 100%;
+		padding: 0 4rem;
+		margin-left: 0;
+	}
+	.sidebar-content {
+		font-size: 1.6rem;
+		padding: 2rem 1rem;
+	}
 }
 
 footer {
@@ -173,6 +248,10 @@ nav
 	display: -webkit-box;
 	display: -ms-flexbox;
 	display: flex;
+	-webkit-box-pack: center;
+	    -ms-flex-pack: center;
+	        justify-content: center;
+	padding: 2rem 0;
 }
 
 .menu li {
@@ -180,16 +259,20 @@ nav
 }
 
 .menu li a {
+	display: block;
 	width: 100%;
 	height: 100%;
-	font-size: 1.6rem;
+	font-family: "Bodedo", "Bodoni", "serif";
+	font-size: 2rem;
 	text-transform: uppercase;
 	letter-spacing: 1px;
 	text-decoration: none;
 }
 
 .menu li a:hover {
-	color: lime;
+	color: #669966;
+	-webkit-transform: rotate(5deg);
+	        transform: rotate(5deg);
 }
 
 /*--------------------------------------------------------------
@@ -202,8 +285,8 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
 	font-weight: 100;
-	font-family: "Helvetica", "Verdana", sans-serif;
-	color: lime;
+	font-family: "Bodedo", "Bodoni", sans-serif;
+	color: #669966;
 }
 
 h1 {
@@ -226,7 +309,7 @@ h3 {
 }
 
 a {
-	color: pink;
+	color: #ff6633;
 }
 
 p {
@@ -245,6 +328,19 @@ p {
 	fill: none;
 }
 
+.cat-list {
+	display: inline-block;
+}
+
+.cat-list li {
+	float: left;
+	padding: 0 1rem;
+}
+
 /*--------------------------------------------------------------
 variables
 --------------------------------------------------------------*/
+@font-face {
+	font-family: "Bodedo";
+	src: url("/fonts/HVD_Bodedo/HVD_Bodedo.ttf");
+}

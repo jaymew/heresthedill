@@ -5,14 +5,19 @@
 
 .menu {
 	display: flex;
+	justify-content: center;
+	padding: 2rem 0;
+	// border-bottom: 2px solid $color__green;
 
 	li {
 		padding-right: 1rem;
 
 		a {
+			display: block;
 			width: 100%;
 			height: 100%;
-			font-size: 1.6rem;
+			font-family: "Bodedo", "Bodoni", "serif";
+			font-size: 2rem;
 			text-transform: uppercase;
 			letter-spacing: 1px;
 			text-decoration: none;
@@ -20,6 +25,7 @@
 
 		a:hover {
 			color: $color__green;
+			transform: rotate(5deg);
 		}
 	}
 }

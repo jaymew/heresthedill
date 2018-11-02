@@ -5,7 +5,7 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
 	font-weight: 100;
-	font-family: "Helvetica", "Verdana", sans-serif;
+	font-family: $font__display;
 	color: $color__green;
 }
 
@@ -28,7 +28,7 @@ h3 {
 }
 
 a {
-	color: $color__pink;
+	color: $color__orange;
 }
 
 p {
@@ -45,4 +45,13 @@ p {
   stroke-linecap: round;
   stroke-linejoin: round;
   fill: none;
+}
+
+.cat-list {
+	display: inline-block;
+
+	li {
+		float: left;
+		padding: 0 1rem;
+	}
 }

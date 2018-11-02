@@ -1,25 +1,33 @@
 header {
-	max-width: 1000px;
+	max-width: 1200px;
 	margin: 2rem auto;
 	padding-top: 5rem;
 }
 
+.banner {
+	width: 100%;
+}
+
+.logo {
+	margin: 0 auto;
+	max-width: 300px;
+}
+
 .container {
 	display: flex;
-	max-width: 1000px;
+	max-width: 1200px;
 	margin: 2rem auto;
 }
 
 main {
-	flex: 1 0 auto;
-	max-width: 780px;
+	flex: 1 1 auto;
 	margin-left: 2rem;
 	margin-bottom: 2rem;
 }
 
 article {
 	margin-bottom: 4rem;
-	padding-bottom: 2rem;
+	padding: 3rem 2rem;
 	border-bottom: 2px solid $color__green;
 }
 
@@ -27,6 +35,18 @@ article {
 	display: block;
 	float: left;
 	padding: 0 2rem 1rem 0;
+	text-align: center;
+}
+.date-day {
+	font-family: $font__display;
+	color: $color__yellow;
+	line-height: 1.8rem;
+	font-size: 6rem;
+}
+.date-mon-year {
+	font-family: $font__display;
+	color: $color__green;
+	font-size: 2rem;
 }
 
 .copy-box {
@@ -34,14 +54,56 @@ article {
 }
 
 aside {
-	max-width: 200px;
+	flex: 0 0 auto;
+	width: 300px;
+	margin-left: 3rem;
+}
+.name-box{
+	width: 100%;
+	text-align: center;
+}
+.sidebar-content {
+	clear: both;
+	font-size: 1.6rem;
+	padding: 2rem 1rem;
+	border-bottom: 2px solid $color__orange;
+}
+.sidebar-tax {
+	clear: both;
+	padding: 1rem;
+	border-bottom: 2px solid $color__orange;
+	margin-bottom: 2rem;
+	a {
+		font-family: $font__display;
+		text-decoration: none;
+		font-size: 3rem;
+	}
 }
 
-.sidebar-left {
-	max-width: 200px;
+@media screen and (max-width: 1000px) {
+	.container {
+		display: block;
+		max-width: 1200px;
+		margin: 2rem 0;
+	}
+	main {
+		display: block;
+		width: 100%;
+		margin: 2rem 0;
+	}
+	aside {
+		display: block;
+		width: 100%;
+		padding: 0 4rem;
+		margin-left: 0;
+	}
+	.sidebar-content {
+		font-size: 1.6rem;
+		padding: 2rem 1rem;
+	}
 }
 
 footer {
 	text-align: center;
-	margin: 3rem; 
+	margin: 3rem;
 }
