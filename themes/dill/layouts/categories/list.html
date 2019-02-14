@@ -1,13 +1,13 @@
 {{ partial "header.html" . }}
 
 <main>
-<h1>{{ .Title }}</h1>
-{{ .Content }}
-  {{ range .Pages }}
-  <article>
-		<a href="{{ .Permalink }}"><h2>{{ .Title }}</h2></a>
-  </article>
-  {{ end }}
+  <div class="categories">
+    {{ range (where .Data.Pages "Section" "!=" "") }}
+        <div class="category-box">
+        <a href="{{ .URL }}">{{ .Title }}</a>
+      </div>
+    {{ end }}
+    </div>
 </main>
 
 {{ partial "sidebar.html" . }}

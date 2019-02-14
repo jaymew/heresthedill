@@ -24,14 +24,14 @@ theme = "dill"
 	target = "_blank"
 	weight = 100
 	identifier = "twitter"
-	url = "https://twitter.com/heresthedill"
+	url = "https://twitter.com/hereisthedill"
 	pre = "<svg class='feather'><use xlink:href='/img/feather-sprite.svg#twitter'/></svg>"
 [[menu.social]]
 	name = "Instagram"
 	target = "_blank"
 	weight = 110
 	identifier = "instagram"
-	url = "https://instagram.com/heresthedill"
+	url = "https://instagram.com/hereisthedill"
 	pre = "<svg class='feather'><use xlink:href='/img/feather-sprite.svg#instagram'/></svg>"
 
 [params]

@@ -4,7 +4,7 @@ date: 2018-11-01T17:22:25+01:00
 draft: false
 categories:
 - Thoughts
-- Balkongarten
+- Kleingarten
 ---
 Hi everyone! I hope you're having an amazing week! The weather finally turned here in Konstanz: the temperature is dropping, the leaves are changing—Herbst hat angekommen! I snapped a photo for you below!
 

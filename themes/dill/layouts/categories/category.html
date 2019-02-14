@@ -1,10 +1,10 @@
 {{ partial "header.html" . }}
 
 <main>
+<h1>Category: {{ .Title }}</h1>
 {{ .Content }}
-  {{ range (where .Data.Pages "Section" "!=" "") }}
+  {{ range .Pages }}
   <article>
-    {{ with .Params.featured_image }}<img class="featured-image" src="{{ . }}" alt="">{{ end }}
 		<h2>{{ .Title }}</h2>
 		<div class="meta-box">
     	<br/><span class="date-day">{{ .Date.Format "02" }}</span>

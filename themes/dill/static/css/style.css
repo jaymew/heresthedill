@@ -119,17 +119,31 @@ variables
 structure
 --------------------------------------------------------------*/
 header {
-	max-width: 1200px;
-	margin: 2rem auto;
-	padding-top: 5rem;
+	width: 100%;
 }
 
 .banner {
 	width: 100%;
 }
 
+.overlay {
+	background: center/cover url("/img/flowers.jpg");
+	display: block;
+	position: relative;
+	min-height: 350px;
+	overflow: hidden;
+}
+
+.overlay .pattern {
+	display: block;
+	width: 101%;
+	position: absolute;
+	bottom: -1px;
+}
+
 .logo {
 	margin: 0 auto;
+	padding-top: 12rem;
 	max-width: 300px;
 }
 
@@ -151,8 +165,13 @@ main {
 
 article {
 	margin-bottom: 4rem;
-	padding: 3rem 2rem;
+	padding: 2rem 2rem;
 	border-bottom: 2px solid #669966;
+}
+
+.featured-image {
+	width: 100%;
+	margin-bottom: 2rem;
 }
 
 .meta-box {
@@ -175,6 +194,28 @@ article {
 	font-size: 2rem;
 }
 
+.categories {
+	display: -webkit-box;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-pack: justify;
+	    -ms-flex-pack: justify;
+	        justify-content: space-between;
+}
+
+.categories .category-box {
+	-webkit-box-flex: 0;
+	    -ms-flex: 0 0 auto;
+	        flex: 0 0 auto;
+	width: 24%;
+	min-height: 200px;
+	background-color: #669966;
+}
+
+.categories .category-box a {
+	color: white;
+}
+
 aside {
 	-webkit-box-flex: 0;
 	    -ms-flex: 0 0 auto;
@@ -192,20 +233,20 @@ aside {
 	clear: both;
 	font-size: 1.6rem;
 	padding: 2rem 1rem;
-	border-bottom: 2px solid #ff6633;
+	border-bottom: 2px solid #cc6699;
 }
 
 .sidebar-tax {
 	clear: both;
 	padding: 1rem;
-	border-bottom: 2px solid #ff6633;
+	border-bottom: 2px solid #cc6699;
 	margin-bottom: 2rem;
 }
 
 .sidebar-tax a {
-	font-family: "Bodedo", "Bodoni", sans-serif;
 	text-decoration: none;
-	font-size: 3rem;
+	font-size: 2rem;
+	line-height: 2.4rem;
 }
 
 @media screen and (max-width: 1000px) {
@@ -287,6 +328,7 @@ h1, h2, h3, h4, h5, h6 {
 	font-weight: 100;
 	font-family: "Bodedo", "Bodoni", sans-serif;
 	color: #669966;
+	margin-bottom: 2rem;
 }
 
 h1 {
@@ -299,7 +341,7 @@ h1 {
 h2 {
 	font-size: 3.2rem;
 	font-weight: 100;
-	margin-bottom: 1rem;
+	margin-bottom: 2rem;
 }
 
 h3 {
@@ -309,7 +351,7 @@ h3 {
 }
 
 a {
-	color: #ff6633;
+	color: #cc6699;
 }
 
 p {
