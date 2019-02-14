@@ -1,15 +1,32 @@
 header {
-	max-width: 1200px;
-	margin: 2rem auto;
-	padding-top: 5rem;
+	//max-width: 1200px;
+	//margin: 2rem auto;
+	//padding-top: 5rem;
+	width: 100%;
 }
 
 .banner {
 	width: 100%;
 }
 
+.overlay {
+	background: center / cover url('/img/flowers.jpg');
+	display: block;
+	position: relative;
+	min-height: 350px;
+	overflow: hidden;
+
+	.pattern {
+		display: block;
+		width: 101%;
+		position: absolute;
+		bottom: -1px;
+	}
+}
+
 .logo {
 	margin: 0 auto;
+	padding-top: 12rem;
 	max-width: 300px;
 }
 
@@ -27,8 +44,13 @@ main {
 
 article {
 	margin-bottom: 4rem;
-	padding: 3rem 2rem;
+	padding: 2rem 2rem;
 	border-bottom: 2px solid $color__green;
+}
+
+.featured-image {
+	width: 100%;
+	margin-bottom: 2rem;
 }
 
 .meta-box {
@@ -52,6 +74,21 @@ article {
 .copy-box {
 
 }
+.categories {
+	display: flex;
+	justify-content: space-between;
+
+	.category-box {
+		flex: 0 0 auto;
+		width: 24%;
+		min-height: 200px;
+		background-color: $color__green;
+
+	a {
+		color: white;
+		}
+	}
+}
 
 aside {
 	flex: 0 0 auto;
@@ -66,17 +103,17 @@ aside {
 	clear: both;
 	font-size: 1.6rem;
 	padding: 2rem 1rem;
-	border-bottom: 2px solid $color__orange;
+	border-bottom: 2px solid $color__pink;
 }
 .sidebar-tax {
 	clear: both;
 	padding: 1rem;
-	border-bottom: 2px solid $color__orange;
+	border-bottom: 2px solid $color__pink;
 	margin-bottom: 2rem;
 	a {
-		font-family: $font__display;
 		text-decoration: none;
-		font-size: 3rem;
+		font-size: 2rem;
+		line-height: 2.4rem;
 	}
 }
 
