@@ -27,8 +27,8 @@ gulp.task('javascript', function() {
 });
 
 gulp.task('watch', function() {
-	gulp.watch('themes/dill/assets/sass/*.scss', ['styles']);
+	gulp.watch('themes/dill/assets/sass/*.scss', gulp.series('styles'));
 	//gulp.watch('themes/dill/static/js/*.js', ['javascript']);
 });
 
-gulp.task('default', ['watch']);
+gulp.task('default', gulp.series('watch'));
