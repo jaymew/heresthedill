@@ -12,7 +12,7 @@ I’ve always worked in a garden and I’ve constantly been curious to the why b
 <ul id="all-tags">
     {{ range $name, $taxonomy := .Site.Taxonomies.categories }}
         {{ with $.Site.GetPage (printf "/categories/%s" $name) }}
-            <li><a href="{{ .Permalink }}">{{ $name }}</a></li>
+            <li><a href="{{ .Permalink }}">{{ $name }}</a></li> 
         {{ end }}
     {{ end }}
 </ul>
