@@ -4,7 +4,7 @@ date: 2019-03-11T12:00:00.000Z
 categories: 'List [ "Thoughts" ] ["Germany"]'
 ---
 Living in Germany has its difficulties, particularly as a non-native speaker. In an ideal world I would be able to find and apply everything I preach but that can be challenging. The most obvious is language. I don’t know all the German terminology associated with gardening; it’s learn-as-you-go. This can be annoying since I don’t even possess the common knowledge of where to find certain products like I do in the States, not to mention not knowing the names of the products. 
-![](/img/uploads/)
+![](/img/uploads/imag1015.jpg)
 For example, where can one find speciality spring bulbs? In the US, I can instantly name a few familiar nurseries (Brent & Becky’s, Burpee, Spring Hill, Gurney’s, etc) and then rank them in speciality, quality and expense to decide which nursery to order from.
 
 Now, tell me, where I can buy spring bulbs in Germany? 
