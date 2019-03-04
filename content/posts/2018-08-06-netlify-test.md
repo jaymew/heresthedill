@@ -1,15 +1,31 @@
 ---
-title: Balkongarten
-date: 2018-08-06T13:37:04.300Z
-categories:
-  - Balkongarten
+title: Challenges with the German Language
+date: 2019-03-11T12:00:00.000Z
+categories: 'List [ "Thoughts" ] ["Germany"]'
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse et dui dictum metus aliquet dictum. Phasellus tristique odio et nibh porta, sed fringilla dolor consequat. Fusce tristique purus quis semper lobortis. Morbi in pharetra tortor. Proin sagittis turpis at volutpat elementum. Phasellus eget massa nibh. Nam rutrum ligula quis ante egestas tempus. Phasellus velit quam, molestie vehicula rhoncus ut, auctor vel ipsum. Nullam id sodales nisl. Integer rhoncus bibendum risus. Cras malesuada mauris et sem bibendum, non pharetra nunc pulvinar. Nam egestas euismod dui et dictum.
+Living in Germany has its difficulties, particularly as a non-native speaker. In an ideal world I would be able to find and apply everything I preach but that can be challenging. The most obvious is language. I don’t know all the German terminology associated with gardening; it’s learn-as-you-go. This can be annoying since I don’t even possess the common knowledge of where to find certain products like I do in the States, not to mention not knowing the names of the products. 
+![](IMAG1015.jpg)
+For example, where can one find speciality spring bulbs? In the US, I can instantly name a few familiar nurseries (Brent & Becky’s, Burpee, Spring Hill, Gurney’s, etc) and then rank them in speciality, quality and expense to decide which nursery to order from.
 
-![](/img/uploads/p7270087.jpg)
+Now, tell me, where I can buy spring bulbs in Germany? 
 
+Let’s walk through the process.
 
+The literal translation for spring bulb is Frühlingszwiebel but Zwiebel also means onion. Search ‘Frühlingszwiebel’ brings up sites selling green onion bulbs.
 
-Fusce quis diam ut nunc faucibus consectetur. Cras nec accumsan ante, ornare euismod lectus. In venenatis nunc hendrerit mi pulvinar laoreet. Quisque porta dignissim arcu, ac dignissim urna imperdiet vel. Maecenas arcu ligula, convallis eget varius vitae, pharetra sed tortor. In hac habitasse platea dictumst. Maecenas orci odio, faucibus a justo eu, mattis pulvinar orci. Suspendisse vestibulum vulputate dolor nec mollis. Ut cursus tincidunt mauris, in fermentum neque ultrices eu. Suspendisse felis urna, malesuada at metus congue, tristique cursus felis. In hac habitasse platea dictumst. Proin id ligula vel lorem commodo ornare. Cras imperdiet felis non libero porttitor, sed feugiat metus hendrerit. Quisque quis fermentum diam. Vestibulum at vulputate justo.
+Think of a specific spring bulb in order to refine the search, Tulip. What’s the German name? Translation site, Tulpe, search, first result a company named Albrecht Hoch.de, looks like a nice spring bulb site, no mention of the word spring bulb.
 
-Quisque arcu sapien, malesuada vitae eros sed, semper lacinia nisi. Suspendisse pulvinar metus id felis scelerisque egestas. Nunc a efficitur nunc, vel faucibus odio. Aenean aliquet nisi placerat commodo gravida. Aliquam erat volutpat. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Vivamus auctor tortor mauris, nec scelerisque nisl fermentum at. Aenean justo nisi, lacinia sed turpis ac, egestas volutpat elit. Quisque dignissim neque at maximus sodales. Ut imperdiet tellus dolor, ut faucibus purus sollicitudin quis. Proin eget bibendum nisl. Pellentesque mollis ultrices ultricies. Mauris sit amet posuere tellus. Fusce vel mi quis sem suscipit gravida ac nec velit. In.
+Next result, Samen Mauser.ch, a Swiss site. Can’t easily order from there since it’s out of the country and currency but lists Blumenzwiebel. Of course! Flowering bulb! Why didn’t I think of that? Type in Blumenzwiebel, search, finally multiple results. 
+
+Now, it’s time to sort through and rank which nurseries are best to order from. Start next research process.
+
+Most of the time it’s fun to research and learn the German name of a plant. A favorite of mine is Stiefmütterchen which translates ‘little step mother’ for pansies _Viola tricolor hortensis_ and Fingerhut, ‘finger hat’ foxglove _Digitalis purpurea_.
+
+But it’s also a pain when I want to quickly look something up, or if I’m in a store trying to decipher a label. Not only do I need to learn the new word I have to retain it, something I’m not the best at. 
+
+A huge hurdle when learning German is memorizing words. I’m terrible! And yet, I love learning the language. I’m not entirely sure why: it’s not the prettiest to listen to, although I’d argue it’s not as ugly as most make it out to be. Many examples Americans hear are in anger, which emphasizes the harshness of the language, but in everyday speech it’s pleasant. The grammar is difficult, to put it mildly. It’s frustrating when you don’t understand a rule but so satisfying once you finally do and can move on to the next frustrating one. It’s definitely a love-hate relationship.
+
+The owner of the garden constantly has to repeat the German names of the plants in the garden. I’ve started to think I should start labeling them with hanging tags in order to memorize everything. Can you imagine seeing large brightly colored tags with bold names hanging off of everything in a garden? 
+
+Although— I am attempting to memorize latin names too since it’s the international identification language. This might not be a bad idea. I think I might just become that crazy American this weekend who labels everything.
+ ![](/img/uploads/p7270087.jpg)
