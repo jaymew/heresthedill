@@ -19,3 +19,5 @@ It started around the age of 9 watching my dad turn an overgrown 1.5 acre (0.6 h
 I didn’t realize that every time I visited home from college or when I got my first professional job further away I was always drawn back to my garden. During college I even planted spring bulbs in front of the house my roommates and I occupied. It wasn’t until I moved from Ohio to southern Germany how much I craved needing to be in one. My lifeline was cut; I could not on a whim visit my parents and work in the garden. I didn’t realize how much I relied on gardening to reduce stress and no matter how much you prepare, moving halfway across the world is a fairly stressful event.
 
 I’ve been living in Germany for over 2 years and have since created a balcony garden and recently starting working in an allotment garden thanks to a kind member of the community. On Here’s the Dill I hope to share my successes and failures of organic gardening along with any interesting topics about agriculture or ecological interactions occurring within a garden. Together we’ll become better gardeners and more conscious citizens of the world!
+![](img/uploads/imag1495.jpg)
+
