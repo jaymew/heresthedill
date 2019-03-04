@@ -1,12 +1,19 @@
 ---
-title: "Here's the Dill is almost here"
-date: 2018-08-05T16:24:49-05:00
-draft: false
+title: Welcome to Here's the Dill!
+date: 2019-03-04T22:24:49.000Z
 categories:
-- Thoughts
+  - Thoughts
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse et dui dictum metus aliquet dictum. Phasellus tristique odio et nibh porta, sed fringilla dolor consequat. Fusce tristique purus quis semper lobortis. Morbi in pharetra tortor. Proin sagittis turpis at volutpat elementum. Phasellus eget massa nibh. Nam rutrum ligula quis ante egestas tempus. Phasellus velit quam, molestie vehicula rhoncus ut, auctor vel ipsum. Nullam id sodales nisl. Integer rhoncus bibendum risus. Cras malesuada mauris et sem bibendum, non pharetra nunc pulvinar. Nam egestas euismod dui et dictum.
+My name is Jayme and I recently discovered my passion for gardening or rather in plants and their interactions within the world. 
 
-Fusce quis diam ut nunc faucibus consectetur. Cras nec accumsan ante, ornare euismod lectus. In venenatis nunc hendrerit mi pulvinar laoreet. Quisque porta dignissim arcu, ac dignissim urna imperdiet vel. Maecenas arcu ligula, convallis eget varius vitae, pharetra sed tortor. In hac habitasse platea dictumst. Maecenas orci odio, faucibus a justo eu, mattis pulvinar orci. Suspendisse vestibulum vulputate dolor nec mollis. Ut cursus tincidunt mauris, in fermentum neque ultrices eu. Suspendisse felis urna, malesuada at metus congue, tristique cursus felis. In hac habitasse platea dictumst. Proin id ligula vel lorem commodo ornare. Cras imperdiet felis non libero porttitor, sed feugiat metus hendrerit. Quisque quis fermentum diam. Vestibulum at vulputate justo.
+I studied biology with a specialization in marine and aquatic biology thinking I wanted to research coral reef ecosystems— thank you Blue Planet and Discovery Channel. But it wasn’t until I started moving further away from home that I realized what I my true interests were, digging in the garden. 
 
-Quisque arcu sapien, malesuada vitae eros sed, semper lacinia nisi. Suspendisse pulvinar metus id felis scelerisque egestas. Nunc a efficitur nunc, vel faucibus odio. Aenean aliquet nisi placerat commodo gravida. Aliquam erat volutpat. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Vivamus auctor tortor mauris, nec scelerisque nisl fermentum at. Aenean justo nisi, lacinia sed turpis ac, egestas volutpat elit. Quisque dignissim neque at maximus sodales. Ut imperdiet tellus dolor, ut faucibus purus sollicitudin quis. Proin eget bibendum nisl. Pellentesque mollis ultrices ultricies. Mauris sit amet posuere tellus. Fusce vel mi quis sem suscipit gravida ac nec velit. In.
+On this journey I hope to go from a knowledgeable gardener to full out nerdy expert and share my geeky gardening tendencies with others who have the same passion. This is a space to gain a deeper understanding of the natural processes occurring in your garden. I’ll also explore agricultural and environmental topics surrounding plants in order to understand world wide conversations over climate change and what we as individuals can do to help.
+
+Without further ado, Welcome to Here’s the Dill!
+
+It started around the age of 9 watching my dad turn an overgrown 1.5 acre (0.6 hectare) plot of land into lawn and a series of garden beds. He worked hard digging out forgotten stumps located within a thorny, thistly, poison ivy stricken meadow and I got to help. Saturday and Sunday mornings were spent watching gardening programs with my parents on HGTV; you know when the Home and GARDENING Network used to air gardening shows. (Can you tell I was a nerdy kid?) Anyhow, one rainy spring morning, I asked him if I could have a garden bed, thinking he wouldn’t take me seriously I went upstairs to play. But within a few minutes he went out into the drizzling rain and dug a small egg shaped bed around a tiny flowering crabapple tree and a patch of peonies. Over the years the bed expanded as I stole one of my mom’s neighboring garden beds and unbeknownst to me, so was my passion for being in the garden. 
+
+I didn’t realize that every time I visited home from college or when I got my first professional job further away I was always drawn back to my garden. During college I even planted spring bulbs in front of the house my roommates and I occupied. It wasn’t until I moved from Ohio to southern Germany how much I craved needing to be in one. My lifeline was cut; I could not on a whim visit my parents and work in the garden. I didn’t realize how much I relied on gardening to reduce stress and no matter how much you prepare, moving halfway across the world is a fairly stressful event.
+
+I’ve been living in Germany for over 2 years and have since created a balcony garden and recently starting working in an allotment garden thanks to a kind member of the community. On Here’s the Dill I hope to share my successes and failures of organic gardening along with any interesting topics about agriculture or ecological interactions occurring within a garden. Together we’ll become better gardeners and more conscious citizens of the world! 
