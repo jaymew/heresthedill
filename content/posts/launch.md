@@ -4,6 +4,7 @@ date: 2019-03-04T15:21:00.000Z
 categories:
   - Thoughts
 ---
+![](img/uploads/
 My name is Jayme and I recently discovered my passion for gardening or rather in plants and their interactions within the world. 
 
 I studied biology with a specialization in marine and aquatic biology thinking I wanted to research coral reef ecosystems— thank you Blue Planet and Discovery Channel. But it wasn’t until I started moving further away from home that I realized what I my true interests were, digging in the garden. 
