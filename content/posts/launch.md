@@ -20,4 +20,4 @@ I didn’t realize that every time I visited home from college or when I got my 
 
 I’ve been living in Germany for over 2 years and have since created a balcony garden and recently starting working in an allotment garden thanks to a kind member of the community. On Here’s the Dill I hope to share my successes and failures of organic gardening along with any interesting topics about agriculture or ecological interactions occurring within a garden. Together we’ll become better gardeners and more conscious citizens of the world!
 
-{{< figure src="img/uploads/imag1495.jpg" alt="The author on her flower balcony" caption="The author in her Balkongarten" >}}
+{{< figure src="/img/uploads/imag1495.jpg" alt="The author on her flower balcony" caption="The author in her Balkongarten" >}}
