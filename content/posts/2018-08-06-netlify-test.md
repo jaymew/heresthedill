@@ -4,7 +4,9 @@ date: 2019-03-08T16:02:00.000Z
 categories: 'List [ "Thoughts" ] ["Germany"]'
 ---
 Living in Germany has its difficulties, particularly as a non-native speaker. In an ideal world I would be able to find and apply everything I preach but that can be challenging. The most obvious is language. I don’t know all the German terminology associated with gardening; it’s learn-as-you-go. This can be annoying since I don’t even possess the common knowledge of where to find certain products like I do in the States, not to mention not knowing the names of the products. 
-![](/img/uploads/imag1015.jpg)
+
+{{<figure src="/img/uploads/imag1015.jpg" alt="Stone Goblin on Steigstraße with Meersburg Castle on high hill in background" caption="Steigstraße, Meersburg Germany" width="500">}}
+
 For example, where can one find speciality spring bulbs? In the US, I can instantly name a few familiar nurseries (Brent & Becky’s, Burpee, Spring Hill, Gurney’s, etc) and then rank them in speciality, quality and expense to decide which nursery to order from.
 
 Now, tell me, where I can buy spring bulbs in Germany? 
@@ -20,6 +22,8 @@ Next result, Samen Mauser.ch, a Swiss site. Can’t easily order from there sinc
 Now, it’s time to sort through and rank which nurseries are best to order from. Start next research process.
 
 Most of the time it’s fun to research and learn the German name of a plant. A favorite of mine is Stiefmütterchen which translates ‘little step mother’ for pansies _Viola tricolor hortensis_ and Fingerhut, ‘finger hat’ foxglove _Digitalis purpurea_.
+
+{{<figure src="/b64bdf33-7ef9-4af2-a61c-7d72a0a82db0" alt="Red Pansies Viola tricolor hortensis on Balkongarten" caption="_Viola tricolor hortensis_" width="500">}}
 
 But it’s also a pain when I want to quickly look something up, or if I’m in a store trying to decipher a label. Not only do I need to learn the new word I have to retain it, something I’m not the best at. 
 
