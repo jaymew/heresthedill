@@ -31,6 +31,8 @@ But it’s also a pain when I want to quickly look something up, or if I’m in 
 
 A huge hurdle when learning German is memorizing words. I’m terrible! And yet, I love learning the language. I’m not entirely sure why: it’s not the prettiest to listen to, although I’d argue it’s not as ugly as most make it out to be. Many examples Americans hear are in anger, which emphasizes the harshness of the language, but in everyday speech it’s pleasant. The grammar is difficult, to put it mildly. It’s frustrating when you don’t understand a rule but so satisfying once you finally do and can move on to the next frustrating one. It’s definitely a love-hate relationship.
 
+{{<figure src="/80b6359c-6ba2-4530-b0c6-47e9543c6256" alt="Meme depicting frustration of learning You forms in German" width="500">}}
+
 The owner of the garden constantly has to repeat the German names of the plants in the garden. I’ve started to think I should start labeling them with hanging tags in order to memorize everything. Can you imagine seeing large brightly colored tags with bold names hanging off of everything in a garden? 
 
 Although— I am attempting to memorize latin names too since it’s the international identification language. This might not be a bad idea. I think I might just become that crazy American this weekend who labels everything.
