@@ -6,7 +6,7 @@ categories:
 ---
 My name is Jayme and I recently discovered my passion for gardening or rather in plants and their interactions within the world. 
 
-{{<figure src="blob:https://seerhein-website-club-2018-jayme.netlify.com/b00b2389-2eb0-40cf-ab8f-6d91458c73a7" alt="Author hiking Säntis Switzerland landscape view in background" width="500">}}
+{{<figure src="blob:https://seerhein-website-club-2018-jayme.netlify.com/b00b2389-2eb0-40cf-ab8f-6d91458c73a7" alt="Author hiking Säntis Switzerland landscape view in background" caption="Säntis Switzerland Hike" width="500">}}
 
 I studied biology with a specialization in marine and aquatic biology thinking I wanted to research coral reef ecosystems— thank you Blue Planet and Discovery Channel. But it wasn’t until I started moving further away from home that I realized what I my true interests were, digging in the garden. 
 
