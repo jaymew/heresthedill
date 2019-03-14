@@ -23,7 +23,7 @@ Now, it’s time to sort through and rank which nurseries are best to order from
 
 Most of the time it’s fun to research and learn the German name of a plant. A favorite of mine is Stiefmütterchen which translates ‘little step mother’ for pansies _Viola tricolor hortensis_ and Fingerhut, ‘finger hat’ foxglove _Digitalis purpurea_.
 
-{{<figure src="/b64bdf33-7ef9-4af2-a61c-7d72a0a82db0" alt="Red Pansies Viola tricolor hortensis on Balkongarten" caption="_Viola tricolor hortensis_" width="500">}}
+{{<figure src="/img/uploads/img_20170321_132638_674.jpg" alt="Red Pansies Viola tricolor hortensis on Balkongarten" caption="_Viola tricolor hortensis_" width="500">}}
 
 But it’s also a pain when I want to quickly look something up, or if I’m in a store trying to decipher a label. Not only do I need to learn the new word I have to retain it, something I’m not the best at. 
 
