@@ -119,17 +119,31 @@ variables
 structure
 --------------------------------------------------------------*/
 header {
-	max-width: 1200px;
-	margin: 2rem auto;
-	padding-top: 5rem;
+	width: 100%;
 }
 
 .banner {
 	width: 100%;
 }
 
+.overlay {
+	background: center/cover url("/img/flowers.jpg");
+	display: block;
+	position: relative;
+	min-height: 350px;
+	overflow: hidden;
+}
+
+.overlay .pattern {
+	display: block;
+	width: 101%;
+	position: absolute;
+	bottom: -1px;
+}
+
 .logo {
 	margin: 0 auto;
+	padding-top: 12rem;
 	max-width: 300px;
 }
 
@@ -150,9 +164,51 @@ main {
 }
 
 article {
+	clear: both;
 	margin-bottom: 4rem;
-	padding: 3rem 2rem;
+	padding: 2rem 2rem;
 	border-bottom: 2px solid #669966;
+	overflow: auto;
+}
+
+img {
+	max-width: 100%;
+}
+
+figure {
+	max-width: 100%;
+}
+
+.alignleft {
+	clear: left;
+	margin-left: 0;
+	float: left;
+	max-width: 30%;
+}
+
+.alignright {
+	clear: right;
+	margin-right: 0;
+	float: right;
+	max-width: 30%;
+}
+
+@media screen and (max-width: 500px) {
+	.alignleft {
+		margin: 0;
+		clear: both;
+		max-width: 100%;
+	}
+	.alignright {
+		margin: 0;
+		clear: both;
+		max-width: 100%;
+	}
+}
+
+.featured-image {
+	width: 100%;
+	margin-bottom: 2rem;
 }
 
 .meta-box {
@@ -175,6 +231,49 @@ article {
 	font-size: 2rem;
 }
 
+.categories {
+	display: -webkit-box;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-pack: justify;
+	    -ms-flex-pack: justify;
+	        justify-content: space-between;
+}
+
+.category-box {
+	-webkit-box-flex: 0;
+	    -ms-flex: 0 0 auto;
+	        flex: 0 0 auto;
+	width: 24%;
+	min-height: 200px;
+	background-color: #669966;
+	text-align: center;
+}
+
+.category-box a {
+	text-decoration: none;
+}
+
+.category-link {
+	display: block;
+	background-color: rgba(0, 0, 0, 0);
+	width: 100%;
+	height: 100%;
+}
+
+.category-link:hover {
+	background-color: rgba(0, 0, 0, 0.5);
+}
+
+.category-title {
+	width: 100%;
+	display: block;
+	position: relative;
+	top: 45%;
+	color: white;
+	font-size: 2rem;
+}
+
 aside {
 	-webkit-box-flex: 0;
 	    -ms-flex: 0 0 auto;
@@ -192,20 +291,20 @@ aside {
 	clear: both;
 	font-size: 1.6rem;
 	padding: 2rem 1rem;
-	border-bottom: 2px solid #ff6633;
+	border-bottom: 2px solid #cc6699;
 }
 
 .sidebar-tax {
 	clear: both;
 	padding: 1rem;
-	border-bottom: 2px solid #ff6633;
+	border-bottom: 2px solid #cc6699;
 	margin-bottom: 2rem;
 }
 
 .sidebar-tax a {
-	font-family: "Bodedo", "Bodoni", sans-serif;
 	text-decoration: none;
-	font-size: 3rem;
+	font-size: 2rem;
+	line-height: 2.4rem;
 }
 
 @media screen and (max-width: 1000px) {
@@ -239,26 +338,24 @@ footer {
 /*--------------------------------------------------------------
 nav
 --------------------------------------------------------------*/
-.navigation {
+.main-navigation {
 	display: block;
 	padding: 1rem 1rem 0 0;
 }
 
-.menu {
-	display: -webkit-box;
-	display: -ms-flexbox;
-	display: flex;
+.main-navigation ul {
+	display: none;
 	-webkit-box-pack: center;
 	    -ms-flex-pack: center;
 	        justify-content: center;
 	padding: 2rem 0;
 }
 
-.menu li {
+.main-navigation ul li {
 	padding-right: 1rem;
 }
 
-.menu li a {
+.main-navigation ul li a {
 	display: block;
 	width: 100%;
 	height: 100%;
@@ -269,10 +366,36 @@ nav
 	text-decoration: none;
 }
 
-.menu li a:hover {
+.main-navigation ul li a:hover {
 	color: #669966;
 	-webkit-transform: rotate(5deg);
 	        transform: rotate(5deg);
+}
+
+/* Small menu. */
+.main-navigation button {
+	border-radius: none;
+	width: 100%;
+	border: none;
+	padding: 1rem;
+	color: #cc6699;
+	background-color: #eee;
+}
+
+.menu-toggle,
+.main-navigation.toggled ul {
+	display: block;
+}
+
+@media screen and (min-width: 699px) {
+	.menu-toggle {
+		display: none;
+	}
+	.main-navigation ul {
+		display: -webkit-box;
+		display: -ms-flexbox;
+		display: flex;
+	}
 }
 
 /*--------------------------------------------------------------
@@ -287,6 +410,7 @@ h1, h2, h3, h4, h5, h6 {
 	font-weight: 100;
 	font-family: "Bodedo", "Bodoni", sans-serif;
 	color: #669966;
+	margin-bottom: 2rem;
 }
 
 h1 {
@@ -299,7 +423,7 @@ h1 {
 h2 {
 	font-size: 3.2rem;
 	font-weight: 100;
-	margin-bottom: 1rem;
+	margin-bottom: 2rem;
 }
 
 h3 {
@@ -309,7 +433,7 @@ h3 {
 }
 
 a {
-	color: #ff6633;
+	color: #cc6699;
 }
 
 p {
@@ -335,6 +459,32 @@ p {
 .cat-list li {
 	float: left;
 	padding: 0 1rem;
+}
+
+em {
+	font-style: italic;
+}
+
+strong {
+	font-weight: bold;
+}
+
+blockquote {
+	margin: 2rem;
+	color: #cc6699;
+}
+
+blockquote p {
+	font-style: italic;
+	font-weight: 100;
+	font-size: 3rem;
+	line-height: normal;
+}
+
+figcaption p {
+	font-size: 1.2rem;
+	font-style: italic;
+	color: #669966;
 }
 
 /*--------------------------------------------------------------

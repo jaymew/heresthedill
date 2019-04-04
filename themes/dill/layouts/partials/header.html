@@ -9,8 +9,9 @@
 			</div>
 			<img class="pattern" src="/img/banner.svg">
 		</div>
-		<nav class="navigation">
-				<ul class="menu">
+		<nav id="site-navigation" class="main-navigation">
+			<button class="menu-toggle" aria-controls="primary-menu" aria-expanded="false">Main Menu</button>
+				<ul id="primary-menu" class="menu nav-menu" aria-expanded="false">
 					{{ range .Site.Menus.main }}
 						<li><a href="{{ .URL | relURL }}">{{ .Name }}{{ .Pre }}</a></li>
 					{{ end }}

@@ -3,8 +3,12 @@
 <main>
   <div class="categories">
     {{ range (where .Data.Pages "Section" "!=" "") }}
-        <div class="category-box">
-        <a href="{{ .URL }}">{{ .Title }}</a>
+      <div class="category-box" style="background: top right / cover url('{{ .Params.featured_image }}') #eee;">
+        <a href="{{ .URL }}">
+          <div class="category-link">
+            <div class="category-title">{{ .Title }}</div>
+          </div>
+        </a>
       </div>
     {{ end }}
     </div>

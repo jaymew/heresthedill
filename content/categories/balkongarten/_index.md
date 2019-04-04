@@ -1,4 +1,4 @@
 ---
 title: "Balkongarten"
-featured_image: ""
+featured_image: "/img/uploads/balkongarten.jpg"
 ---

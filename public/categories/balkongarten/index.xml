@@ -2,34 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Balkongarten on Here&#39;s the Dill</title>
-    <link>http://heresthedill.com/categories/balkongarten/</link>
+    <link>http://seerhein-website-club-2018-jayme.netlify.com/categories/balkongarten/</link>
     <description>Recent content in Balkongarten on Here&#39;s the Dill</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 01 Nov 2018 17:22:25 +0100</lastBuildDate>
     
-	<atom:link href="http://heresthedill.com/categories/balkongarten/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://seerhein-website-club-2018-jayme.netlify.com/categories/balkongarten/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Fall is here, with a new article!</title>
-      <link>http://heresthedill.com/posts/soil-intro/</link>
-      <pubDate>Thu, 01 Nov 2018 17:22:25 +0100</pubDate>
-      
-      <guid>http://heresthedill.com/posts/soil-intro/</guid>
-      <description>Hi everyone! I hope you&amp;rsquo;re having an amazing week! The weather finally turned here in Konstanz: the temperature is dropping, the leaves are changing—Herbst hat angekommen! I snapped a photo for you below!
-Anyway, I&amp;rsquo;ve been working on a new series of articles about soil, and I just posted the first one! You can read it here!
-  View this post on Instagram        Autumn colors in the garden.</description>
-    </item>
-    
-    <item>
-      <title>Balkongarten</title>
-      <link>http://heresthedill.com/posts/2018-08-06-netlify-test/</link>
-      <pubDate>Mon, 06 Aug 2018 13:37:04 +0000</pubDate>
-      
-      <guid>http://heresthedill.com/posts/2018-08-06-netlify-test/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse et dui dictum metus aliquet dictum. Phasellus tristique odio et nibh porta, sed fringilla dolor consequat. Fusce tristique purus quis semper lobortis. Morbi in pharetra tortor. Proin sagittis turpis at volutpat elementum. Phasellus eget massa nibh. Nam rutrum ligula quis ante egestas tempus. Phasellus velit quam, molestie vehicula rhoncus ut, auctor vel ipsum. Nullam id sodales nisl. Integer rhoncus bibendum risus. Cras malesuada mauris et sem bibendum, non pharetra nunc pulvinar.</description>
-    </item>
     
   </channel>
 </rss>

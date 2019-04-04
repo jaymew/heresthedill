@@ -2,61 +2,61 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on Here&#39;s the Dill</title>
-    <link>http://heresthedill.com/</link>
+    <link>http://seerhein-website-club-2018-jayme.netlify.com/</link>
     <description>Recent content in Home on Here&#39;s the Dill</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 05 Aug 2018 16:04:30 -0500</lastBuildDate>
     
-	<atom:link href="http://heresthedill.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://seerhein-website-club-2018-jayme.netlify.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Fall is here, with a new article!</title>
-      <link>http://heresthedill.com/posts/soil-intro/</link>
-      <pubDate>Thu, 01 Nov 2018 17:22:25 +0100</pubDate>
+      <title>Challenges with the German Language</title>
+      <link>http://seerhein-website-club-2018-jayme.netlify.com/posts/2018-08-06-netlify-test/</link>
+      <pubDate>Fri, 08 Mar 2019 16:02:00 +0000</pubDate>
       
-      <guid>http://heresthedill.com/posts/soil-intro/</guid>
-      <description>Hi everyone! I hope you&amp;rsquo;re having an amazing week! The weather finally turned here in Konstanz: the temperature is dropping, the leaves are changing—Herbst hat angekommen! I snapped a photo for you below!
-Anyway, I&amp;rsquo;ve been working on a new series of articles about soil, and I just posted the first one! You can read it here!
-  View this post on Instagram        Autumn colors in the garden.</description>
+      <guid>http://seerhein-website-club-2018-jayme.netlify.com/posts/2018-08-06-netlify-test/</guid>
+      <description>Living in Germany has its difficulties, particularly as a non-native speaker. In an ideal world I would be able to find and apply everything I preach but that can be challenging. The most obvious is language. I don’t know all the German terminology associated with gardening; it’s learn-as-you-go. This can be annoying since I don’t even possess the common knowledge of where to find certain products like I do in the States, not to mention not knowing the names of the products.</description>
+    </item>
+    
+    <item>
+      <title>Welcome to Here&#39;s the Dill!</title>
+      <link>http://seerhein-website-club-2018-jayme.netlify.com/posts/launch/</link>
+      <pubDate>Mon, 04 Mar 2019 15:21:00 +0000</pubDate>
+      
+      <guid>http://seerhein-website-club-2018-jayme.netlify.com/posts/launch/</guid>
+      <description>My name is Jayme and I recently discovered my passion for gardening or rather in plants and their interactions within the world.
+   Säntis Switzerland Hike   I studied biology with a specialization in marine and aquatic biology thinking I wanted to research coral reef ecosystems— thank you Blue Planet and Discovery Channel. But it wasn’t until I started moving further away from home that I realized what I my true interests were, digging in the garden.</description>
+    </item>
+    
+    <item>
+      <title>Cycling</title>
+      <link>http://seerhein-website-club-2018-jayme.netlify.com/posts/cycling/</link>
+      <pubDate>Thu, 14 Feb 2019 12:40:11 +0100</pubDate>
+      
+      <guid>http://seerhein-website-club-2018-jayme.netlify.com/posts/cycling/</guid>
+      <description>Bicycling is one of my favorite things about living in Germany. There are clearly marked lanes specifically for bicyclists and should you accidently wander into one you will be reminded by angry shouts and ringing bells or- simply run over.
+Motorists, the majority of the time, are fairly respectful of bikes at least in the city I live in. But there is one major downside when you don’t have a car and that is space and weight.</description>
     </item>
     
     <item>
       <title>Understanding your soil, Part 1: Seed Compost</title>
-      <link>http://heresthedill.com/articles/soil1/</link>
+      <link>http://seerhein-website-club-2018-jayme.netlify.com/articles/soil1/</link>
       <pubDate>Thu, 01 Nov 2018 16:57:13 +0100</pubDate>
       
-      <guid>http://heresthedill.com/articles/soil1/</guid>
+      <guid>http://seerhein-website-club-2018-jayme.netlify.com/articles/soil1/</guid>
       <description>One thing I realized recently while learning how to container garden is that I could have a better understanding of soil and the different types available. Sure, I can go to a garden center and blindly pick soil based on the pictures on the bags, but I want to be an active thinker when it comes to the garden and understand the why behind it.
 Let’s start from the beginning, with seeds.</description>
     </item>
     
     <item>
       <title>About</title>
-      <link>http://heresthedill.com/about/</link>
+      <link>http://seerhein-website-club-2018-jayme.netlify.com/about/</link>
       <pubDate>Tue, 14 Aug 2018 15:25:08 -0500</pubDate>
       
-      <guid>http://heresthedill.com/about/</guid>
+      <guid>http://seerhein-website-club-2018-jayme.netlify.com/about/</guid>
       <description>Jayme is a American living in southern Germany who didn’t realize what her interests were until moving halfway across the world. Severed from her tiny garden in Ohio she has created this website to explore if her nerdy interest in plants and their interactions within the world is where her passion lies. On this journey she hopes to go from a knowledgeable gardener to full-out nerdy expert and share her geeky gardening tendencies with others who have the same passion.</description>
-    </item>
-    
-    <item>
-      <title>Balkongarten</title>
-      <link>http://heresthedill.com/posts/2018-08-06-netlify-test/</link>
-      <pubDate>Mon, 06 Aug 2018 13:37:04 +0000</pubDate>
-      
-      <guid>http://heresthedill.com/posts/2018-08-06-netlify-test/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse et dui dictum metus aliquet dictum. Phasellus tristique odio et nibh porta, sed fringilla dolor consequat. Fusce tristique purus quis semper lobortis. Morbi in pharetra tortor. Proin sagittis turpis at volutpat elementum. Phasellus eget massa nibh. Nam rutrum ligula quis ante egestas tempus. Phasellus velit quam, molestie vehicula rhoncus ut, auctor vel ipsum. Nullam id sodales nisl. Integer rhoncus bibendum risus. Cras malesuada mauris et sem bibendum, non pharetra nunc pulvinar.</description>
-    </item>
-    
-    <item>
-      <title>Here&#39;s the Dill is almost here</title>
-      <link>http://heresthedill.com/posts/launch/</link>
-      <pubDate>Sun, 05 Aug 2018 16:24:49 -0500</pubDate>
-      
-      <guid>http://heresthedill.com/posts/launch/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse et dui dictum metus aliquet dictum. Phasellus tristique odio et nibh porta, sed fringilla dolor consequat. Fusce tristique purus quis semper lobortis. Morbi in pharetra tortor. Proin sagittis turpis at volutpat elementum. Phasellus eget massa nibh. Nam rutrum ligula quis ante egestas tempus. Phasellus velit quam, molestie vehicula rhoncus ut, auctor vel ipsum. Nullam id sodales nisl. Integer rhoncus bibendum risus. Cras malesuada mauris et sem bibendum, non pharetra nunc pulvinar.</description>
     </item>
     
   </channel>

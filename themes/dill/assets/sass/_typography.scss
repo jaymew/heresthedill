@@ -56,3 +56,27 @@ p {
 		padding: 0 1rem;
 	}
 }
+
+em {
+	font-style: italic;
+}
+strong {
+	font-weight: bold;
+}
+blockquote {
+	margin: 2rem;
+	color: $color__pink;
+	p {
+		font-style: italic;
+		font-weight: 100;
+		font-size: 3rem;
+		line-height:normal;
+	}
+}
+figcaption {
+	p {
+		font-size: 1.2rem;
+		font-style: italic;
+		color: $color__green;
+	}
+}
