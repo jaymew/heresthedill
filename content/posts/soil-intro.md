@@ -11,7 +11,3 @@ Hi everyone! I hope you're having an amazing week! The weather finally turned he
 Anyway, I've been working on a new series of articles about soil, and I just posted the first one! You can read it [here](/articles/soil1)!
 
 {{< instagram BpZrEhHl93r >}}
-
-Here is a test of the blockquote function:
-
-> The two most important days in your life are the day you are born and the day you find out why.

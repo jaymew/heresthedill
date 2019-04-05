@@ -3,69 +3,80 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://seerhein-website-club-2018-jayme.netlify.com/posts/2018-08-06-netlify-test/</loc>
+    <loc>https://hereisthedill.com/posts/2018-08-06-netlify-test/</loc>
     <lastmod>2019-03-08T16:02:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://seerhein-website-club-2018-jayme.netlify.com/posts/launch/</loc>
+    <loc>https://hereisthedill.com/posts/launch/</loc>
     <lastmod>2019-03-04T15:21:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://seerhein-website-club-2018-jayme.netlify.com/posts/cycling/</loc>
+    <loc>https://hereisthedill.com/posts/cycling/</loc>
     <lastmod>2019-02-14T12:40:11+01:00</lastmod>
   </url>
   
   <url>
-    <loc>http://seerhein-website-club-2018-jayme.netlify.com/articles/soil1/</loc>
+    <loc>https://hereisthedill.com/posts/soil-intro/</loc>
+    <lastmod>2018-11-01T17:22:25+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hereisthedill.com/articles/soil1/</loc>
     <lastmod>2018-11-01T16:57:13+01:00</lastmod>
   </url>
   
   <url>
-    <loc>http://seerhein-website-club-2018-jayme.netlify.com/about/</loc>
+    <loc>https://hereisthedill.com/about/</loc>
     <lastmod>2018-08-14T15:25:08-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://seerhein-website-club-2018-jayme.netlify.com/</loc>
+    <loc>https://hereisthedill.com/</loc>
     <lastmod>2018-08-05T16:04:30-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://seerhein-website-club-2018-jayme.netlify.com/articles/</loc>
+    <loc>https://hereisthedill.com/articles/</loc>
     <lastmod>2018-11-01T16:57:13+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://seerhein-website-club-2018-jayme.netlify.com/categories/balkongarten/</loc>
+    <loc>https://hereisthedill.com/categories/balkongarten/</loc>
   </url>
   
   <url>
-    <loc>http://seerhein-website-club-2018-jayme.netlify.com/categories/</loc>
+    <loc>https://hereisthedill.com/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://seerhein-website-club-2018-jayme.netlify.com/posts/</loc>
+    <loc>https://hereisthedill.com/categories/kleingarten/</loc>
+    <lastmod>2018-11-01T17:22:25+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hereisthedill.com/posts/</loc>
     <lastmod>2019-03-08T16:02:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://seerhein-website-club-2018-jayme.netlify.com/tags/</loc>
+    <loc>https://hereisthedill.com/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://seerhein-website-club-2018-jayme.netlify.com/categories/thoughts/</loc>
+    <loc>https://hereisthedill.com/categories/thoughts/</loc>
     <lastmod>2019-03-04T15:21:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://seerhein-website-club-2018-jayme.netlify.com/categories/uncategorized/</loc>
+    <loc>https://hereisthedill.com/categories/uncategorized/</loc>
     <lastmod>2019-02-14T12:40:11+01:00</lastmod>
     <priority>0</priority>
   </url>

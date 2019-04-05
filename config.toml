@@ -5,9 +5,14 @@ theme = "dill"
 
 [[menu.main]]
 	name = "Posts"
-	weight = 110
+	weight = 120
 	identifier = "posts"
 	url = "/posts"
+[[menu.main]]
+	name = "Articles"
+	weight = 130
+	identifier = "articles"
+	url = "/articles"
 [[menu.main]]
 	name = "About"
 	weight = 110
@@ -15,7 +20,7 @@ theme = "dill"
 	url = "/about"
 [[menu.main]]
 	name = "Categories"
-	weight = 120
+	weight = 140
 	identifier = "categories"
 	url = "/categories"
 

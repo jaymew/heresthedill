@@ -1,0 +1,16 @@
+{{ partial "header.html" . }}
+
+<main>
+{{ .Content }}
+  {{ range (where .Data.Pages "Section" "!=" "") }}
+  <article>
+		<h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+		<p>{{ .Summary }}</p>
+    <a href="{{ .RelPermalink }}">Read More…</a>
+  </article>
+  {{ end }}
+</main>
+
+{{ partial "sidebar.html" . }}
+
+{{ partial "footer.html" . }}

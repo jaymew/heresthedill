@@ -2,38 +2,47 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Here&#39;s the Dill</title>
-    <link>http://seerhein-website-club-2018-jayme.netlify.com/categories/</link>
+    <link>https://hereisthedill.com/categories/</link>
     <description>Recent content in Categories on Here&#39;s the Dill</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://seerhein-website-club-2018-jayme.netlify.com/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://hereisthedill.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Balkongarten</title>
-      <link>http://seerhein-website-club-2018-jayme.netlify.com/categories/balkongarten/</link>
+      <link>https://hereisthedill.com/categories/balkongarten/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://seerhein-website-club-2018-jayme.netlify.com/categories/balkongarten/</guid>
+      <guid>https://hereisthedill.com/categories/balkongarten/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kleingarten</title>
+      <link>https://hereisthedill.com/categories/kleingarten/</link>
+      <pubDate>Thu, 01 Nov 2018 17:22:25 +0100</pubDate>
+      
+      <guid>https://hereisthedill.com/categories/kleingarten/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Thoughts</title>
-      <link>http://seerhein-website-club-2018-jayme.netlify.com/categories/thoughts/</link>
+      <link>https://hereisthedill.com/categories/thoughts/</link>
       <pubDate>Mon, 04 Mar 2019 15:21:00 +0000</pubDate>
       
-      <guid>http://seerhein-website-club-2018-jayme.netlify.com/categories/thoughts/</guid>
+      <guid>https://hereisthedill.com/categories/thoughts/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Uncategorized</title>
-      <link>http://seerhein-website-club-2018-jayme.netlify.com/categories/uncategorized/</link>
+      <link>https://hereisthedill.com/categories/uncategorized/</link>
       <pubDate>Thu, 14 Feb 2019 12:40:11 +0100</pubDate>
       
-      <guid>http://seerhein-website-club-2018-jayme.netlify.com/categories/uncategorized/</guid>
+      <guid>https://hereisthedill.com/categories/uncategorized/</guid>
       <description></description>
     </item>
     

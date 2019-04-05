@@ -352,7 +352,9 @@ nav
 }
 
 .main-navigation ul li {
-	padding-right: 1rem;
+	padding-right: 0;
+	width: 100%;
+	text-align: center;
 }
 
 .main-navigation ul li a {
@@ -378,8 +380,19 @@ nav
 	width: 100%;
 	border: none;
 	padding: 1rem;
+	background-color: white;
 	color: #cc6699;
-	background-color: #eee;
+	font-family: "Bodedo", "Bodoni", "serif";
+	font-size: 2rem;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	text-decoration: none;
+}
+
+.main-navigation button:hover {
+	color: #669966;
+	-webkit-transform: rotate(5deg);
+	        transform: rotate(5deg);
 }
 
 .menu-toggle,
@@ -395,6 +408,10 @@ nav
 		display: -webkit-box;
 		display: -ms-flexbox;
 		display: flex;
+	}
+	.main-navigation ul li {
+		padding-right: 1rem;
+		width: auto;
 	}
 }
 
