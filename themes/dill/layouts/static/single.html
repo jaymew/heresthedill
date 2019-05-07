@@ -5,6 +5,6 @@
 			<h1 class="title">{{ .Title }}</h1>
 			{{ .Content }}
 		</article>
-		{{ partial "contact.html" | markdownify }}
+		<div class="contact">{{ partial "contact.html" | markdownify }}</div>
 	</main>
 {{ partial "footer.html" . }}

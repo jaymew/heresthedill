@@ -1,0 +1,39 @@
+img {
+	max-width: 100%;
+}
+
+figure {
+	max-width: 100%;
+  margin: 0;
+}
+
+.alignleft {
+	clear: left;
+	margin-right: 2rem;
+	float: left;
+	max-width: 30%;
+}
+.alignright {
+	clear: right;
+	margin-left: 2rem;
+	float: right;
+	max-width: 30%;
+}
+@media screen and (max-width: 749px) {
+	.alignleft {
+		margin-right: 0;
+		clear: both;
+		max-width: 100%;
+	}
+
+	.alignright {
+		margin-left: 0;
+		clear: both;
+		max-width: 100%;
+	}
+}
+
+.featured-image {
+	width: 100%;
+	margin-bottom: 2rem;
+}
