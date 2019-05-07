@@ -4,4 +4,8 @@ date: 2018-08-14T15:25:08-05:00
 type: "static"
 draft: false
 ---
-Jayme is a American living in southern Germany who didn’t realize what her interests were until moving halfway across the world. Severed from her tiny garden in Ohio she has created this website to explore if her nerdy interest in plants and their interactions within the world is where her passion lies. On this journey she hopes to go from a knowledgeable gardener to full-out nerdy expert and share her geeky gardening tendencies with others who have the same passion. This is a space to gain a deeper understanding of biological, ecological and chemical mechanisms occurring in the garden and to explore agricultural and environmental topics surrounding plants in order to understand world wide conversations over climate change and what we as individuals can do to help.
+Hi! I’m Jayme, an American expat sharpening her organic gardening and German language skills in beautiful southern Germany. I started gardening at age 10 when my dad dug an egg-shaped garden bed for me out of the lawn one rainy April morning in 2001—that’s true love right there!
+
+Since then I studied biology, expanded my gardening knowledge and bed by stealing one of my mom’s neighboring gardening beds—also true love—and interned for a summer on an organic farm in Northeast Ohio. Now I’m learning permaculture methods from a kind member of the community who I call der Chef.
+
+I’ll share my successes and struggles from my balcony garden and der Garten des Chefs (the boss’s garden; gotta make that language school count!) an allotment garden located over the border in northern Switzerland in order to help myself and others become better growers.

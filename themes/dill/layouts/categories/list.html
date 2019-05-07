@@ -3,6 +3,7 @@
 <main>
   <div class="categories">
     {{ range (where .Data.Pages "Section" "!=" "") }}
+      {{ if ( gt ( len .Data.Pages ) 0 ) }}
       <div class="category-box" style="background: top right / cover url('{{ .Params.featured_image }}') #eee;">
         <a href="{{ .URL }}">
           <div class="category-link">
@@ -10,6 +11,7 @@
           </div>
         </a>
       </div>
+      {{ end }}
     {{ end }}
     </div>
 </main>

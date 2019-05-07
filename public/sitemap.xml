@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://hereisthedill.com/articles/</loc>
+    <lastmod>2019-04-05T08:16:24+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://hereisthedill.com/posts/2018-08-06-netlify-test/</loc>
     <lastmod>2019-03-08T16:02:00+00:00</lastmod>
   </url>
@@ -38,12 +43,6 @@
   </url>
   
   <url>
-    <loc>https://hereisthedill.com/articles/</loc>
-    <lastmod>2018-11-01T16:57:13+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://hereisthedill.com/categories/balkongarten/</loc>
   </url>
   
@@ -62,6 +61,10 @@
     <loc>https://hereisthedill.com/posts/</loc>
     <lastmod>2019-03-08T16:02:00+00:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hereisthedill.com/categories/soil/</loc>
   </url>
   
   <url>

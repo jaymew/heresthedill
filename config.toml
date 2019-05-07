@@ -4,6 +4,11 @@ title = "Here's the Dill"
 theme = "dill"
 
 [[menu.main]]
+	name = "Home"
+	weight = 100
+	identifier = "home"
+	url = "/"
+[[menu.main]]
 	name = "Posts"
 	weight = 120
 	identifier = "posts"
@@ -23,6 +28,16 @@ theme = "dill"
 	weight = 140
 	identifier = "categories"
 	url = "/categories"
+[[menu.main]]
+	name = "Glossary"
+	weight = 150
+	identifier = "glossary"
+	url = "/glossary"
+[[menu.main]]
+	name = "Contact"
+	weight = 160
+	identifier = "contact"
+	url = "/contact"
 
 [[menu.social]]
 	name = "Twitter"

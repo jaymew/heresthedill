@@ -25,6 +25,7 @@ header {
 }
 
 .logo {
+	display: block;
 	margin: 0 auto;
 	padding-top: 12rem;
 	max-width: 300px;
@@ -94,16 +95,20 @@ figure {
 	float: left;
 	padding: 0 2rem 1rem 0;
 	text-align: center;
+
+	a {
+		color: #aaa;
+	}
 }
 .date-day {
 	font-family: $font__display;
-	color: $color__yellow;
+	color: #ddd;
 	line-height: 1.8rem;
 	font-size: 6rem;
 }
 .date-mon-year {
 	font-family: $font__display;
-	color: $color__green;
+	color: #aaa;
 	font-size: 2rem;
 }
 
@@ -113,6 +118,7 @@ figure {
 .categories {
 	display: flex;
 	justify-content: space-between;
+	flex-wrap: wrap;
 }
 
 .category-box {
@@ -121,8 +127,15 @@ figure {
 	min-height: 200px;
 	background-color: $color__green;
 	text-align: center;
+	margin-bottom: 1rem;
 	a {
 		text-decoration: none;
+	}
+}
+
+@media screen and (max-width: 800px) {
+	.category-box {
+		width: 48%;
 	}
 }
 
@@ -149,7 +162,7 @@ figure {
 aside {
 	flex: 0 0 auto;
 	width: 300px;
-	margin-left: 3rem;
+	margin-left: 2rem;
 }
 .name-box{
 	width: 100%;
@@ -160,7 +173,7 @@ aside {
 	font-size: 1.2rem;
 	line-height: 1.6rem;
 	font-weight: lighter;
-	color: #555; 
+	color: #555;
 	padding: 2rem 1rem;
 	border-bottom: 2px solid $color__pink;
 }
@@ -180,7 +193,7 @@ aside {
 	.container {
 		display: block;
 		max-width: 1200px;
-		margin: 2rem 0;
+		margin: 2rem 4rem;
 	}
 	main {
 		display: block;
