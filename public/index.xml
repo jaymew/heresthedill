@@ -12,12 +12,27 @@
     
     
     <item>
-      <title>Challenges with the German Language</title>
-      <link>https://hereisthedill.com/posts/2018-08-06-netlify-test/</link>
-      <pubDate>Fri, 08 Mar 2019 16:02:00 +0000</pubDate>
+      <title>Contact</title>
+      <link>https://hereisthedill.com/contact/</link>
+      <pubDate>Tue, 07 May 2019 10:09:41 +0200</pubDate>
       
-      <guid>https://hereisthedill.com/posts/2018-08-06-netlify-test/</guid>
-      <description>Living in Germany has its difficulties, particularly as a non-native speaker. In an ideal world I would be able to find and apply everything I preach but that can be challenging. The most obvious is language. I don’t know all the German terminology associated with gardening; it’s learn-as-you-go. This can be annoying since I don’t even possess the common knowledge of where to find certain products like I do in the States, not to mention not knowing the names of the products.</description>
+      <guid>https://hereisthedill.com/contact/</guid>
+      <description>If you have any questions or comments, please reach out! I love connecting with other gardeners and like-minded people around the globe!
+You can find me on Twitter or Instagram, or email me directly at hereisthedill@gmail.com</description>
+    </item>
+    
+    <item>
+      <title>Glossary</title>
+      <link>https://hereisthedill.com/glossary/</link>
+      <pubDate>Tue, 07 May 2019 09:57:29 +0200</pubDate>
+      
+      <guid>https://hereisthedill.com/glossary/</guid>
+      <description>die Blumenzwiebel: spring bulb, literal translation flowering bulb [P1]
+der Chef: the boss, owner of the garden [A1 Intro]
+der Garten des Chefs: the boss’s garden, literal translation ‘the garden of the boss’ aka a pain in the butt grammar rule called Genitive, denoting possession [About]
+Steigstrasse: ‘climb street,’ a very steep street in Meersburg which requires climbing [P1]
+der Fingerhut: foxglove, literal translation finger hat Digitalis purpurea [P1]
+die Fruehlingszwiebel: green onion, spring onion [P1]</description>
     </item>
     
     <item>
@@ -27,38 +42,7 @@
       
       <guid>https://hereisthedill.com/posts/launch/</guid>
       <description>My name is Jayme and I recently discovered my passion for gardening or rather in plants and their interactions within the world.
-   Säntis Switzerland Hike   I studied biology with a specialization in marine and aquatic biology thinking I wanted to research coral reef ecosystems— thank you Blue Planet and Discovery Channel. But it wasn’t until I started moving further away from home that I realized what I my true interests were, digging in the garden.</description>
-    </item>
-    
-    <item>
-      <title>Cycling</title>
-      <link>https://hereisthedill.com/posts/cycling/</link>
-      <pubDate>Thu, 14 Feb 2019 12:40:11 +0100</pubDate>
-      
-      <guid>https://hereisthedill.com/posts/cycling/</guid>
-      <description>Bicycling is one of my favorite things about living in Germany. There are clearly marked lanes specifically for bicyclists and should you accidently wander into one you will be reminded by angry shouts and ringing bells or- simply run over.
-Motorists, the majority of the time, are fairly respectful of bikes at least in the city I live in. But there is one major downside when you don’t have a car and that is space and weight.</description>
-    </item>
-    
-    <item>
-      <title>Fall is here, with a new article!</title>
-      <link>https://hereisthedill.com/posts/soil-intro/</link>
-      <pubDate>Thu, 01 Nov 2018 17:22:25 +0100</pubDate>
-      
-      <guid>https://hereisthedill.com/posts/soil-intro/</guid>
-      <description>Hi everyone! I hope you&amp;rsquo;re having an amazing week! The weather finally turned here in Konstanz: the temperature is dropping, the leaves are changing—Herbst hat angekommen! I snapped a photo for you below!
-Anyway, I&amp;rsquo;ve been working on a new series of articles about soil, and I just posted the first one! You can read it here!
-   View this post on Instagram        Autumn colors in the garden.</description>
-    </item>
-    
-    <item>
-      <title>Understanding your soil, Part 1: Seed Compost</title>
-      <link>https://hereisthedill.com/articles/soil1/</link>
-      <pubDate>Thu, 01 Nov 2018 16:57:13 +0100</pubDate>
-      
-      <guid>https://hereisthedill.com/articles/soil1/</guid>
-      <description>One thing I realized recently while learning how to container garden is that I could have a better understanding of soil and the different types available. Sure, I can go to a garden center and blindly pick soil based on the pictures on the bags, but I want to be an active thinker when it comes to the garden and understand the why behind it.
-Let’s start from the beginning, with seeds.</description>
+I studied biology with a specialization in marine and aquatic biology thinking I wanted to research coral reef ecosystems— thank you Blue Planet and Discovery Channel. But it wasn’t until I started moving further away from home that I realized what I my true interests were, digging in the garden.</description>
     </item>
     
     <item>
@@ -67,7 +51,8 @@ Let’s start from the beginning, with seeds.</description>
       <pubDate>Tue, 14 Aug 2018 15:25:08 -0500</pubDate>
       
       <guid>https://hereisthedill.com/about/</guid>
-      <description>Jayme is a American living in southern Germany who didn’t realize what her interests were until moving halfway across the world. Severed from her tiny garden in Ohio she has created this website to explore if her nerdy interest in plants and their interactions within the world is where her passion lies. On this journey she hopes to go from a knowledgeable gardener to full-out nerdy expert and share her geeky gardening tendencies with others who have the same passion.</description>
+      <description>Hi! I’m Jayme, an American expat sharpening her organic gardening and German language skills in beautiful southern Germany. I started gardening at age 10 when my dad dug an egg-shaped garden bed for me out of the lawn one rainy April morning in 2001—that’s true love right there!
+Since then I studied biology, expanded my gardening knowledge and bed by stealing one of my mom’s neighboring gardening beds—also true love—and interned for a summer on an organic farm in Northeast Ohio.</description>
     </item>
     
   </channel>

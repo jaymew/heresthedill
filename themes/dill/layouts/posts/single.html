@@ -4,7 +4,16 @@
 		<article role="article">
 			<h1 class="title">{{ .Title }}</h1>
 			{{ .Content }}
+			{{ with .Params.categories }}
+	    <ul id="categories" class="cat-list">
+	      <li>Filed to: </li>
+	      {{ range . }}
+	        <li> <a href="{{ "categories" | absURL }}{{ . | urlize }}">{{ . }}</a> </li>
+	      {{ end }}
+	    </ul>
+	    {{ end }}
 		</article>
+		{{ partial "contact.html" | markdownify }}
 	</main>
 {{ partial "sidebar.html" . }}
 

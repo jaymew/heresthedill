@@ -30,6 +30,11 @@ h3 {
 
 a {
 	color: $color__pink;
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: underline;
+	color: $color__green;
 }
 
 p {
@@ -53,7 +58,7 @@ p {
 
 	li {
 		float: left;
-		padding: 0 1rem;
+		padding: 0 .5rem;
 	}
 }
 
@@ -78,5 +83,27 @@ figcaption {
 		font-size: 1.2rem;
 		font-style: italic;
 		color: $color__green;
+	}
+}
+
+.featured {
+	letter-spacing: 2px;
+	text-transform: uppercase;
+}
+
+@media screen and (max-width: $size__mobilemenu) {
+	h1 {
+		font-size: 3rem;
+	}
+	h2 {
+		font-size: 2rem;
+	}
+	h3 {
+		font-size: 1.8rem;
+	}
+	p {
+		font-size: 1.4rem;
+		line-height: 1.8rem;
+		margin-bottom: 1.8rem;
 	}
 }

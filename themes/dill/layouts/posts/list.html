@@ -2,10 +2,11 @@
 
 <main>
 {{ .Content }}
-  {{ range (where .Data.Pages "Section" "!=" "") }}
+  {{ $paginator := .Paginate (where .Data.Pages "Type" "posts") }}
+  {{ range $paginator.Pages }}
   <article>
     {{ with .Params.featured_image }}<img class="featured-image" src="{{ . }}" alt="">{{ end }}
-		<h2>{{ .Title }}</h2>
+		<a href="{{ .URL }}"><h2>{{ .Title }}</h2></a>
 		<div class="meta-box">
     	<br/><span class="date-day">{{ .Date.Format "02" }}</span>
       <br/><span class="date-mon-year">{{ .Date.Format "Jan 06" }}</span>
@@ -14,6 +15,7 @@
 		{{ .Content }}
     {{ with .Params.categories }}
     <ul id="categories" class="cat-list">
+      <li>Filed to: </li>
       {{ range . }}
         <li> <a href="{{ "categories" | absURL }}{{ . | urlize }}">{{ . }}</a> </li>
       {{ end }}
@@ -21,6 +23,7 @@
     {{ end }}
   </article>
   {{ end }}
+  {{ template "_internal/pagination.html" . }}
 </main>
 
 {{ partial "sidebar.html" . }}

@@ -2,9 +2,18 @@
 
 	<main>
 		<article role="article">
-			Feature Article:
+			<span class="featured">Feature Article</span>
 			<h1 class="title">{{ .Title }}</h1>
 			{{ .Content }}
+			{{ with .Params.categories }}
+	    <ul id="categories" class="cat-list">
+	      <li>Filed to: </li>
+	      {{ range . }}
+	        <li> <a href="{{ "categories" | absURL }}{{ . | urlize }}">{{ . }}</a> </li>
+	      {{ end }}
+	    </ul>
+	    {{ end }}
 		</article>
+		{{ partial "contact.html" | markdownify }}
 	</main>
 {{ partial "footer.html" . }}

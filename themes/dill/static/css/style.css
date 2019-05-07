@@ -152,7 +152,7 @@ header {
 	display: -webkit-box;
 	display: -ms-flexbox;
 	display: flex;
-	max-width: 1200px;
+	max-width: 1100px;
 	margin: 2rem auto;
 }
 
@@ -220,19 +220,19 @@ figure {
 }
 
 .meta-box a {
-	color: #aaa;
+	color: #cc6699;
 }
 
 .date-day {
 	font-family: "Bodedo", "Bodoni", sans-serif;
-	color: #ddd;
+	color: #e8b109;
 	line-height: 1.8rem;
 	font-size: 6rem;
 }
 
 .date-mon-year {
 	font-family: "Bodedo", "Bodoni", sans-serif;
-	color: #aaa;
+	color: #669966;
 	font-size: 2rem;
 }
 
@@ -292,7 +292,7 @@ aside {
 	-webkit-box-flex: 0;
 	    -ms-flex: 0 0 auto;
 	        flex: 0 0 auto;
-	width: 300px;
+	width: 270px;
 	margin-left: 2rem;
 }
 
@@ -324,10 +324,10 @@ aside {
 	line-height: 2.4rem;
 }
 
-@media screen and (max-width: 1000px) {
+@media screen and (max-width: 1200px) {
 	.container {
 		display: block;
-		max-width: 1200px;
+		max-width: 1100px;
 		margin: 2rem 4rem;
 	}
 	main {
@@ -417,7 +417,7 @@ nav
 	display: block;
 }
 
-@media screen and (min-width: 699px) {
+@media screen and (min-width: 849px) {
 	.menu-toggle {
 		display: none;
 	}
@@ -430,6 +430,32 @@ nav
 		padding-right: 1rem;
 		width: auto;
 	}
+}
+
+/*--------------------------------------------------------------
+pagination
+--------------------------------------------------------------*/
+.pagination {
+	display: -webkit-box;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-pack: center;
+	    -ms-flex-pack: center;
+	        justify-content: center;
+	font-family: "Bodedo", "Bodoni", sans-serif;
+	font-size: 3rem;
+}
+
+.page-item {
+	margin: 0 .5rem;
+}
+
+.active a {
+	color: #669966;
+}
+
+.disabled {
+	display: none;
 }
 
 /*--------------------------------------------------------------
@@ -468,6 +494,12 @@ h3 {
 
 a {
 	color: #cc6699;
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+	color: #669966;
 }
 
 p {
@@ -492,7 +524,7 @@ p {
 
 .cat-list li {
 	float: left;
-	padding: 0 1rem;
+	padding: 0 .5rem;
 }
 
 em {
@@ -519,6 +551,28 @@ figcaption p {
 	font-size: 1.2rem;
 	font-style: italic;
 	color: #669966;
+}
+
+.featured {
+	letter-spacing: 2px;
+	text-transform: uppercase;
+}
+
+@media screen and (max-width: 849px) {
+	h1 {
+		font-size: 3rem;
+	}
+	h2 {
+		font-size: 2rem;
+	}
+	h3 {
+		font-size: 1.8rem;
+	}
+	p {
+		font-size: 1.4rem;
+		line-height: 1.8rem;
+		margin-bottom: 1.8rem;
+	}
 }
 
 /*--------------------------------------------------------------

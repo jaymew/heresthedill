@@ -1,0 +1,19 @@
+.pagination {
+  display: flex;
+  justify-content: center;
+  font-family: $font__display;
+  font-size: 3rem;
+
+}
+.page-item {
+  margin: 0 .5rem;
+}
+.active {
+  a{
+  color: $color__green;
+  }
+}
+
+.disabled {
+  display: none;
+}

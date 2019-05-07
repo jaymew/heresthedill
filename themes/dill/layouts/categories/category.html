@@ -3,7 +3,7 @@
 <main>
 <h1>Category: {{ .Title }}</h1>
 {{ .Content }}
-  {{ range .Pages }}
+  {{ range (where .Data.Pages "Section" "!=" "articles") }}
   <article>
 		<h2>{{ .Title }}</h2>
 		<div class="meta-box">

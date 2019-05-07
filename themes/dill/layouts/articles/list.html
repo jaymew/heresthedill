@@ -5,8 +5,15 @@
   {{ range (where .Data.Pages "Section" "!=" "") }}
   <article>
 		<h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
-		<p>{{ .Summary }}</p>
-    <a href="{{ .RelPermalink }}">Read More…</a>
+		<p>{{ .Summary }}<a href="{{ .RelPermalink }}"> Read More…</a></p>
+    {{ with .Params.categories }}
+    <ul id="categories" class="cat-list">
+      <li>Filed to: </li>
+      {{ range . }}
+        <li> <a href="{{ "categories" | absURL }}{{ . | urlize }}">{{ . }}</a> </li>
+      {{ end }}
+    </ul>
+    {{ end }}
   </article>
   {{ end }}
 </main>

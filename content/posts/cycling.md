@@ -5,7 +5,7 @@ draft: true
 featured_image: "/img/uploads/IMAG0169.jpg"
 featured_image_alt: "The Rhein"
 categories:
-- Uncategorized
+  - Uncategorized
 ---
 Bicycling is one of my favorite things about living in Germany. There are clearly marked lanes specifically for bicyclists and should you accidently wander into one you will be reminded by angry shouts and ringing bells or- simply run over.
 

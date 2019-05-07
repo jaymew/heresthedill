@@ -33,7 +33,7 @@ header {
 
 .container {
 	display: flex;
-	max-width: 1200px;
+	max-width: 1100px;
 	margin: 2rem auto;
 }
 
@@ -97,18 +97,18 @@ figure {
 	text-align: center;
 
 	a {
-		color: #aaa;
+		color: $color__pink;
 	}
 }
 .date-day {
 	font-family: $font__display;
-	color: #ddd;
+	color: $color__yellow;
 	line-height: 1.8rem;
 	font-size: 6rem;
 }
 .date-mon-year {
 	font-family: $font__display;
-	color: #aaa;
+	color: $color__green;
 	font-size: 2rem;
 }
 
@@ -161,7 +161,7 @@ figure {
 
 aside {
 	flex: 0 0 auto;
-	width: 300px;
+	width: 270px;
 	margin-left: 2rem;
 }
 .name-box{
@@ -189,10 +189,10 @@ aside {
 	}
 }
 
-@media screen and (max-width: 1000px) {
+@media screen and (max-width: 1200px) {
 	.container {
 		display: block;
-		max-width: 1200px;
+		max-width: 1100px;
 		margin: 2rem 4rem;
 	}
 	main {
