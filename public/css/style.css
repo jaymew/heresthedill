@@ -122,32 +122,6 @@ header {
 	width: 100%;
 }
 
-.banner {
-	width: 100%;
-}
-
-.overlay {
-	background: center/cover url("/img/flowers.jpg");
-	display: block;
-	position: relative;
-	min-height: 350px;
-	overflow: hidden;
-}
-
-.overlay .pattern {
-	display: block;
-	width: 101%;
-	position: absolute;
-	bottom: -1px;
-}
-
-.logo {
-	display: block;
-	margin: 0 auto;
-	padding-top: 12rem;
-	max-width: 300px;
-}
-
 .container {
 	display: -webkit-box;
 	display: -ms-flexbox;
@@ -168,48 +142,11 @@ article {
 	clear: both;
 	margin-bottom: 4rem;
 	padding: 2rem 2rem;
-	border-bottom: 2px solid #669966;
 	overflow: auto;
 }
 
-img {
-	max-width: 100%;
-}
-
-figure {
-	max-width: 100%;
-}
-
-.alignleft {
-	clear: left;
-	margin-left: 0;
-	float: left;
-	max-width: 30%;
-}
-
-.alignright {
-	clear: right;
-	margin-right: 0;
-	float: right;
-	max-width: 30%;
-}
-
-@media screen and (max-width: 500px) {
-	.alignleft {
-		margin: 0;
-		clear: both;
-		max-width: 100%;
-	}
-	.alignright {
-		margin: 0;
-		clear: both;
-		max-width: 100%;
-	}
-}
-
-.featured-image {
-	width: 100%;
-	margin-bottom: 2rem;
+article:nth-of-type(1n+2) {
+	border-top: 2px solid #669966;
 }
 
 .meta-box {
@@ -324,6 +261,44 @@ aside {
 	line-height: 2.4rem;
 }
 
+.contact {
+	padding: 2rem;
+}
+
+footer {
+	min-height: 200px;
+	padding: 3rem 8rem;
+	background-color: #669966;
+}
+
+.footer-blocks {
+	display: -webkit-box;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-pack: end;
+	    -ms-flex-pack: end;
+	        justify-content: flex-end;
+}
+
+.footer-block {
+	-webkit-box-flex: 0;
+	    -ms-flex: 0 0 auto;
+	        flex: 0 0 auto;
+	width: 20%;
+	margin: 1rem;
+}
+
+@media screen and (max-width: 849px) {
+	footer {
+		display: block;
+		padding: 1rem 2rem;
+	}
+	.footer-block {
+		display: block;
+		width: 100%;
+	}
+}
+
 @media screen and (max-width: 1200px) {
 	.container {
 		display: block;
@@ -347,9 +322,33 @@ aside {
 	}
 }
 
-footer {
-	text-align: center;
-	margin: 3rem;
+/*--------------------------------------------------------------
+header
+--------------------------------------------------------------*/
+.banner {
+	width: 100%;
+}
+
+.overlay {
+	background: center/cover url("/img/flowers.jpg");
+	display: block;
+	position: relative;
+	min-height: 350px;
+	overflow: hidden;
+}
+
+.overlay .pattern {
+	display: block;
+	width: 101%;
+	position: absolute;
+	bottom: -1px;
+}
+
+.logo {
+	display: block;
+	margin: 0 auto;
+	padding-top: 12rem;
+	max-width: 300px;
 }
 
 /*--------------------------------------------------------------
@@ -504,7 +503,7 @@ a:hover {
 
 p {
 	font-size: 1.6rem;
-	line-height: 2rem;
+	line-height: 2.2rem;
 	margin-bottom: 2rem;
 }
 
@@ -573,6 +572,73 @@ figcaption p {
 		line-height: 1.8rem;
 		margin-bottom: 1.8rem;
 	}
+}
+
+footer {
+	font-size: 1.6rem;
+	font-weight: 400;
+	color: white;
+}
+
+footer h1, footer h2, footer h3, footer h4, footer h5, footer h6 {
+	color: white;
+}
+
+footer a {
+	color: white;
+	text-decoration: underline;
+}
+
+footer a:hover {
+	color: #ff6633;
+}
+
+footer ul {
+	list-style: none;
+}
+
+/*--------------------------------------------------------------
+media
+--------------------------------------------------------------*/
+img {
+	max-width: 100%;
+}
+
+figure {
+	max-width: 100%;
+	margin: 0;
+}
+
+.alignleft {
+	clear: left;
+	margin-right: 2rem;
+	float: left;
+	max-width: 30%;
+}
+
+.alignright {
+	clear: right;
+	margin-left: 2rem;
+	float: right;
+	max-width: 30%;
+}
+
+@media screen and (max-width: 749px) {
+	.alignleft {
+		margin-right: 0;
+		clear: both;
+		max-width: 100%;
+	}
+	.alignright {
+		margin-left: 0;
+		clear: both;
+		max-width: 100%;
+	}
+}
+
+.featured-image {
+	width: 100%;
+	margin-bottom: 2rem;
 }
 
 /*--------------------------------------------------------------

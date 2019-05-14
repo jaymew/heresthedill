@@ -1,6 +1,7 @@
 ---
 title: "Glossary"
 date: 2019-05-07T09:57:29+02:00
+type: "static"
 draft: false
 ---
 **der Auspackraum**: an amazing room in the University where you can go dumpster diving sort trash to be reused or recycled. Every university should have one.

@@ -9,3 +9,5 @@ Hi! I’m Jayme, an American expat sharpening her organic gardening and German l
 Since then I studied biology, expanded my gardening knowledge and bed by stealing one of my mom’s neighboring gardening beds—also true love—and interned for a summer on an organic farm in Northeast Ohio. Now I’m learning permaculture methods from a kind member of the community who I call der Chef.
 
 I’ll share my successes and struggles from my balcony garden and der Garten des Chefs (the boss’s garden; gotta make that language school count!) an allotment garden located over the border in northern Switzerland in order to help myself and others become better growers.
+
+If you have any questions or comments, please reach out! I love connecting with other gardeners and like-minded people around the globe! You can find me on [Twitter](https://twitter.com/hereisthedill) or [Instagram](https://www.instagram.com/hereisthedill/), or email me directly at [hereisthedill@gmail.com](mailto:hereisthedill@gmail.com).

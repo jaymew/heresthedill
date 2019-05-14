@@ -5,8 +5,5 @@
 			<h1 class="title">{{ .Title }}</h1>
 			{{ .Content }}
 		</article>
-		{{ if ne .URL "/privacy/" }}
-		<div class="contact">{{ partial "contact.html" | markdownify }}</div>
-		{{ end }}
 	</main>
 {{ partial "footer.html" . }}
