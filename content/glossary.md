@@ -3,24 +3,30 @@ title: "Glossary"
 date: 2019-05-07T09:57:29+02:00
 draft: false
 ---
-**die Blumenzwiebel**: spring bulb, literal translation flowering bulb [P1]
+**der Auspackraum**: an amazing room in the University where you can go dumpster diving sort trash to be reused or recycled. Every university should have one.
 
-**der Chef**: the boss, owner of the garden [A1 Intro]
+**die Blumenzwiebel**: spring bulb, literal translation flowering bulb
 
-**der Garten des Chefs**: the boss’s garden, literal translation ‘the garden of the boss’ aka a pain in the butt grammar rule called Genitive, denoting possession  [About]
+**der Chef**: the boss, owner of the garden
 
-**Steigstrasse**: ‘climb street,’ a very steep street in Meersburg which requires climbing [P1]
+**der Garten des Chefs**: the boss’s garden, literal translation ‘the garden of the boss’ aka a pain in the butt grammar rule called Genitive, denoting possession
 
-**der Fingerhut**: foxglove, literal translation finger hat Digitalis purpurea [P1]
+**Steigstrasse**: ‘climb street,’ a very steep street in Meersburg which requires climbing
 
-**die Fruehlingszwiebel**: green onion, spring onion [P1]
+**der Fingerhut**: foxglove, literal translation finger hat Digitalis purpurea
 
-**der Gluehwein**: mulled red wine, holiday drink during Weihnachtsmarkt, Christmas Market, so you, and your fingers, do not freeze while hanging out in the cold [P1]
+**die Frühlingszwiebel**: green onion, spring onion
+
+**der Gärtner**: gardener
+
+**der Glühwein**: mulled red wine, holiday drink during Weihnachtsmarkt, Christmas Market, so you, and your fingers, do not freeze while hanging out in the cold
+
+**der Haufen**: heap, pile; in other words much smaller than a hill
 
 **der Rosenkohl**: brussel sprouts, a much prettier more appetizing name than the English version
 
-**das Stiefmuetterchen**: pansy, literal translation little step mother Viola tricolor hortensis [P1]
+**das Stiefmütterchen**: pansy, literal translation little step mother Viola tricolor hortensis
 
-**die Tulpe**: tulip [P1]
+**die Tulpe**: tulip
 
-**die Zwiebel**: onion [P1]
+**die Zwiebel**: onion

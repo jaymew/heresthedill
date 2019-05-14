@@ -1,8 +1,26 @@
 </div>
 <footer role="contentinfo">
-	{{ with .Site.Params.footer }}
-	{{ . | markdownify }}
-	{{ end }}
+	<div class="copyright">
+	{{ "Here's the Dill &copy; 2019 Jayme Weglarski | All rights reserved | [Privacy & Data Protection](/privacy)" | markdownify }}
+	</div>
+	<div class="footer-blocks">
+		<div class="footer-block">
+			<h4>Recent Posts</h4>
+			<ul class="footer-posts">
+			{{ range first 3 (where .Site.Pages "Section" "=" "posts") }}
+				<li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+			{{ end }}
+			</ul>
+		</div>
+		<div class="footer-block">
+			<h4>Still looking for something?</h4>
+			<ul class="footer-menu">
+			{{ range .Site.Menus.main }}
+				<li><a href="{{ .URL | relURL }}">{{ .Name }}{{ .Pre }}</a></li>
+			{{ end }}
+			</ul>
+		</div>
+	</div>
 
 </footer>
 {{ template "_internal/google_analytics.html" . }}

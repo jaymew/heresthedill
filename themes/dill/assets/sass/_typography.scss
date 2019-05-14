@@ -39,7 +39,7 @@ a:hover {
 
 p {
 	font-size: 1.6rem;
-	line-height: 2rem;
+	line-height: 2.2rem;
 	margin-bottom: 2rem;
 }
 
@@ -105,5 +105,28 @@ figcaption {
 		font-size: 1.4rem;
 		line-height: 1.8rem;
 		margin-bottom: 1.8rem;
+	}
+}
+
+footer {
+	font-size: 1.6rem;
+	font-weight: 400;
+	color: white;
+
+	h1,h2,h3,h4,h5,h6 {
+		color: white;
+	}
+
+	a {
+		color: white;
+		text-decoration: underline;
+
+		&:hover {
+			color: $color__orange;
+		}
+	}
+
+	ul {
+		list-style: none;
 	}
 }

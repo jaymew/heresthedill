@@ -21,9 +21,13 @@ article {
 	clear: both;
 	margin-bottom: 4rem;
 	padding: 2rem 2rem;
-	border-bottom: 2px solid $color__green;
 	overflow: auto;
 }
+
+
+article:nth-of-type(1n+2) {
+		border-top: 2px solid $color__green;
+	}
 
 .meta-box {
 	display: block;
@@ -129,8 +133,31 @@ aside {
 }
 
 footer {
-	text-align: center;
-	margin: 3rem;
+	min-height: 200px;
+	padding: 3rem 8rem;
+	background-color: $color__green;
+}
+
+.footer-blocks{
+	display: flex;
+	justify-content:flex-end;
+}
+
+.footer-block {
+	flex: 0 0 auto;
+	width: 20%;
+	margin: 1rem;
+}
+
+@media screen and (max-width: $size__mobilemenu) {
+	footer {
+		display: block;
+		padding: 1rem 2rem;
+	}
+	.footer-block {
+		display: block;
+		width: 100%;
+	}
 }
 
 @media screen and (max-width: 1200px) {

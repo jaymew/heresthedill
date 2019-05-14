@@ -142,8 +142,11 @@ article {
 	clear: both;
 	margin-bottom: 4rem;
 	padding: 2rem 2rem;
-	border-bottom: 2px solid #669966;
 	overflow: auto;
+}
+
+article:nth-of-type(1n+2) {
+	border-top: 2px solid #669966;
 }
 
 .meta-box {
@@ -263,8 +266,37 @@ aside {
 }
 
 footer {
-	text-align: center;
-	margin: 3rem;
+	min-height: 200px;
+	padding: 3rem 8rem;
+	background-color: #669966;
+}
+
+.footer-blocks {
+	display: -webkit-box;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-pack: end;
+	    -ms-flex-pack: end;
+	        justify-content: flex-end;
+}
+
+.footer-block {
+	-webkit-box-flex: 0;
+	    -ms-flex: 0 0 auto;
+	        flex: 0 0 auto;
+	width: 20%;
+	margin: 1rem;
+}
+
+@media screen and (max-width: 849px) {
+	footer {
+		display: block;
+		padding: 1rem 2rem;
+	}
+	.footer-block {
+		display: block;
+		width: 100%;
+	}
 }
 
 @media screen and (max-width: 1200px) {
@@ -471,7 +503,7 @@ a:hover {
 
 p {
 	font-size: 1.6rem;
-	line-height: 2rem;
+	line-height: 2.2rem;
 	margin-bottom: 2rem;
 }
 
@@ -540,6 +572,29 @@ figcaption p {
 		line-height: 1.8rem;
 		margin-bottom: 1.8rem;
 	}
+}
+
+footer {
+	font-size: 1.6rem;
+	font-weight: 400;
+	color: white;
+}
+
+footer h1, footer h2, footer h3, footer h4, footer h5, footer h6 {
+	color: white;
+}
+
+footer a {
+	color: white;
+	text-decoration: underline;
+}
+
+footer a:hover {
+	color: #ff6633;
+}
+
+footer ul {
+	list-style: none;
 }
 
 /*--------------------------------------------------------------
