@@ -1,0 +1,42 @@
+.grass-block {
+	display: block;
+	line-height: 0;
+	position: relative;
+	overflow: hidden;
+}
+
+.grass {
+	display: block;
+	line-height: 0;
+	width: 102%;
+	position: relative;
+	bottom: -1px;
+}
+
+footer {
+	min-height: 200px;
+	padding: 3rem 8rem;
+	background-color: $color__green;
+}
+
+.footer-blocks{
+	display: flex;
+	justify-content:flex-end;
+}
+
+.footer-block {
+	flex: 0 0 auto;
+	width: 20%;
+	margin: 1rem;
+}
+
+@media screen and (max-width: $size__mobilemenu) {
+	.footer-blocks {
+		display: block;
+		padding: 1rem 2rem;
+	}
+	.footer-block {
+		display: block;
+		width: 100%;
+	}
+}
