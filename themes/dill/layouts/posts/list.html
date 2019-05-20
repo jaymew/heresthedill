@@ -17,7 +17,7 @@
     <ul id="categories" class="cat-list">
       <li>Filed to: </li>
       {{ range . }}
-        <li> <a href="{{ "categories" | absURL }}{{ . | urlize }}">{{ . }}</a> </li>
+        <li> <a href="{{ "categories/" | absURL }}{{ . | urlize }}">{{ . }}</a> </li>
       {{ end }}
     </ul>
     {{ end }}

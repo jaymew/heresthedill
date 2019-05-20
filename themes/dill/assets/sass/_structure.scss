@@ -103,6 +103,10 @@ aside {
 	flex: 0 0 auto;
 	width: 270px;
 	margin-left: 2rem;
+
+	div:nth-of-type(1n+2) {
+			border-top: 2px solid $color__pink;
+		}
 }
 .name-box{
 	width: 100%;
@@ -115,13 +119,13 @@ aside {
 	font-weight: lighter;
 	color: #555;
 	padding: 2rem 1rem;
-	border-bottom: 2px solid $color__pink;
+	//border-bottom: 2px solid $color__pink;
 }
-.sidebar-tax { 
+.sidebar-tax {
 	clear: both;
 	display: block;
 	padding: 1rem;
-	border-bottom: 2px solid $color__pink;
+	//border-bottom: 2px solid $color__pink;
 	margin-bottom: 2rem;
 	a {
 		text-decoration: none;

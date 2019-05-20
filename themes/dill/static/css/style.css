@@ -234,6 +234,10 @@ aside {
 	margin-left: 2rem;
 }
 
+aside div:nth-of-type(1n+2) {
+	border-top: 2px solid #cc6699;
+}
+
 .name-box {
 	width: 100%;
 	text-align: center;
@@ -246,14 +250,12 @@ aside {
 	font-weight: lighter;
 	color: #555;
 	padding: 2rem 1rem;
-	border-bottom: 2px solid #cc6699;
 }
 
 .sidebar-tax {
 	clear: both;
 	display: block;
 	padding: 1rem;
-	border-bottom: 2px solid #cc6699;
 	margin-bottom: 2rem;
 }
 
@@ -646,6 +648,12 @@ footer {
 	min-height: 200px;
 	padding: 3rem 8rem;
 	background-color: #669966;
+}
+
+.copyright {
+	max-width: 50%;
+	margin-top: 2rem;
+	padding-top: 1rem;
 }
 
 .footer-blocks {

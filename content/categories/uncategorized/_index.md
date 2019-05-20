@@ -1,4 +1,4 @@
 ---
 title: "Uncategorized"
-featured_image: ""
+featured_image: "/img/uploads/door.jpg"
 ---
