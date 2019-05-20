@@ -1,4 +1,4 @@
 ---
 title: "Kleingarten"
-featured_image: ""/img/uploads/kleingarten.jpg""
+featured_image: "/img/uploads/kleingarten.jpg"
 ---

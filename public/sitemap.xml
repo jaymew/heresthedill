@@ -3,6 +3,38 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://hereisthedill.com/categories/</loc>
+    <lastmod>2019-05-19T12:40:11+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hereisthedill.com/posts/cycling/</loc>
+    <lastmod>2019-05-19T12:40:11+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hereisthedill.com/posts/</loc>
+    <lastmod>2019-05-19T12:40:11+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hereisthedill.com/categories/uncategorized/</loc>
+    <lastmod>2019-05-19T12:40:11+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hereisthedill.com/categories/thoughts/</loc>
+    <lastmod>2019-05-18T15:21:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hereisthedill.com/posts/launch/</loc>
+    <lastmod>2019-05-18T15:21:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://hereisthedill.com/privacy/</loc>
     <lastmod>2019-05-14T12:03:51-04:00</lastmod>
   </url>
@@ -23,16 +55,6 @@
   </url>
   
   <url>
-    <loc>https://hereisthedill.com/posts/launch/</loc>
-    <lastmod>2019-03-04T15:21:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hereisthedill.com/posts/cycling/</loc>
-    <lastmod>2019-02-14T12:40:11+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://hereisthedill.com/about/</loc>
     <lastmod>2018-08-14T15:25:08-05:00</lastmod>
   </url>
@@ -47,14 +69,11 @@
   </url>
   
   <url>
-    <loc>https://hereisthedill.com/categories/</loc>
-    <priority>0</priority>
+    <loc>https://hereisthedill.com/categories/deutsch/</loc>
   </url>
   
   <url>
-    <loc>https://hereisthedill.com/posts/</loc>
-    <lastmod>2019-03-04T15:21:00+00:00</lastmod>
-    <priority>0</priority>
+    <loc>https://hereisthedill.com/categories/kleingarten/</loc>
   </url>
   
   <url>
@@ -64,16 +83,6 @@
   <url>
     <loc>https://hereisthedill.com/tags/</loc>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hereisthedill.com/categories/thoughts/</loc>
-    <lastmod>2019-03-04T15:21:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hereisthedill.com/categories/uncategorized/</loc>
-    <lastmod>2019-02-14T12:40:11+01:00</lastmod>
   </url>
   
 </urlset>
