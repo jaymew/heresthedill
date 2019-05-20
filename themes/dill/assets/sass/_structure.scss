@@ -117,8 +117,9 @@ aside {
 	padding: 2rem 1rem;
 	border-bottom: 2px solid $color__pink;
 }
-.sidebar-tax {
+.sidebar-tax { 
 	clear: both;
+	display: block;
 	padding: 1rem;
 	border-bottom: 2px solid $color__pink;
 	margin-bottom: 2rem;
@@ -131,34 +132,6 @@ aside {
 
 .contact {
 	padding: 2rem;
-}
-
-footer {
-	min-height: 200px;
-	padding: 3rem 8rem;
-	background-color: $color__green;
-}
-
-.footer-blocks{
-	display: flex;
-	justify-content:flex-end;
-}
-
-.footer-block {
-	flex: 0 0 auto;
-	width: 20%;
-	margin: 1rem;
-}
-
-@media screen and (max-width: $size__mobilemenu) {
-	footer {
-		display: block;
-		padding: 1rem 2rem;
-	}
-	.footer-block {
-		display: block;
-		width: 100%;
-	}
 }
 
 @media screen and (max-width: 1200px) {

@@ -251,6 +251,7 @@ aside {
 
 .sidebar-tax {
 	clear: both;
+	display: block;
 	padding: 1rem;
 	border-bottom: 2px solid #cc6699;
 	margin-bottom: 2rem;
@@ -264,40 +265,6 @@ aside {
 
 .contact {
 	padding: 2rem;
-}
-
-footer {
-	min-height: 200px;
-	padding: 3rem 8rem;
-	background-color: #669966;
-}
-
-.footer-blocks {
-	display: -webkit-box;
-	display: -ms-flexbox;
-	display: flex;
-	-webkit-box-pack: end;
-	    -ms-flex-pack: end;
-	        justify-content: flex-end;
-}
-
-.footer-block {
-	-webkit-box-flex: 0;
-	    -ms-flex: 0 0 auto;
-	        flex: 0 0 auto;
-	width: 20%;
-	margin: 1rem;
-}
-
-@media screen and (max-width: 849px) {
-	footer {
-		display: block;
-		padding: 1rem 2rem;
-	}
-	.footer-block {
-		display: block;
-		width: 100%;
-	}
 }
 
 @media screen and (max-width: 1200px) {
