@@ -12,14 +12,14 @@
 				{{ end }}
 			</ul>
 		</div>
-		<div class="footer-block">
+		<!-- <div class="footer-block">
 			<h4>Recent Posts</h4>
 			<ul class="footer-posts">
 			{{ range first 3 (where .Site.Pages "Section" "=" "posts") }}
 				<li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
 			{{ end }}
 			</ul>
-		</div>
+		</div> -->
 		<div class="footer-block">
 			<h4>Still looking for something?</h4>
 			<ul class="footer-menu">
@@ -31,6 +31,7 @@
 	</div>
 	<div class="copyright">
 	{{ "Here's the Dill &copy; 2019 Jayme Weglarski | All rights reserved | [Privacy & Data Protection](/privacy)" | markdownify }}
+	<p>{{ "Design and Development: [Costelloe Creative](https://costelloecreative.com) | Built with [Hugo](https://gohugo.io/) and [Netlify](https://www.netlify.com/)" | markdownify }}</p>
 	</div>
 </footer>
 {{ template "_internal/google_analytics.html" . }}

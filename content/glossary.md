@@ -8,9 +8,9 @@ draft: false
 
 **die Blumenzwiebel**: spring bulb, literal translation flowering bulb
 
-**der Chef**: the boss, owner of the garden
+[**der Chef**](/about): the boss, owner of the garden
 
-**der Garten des Chefs**: the boss’s garden, literal translation ‘the garden of the boss’ aka a pain in the butt grammar rule called Genitive, denoting possession
+[**der Garten des Chefs**](/about): the boss’s garden, literal translation ‘the garden of the boss’ aka a pain in the butt grammar rule called Genitive, denoting possession
 
 **Steigstrasse**: ‘climb street,’ a very steep street in Meersburg which requires climbing
 

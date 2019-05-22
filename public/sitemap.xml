@@ -14,14 +14,20 @@
   </url>
   
   <url>
-    <loc>https://hereisthedill.com/posts/</loc>
+    <loc>https://hereisthedill.com/categories/germany/</loc>
+    <lastmod>2019-05-19T12:40:11+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hereisthedill.com/</loc>
     <lastmod>2019-05-19T12:40:11+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hereisthedill.com/categories/uncategorized/</loc>
+    <loc>https://hereisthedill.com/posts/</loc>
     <lastmod>2019-05-19T12:40:11+01:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -60,11 +66,6 @@
   </url>
   
   <url>
-    <loc>https://hereisthedill.com/</loc>
-    <lastmod>2018-08-05T16:04:30-05:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://hereisthedill.com/categories/balkongarten/</loc>
   </url>
   
@@ -83,6 +84,10 @@
   <url>
     <loc>https://hereisthedill.com/tags/</loc>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hereisthedill.com/categories/uncategorized/</loc>
   </url>
   
 </urlset>

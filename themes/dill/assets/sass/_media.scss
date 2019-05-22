@@ -10,30 +10,55 @@ figure {
 .alignleft {
 	clear: left;
 	margin-right: 2rem;
+	margin-top: 0;
 	float: left;
-	max-width: 30%;
 }
 .alignright {
 	clear: right;
 	margin-left: 2rem;
+	margin-top: 0;
 	float: right;
-	max-width: 30%;
 }
-@media screen and (max-width: 749px) {
+@media screen and (max-width: 549px) {
 	.alignleft {
 		margin-right: 0;
+		margin-top: 1rem;
 		clear: both;
-		max-width: 100%;
+		width: 100%;
 	}
 
 	.alignright {
 		margin-left: 0;
+		margin-top: 1rem;
 		clear: both;
-		max-width: 100%;
+		width: 100%;
 	}
 }
 
 .featured-image {
 	width: 100%;
 	margin-bottom: 2rem;
+}
+
+.gallery {
+	max-width: 400px;
+	margin: 0 2rem 2rem 0;
+	img {
+		margin: .5rem 0;
+	}
+}
+
+.four-across {
+	margin-top: 1rem;
+	width: 100%;
+	display: flex;
+	justify-content: space-between;
+	img {
+		flex: 0 0 auto;
+	}
+}
+@media screen and (max-width: $size__mobilemenu) {
+	.four-across {
+		display: block;
+	}
 }

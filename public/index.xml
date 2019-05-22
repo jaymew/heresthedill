@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home on Here&#39;s the Dill</title>
+    <title>Here&#39;s the Dill</title>
     <link>https://hereisthedill.com/</link>
-    <description>Recent content in Home on Here&#39;s the Dill</description>
+    <description>Recent content on Here&#39;s the Dill</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 05 Aug 2018 16:04:30 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 19 May 2019 12:40:11 +0100</lastBuildDate>
     
 	<atom:link href="https://hereisthedill.com/index.xml" rel="self" type="application/rss+xml" />
     
@@ -17,7 +17,8 @@
       <pubDate>Sun, 19 May 2019 12:40:11 +0100</pubDate>
       
       <guid>https://hereisthedill.com/posts/cycling/</guid>
-      <description>Bicycling is one of my favorite things about living in Germany. There are clearly marked lanes specifically for bicyclists and should you accidently wander into one you will be reminded by angry shouts and ringing bells or- simply run over.
+      <description>Fahrradstraße, or &amp;lsquo;bike street&amp;rsquo;
+  Bicycling is one of my favorite things about living in Germany. There are clearly marked lanes specifically for bicyclists and should you accidently wander into one you will be reminded by angry shouts and ringing bells or- simply run over.
 Motorists, the majority of the time, are fairly respectful of bikes at least in the city I live in. But there is one major downside when you don’t have a car and that is space and weight.</description>
     </item>
     
@@ -69,7 +70,8 @@ Steigstrasse: ‘climb street,’ a very steep street in Meersburg which require
       <pubDate>Tue, 14 Aug 2018 15:25:08 -0500</pubDate>
       
       <guid>https://hereisthedill.com/about/</guid>
-      <description>Hi! I’m Jayme, an American expat sharpening her organic gardening and German language skills in beautiful southern Germany. I started gardening at age 10 when my dad dug an egg-shaped garden bed for me out of the lawn one rainy April morning in 2001—that’s true love right there!
+      <description>Me!
+  Hi! I’m Jayme, an American expat sharpening her organic gardening and German language skills in beautiful southern Germany. I started gardening at age 10 when my dad dug an egg-shaped garden bed for me out of the lawn one rainy April morning in 2001—that’s true love right there!
 Since then I studied biology, expanded my gardening knowledge and bed by stealing one of my mom’s neighboring gardening beds—also true love—and interned for a summer on an organic farm in Northeast Ohio.</description>
     </item>
     

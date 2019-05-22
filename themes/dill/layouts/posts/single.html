@@ -2,7 +2,13 @@
 
 	<main>
 		<article role="article">
+			{{ with .Params.featured_image }}<img class="featured-image" src="{{ . }}" alt="">{{ end }}
 			<h1 class="title">{{ .Title }}</h1>
+			<div class="meta-box">
+	    	<br/><span class="date-day">{{ .Date.Format "02" }}</span>
+	      <br/><span class="date-mon-year">{{ .Date.Format "Jan 06" }}</span>
+				<br/><a href="{{ .URL }}">Permalink</a>
+			</div>
 			{{ .Content }}
 			{{ with .Params.categories }}
 	    <ul id="categories" class="cat-list">

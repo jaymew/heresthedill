@@ -1,0 +1,13 @@
+{{ $float := .Get "float" }}
+{{ $images := $.Page.Resources.ByType "image" }}
+<div class="gallery" style="float:{{ $float }};">
+{{ with $images }}
+  {{ range sort . "Name" }}
+    {{ $original := . }}
+    {{ $resized := .Resize "400x" }}
+      <a href="{{ $original.Permalink }}">
+        <img src="{{ $resized.Permalink }}"/>
+      </a>
+  {{ end }}
+{{ end }}
+</div>
