@@ -1,6 +1,6 @@
 ---
 title: Welcome to Here's the Dill!
-date: 2019-05-18T15:21:00.000Z
+date: 2019-05-21T15:21:00.000Z
 draft: false
 categories:
   - Thoughts
