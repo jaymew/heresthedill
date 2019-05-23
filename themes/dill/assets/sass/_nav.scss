@@ -28,6 +28,9 @@
 				color: $color__green;
 				transform: rotate(5deg);
 			}
+			a:focus {
+				color: $color__green;
+			}
 		}
 	}
 }

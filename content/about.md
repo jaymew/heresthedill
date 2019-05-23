@@ -17,8 +17,8 @@ If you have any questions or comments, please reach out! I love connecting with 
 {{< figure src="/img/uploads/alps.jpg" alt="The alps"  >}}
 
 <div class="four-across">
-  {{< figure src="/img/uploads/garten3.jpg" >}}
-  {{< figure src="/img/uploads/garten2.jpg" >}}
-  {{< figure src="/img/uploads/garten1.jpg" >}}
-  {{< figure src="/img/uploads/garten4.jpg" >}}
+  {{< figure src="/img/uploads/garten3.jpg" alt="view of the kleingarten" >}}
+  {{< figure src="/img/uploads/garten2.jpg" alt="view of the kleingarten" >}}
+  {{< figure src="/img/uploads/garten1.jpg" alt="view of the kleingarten" >}}
+  {{< figure src="/img/uploads/garten4.jpg" alt="view of the kleingarten" >}}
 </div>

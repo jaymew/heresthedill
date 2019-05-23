@@ -375,6 +375,10 @@ nav
 	        transform: rotate(5deg);
 }
 
+.main-navigation ul li a:focus {
+	color: #669966;
+}
+
 /* Small menu. */
 .main-navigation button {
 	border-radius: none;
@@ -486,6 +490,11 @@ a:hover {
 	color: #669966;
 }
 
+a:focus {
+	text-decoration: underline;
+	color: #669966;
+}
+
 p {
 	font-size: 1.6rem;
 	line-height: 2.2rem;
@@ -582,6 +591,25 @@ footer ul {
 	list-style: none;
 }
 
+.accessibility-link {
+	clip: rect(1px, 1px, 1px, 1px);
+	height: 1px;
+	margin: 0;
+	overflow: hidden;
+	padding: 5px;
+	position: absolute;
+	width: 1px;
+}
+
+.accessibility-link:focus {
+	clip: rect(auto, auto, auto, auto);
+	outline-offset: -3px;
+	outline: 5px auto -webkit-focus-ring-color;
+	outline: thin dotted;
+	position: static;
+	text-decoration: underline;
+}
+
 /*--------------------------------------------------------------
 media
 --------------------------------------------------------------*/
@@ -658,6 +686,10 @@ figure {
 	.four-across {
 		display: block;
 	}
+}
+
+.lazy img {
+	width: 100%;
 }
 
 /*--------------------------------------------------------------

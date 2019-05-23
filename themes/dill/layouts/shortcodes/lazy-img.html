@@ -1,0 +1,22 @@
+{{ $image := .Page.Resources.GetMatch (printf "*%s*" (.Get "src")) }}
+{{ $placeholder := $image.Resize "48x q20" }}
+<figure {{ with .Get "class" }}class='{{.}}'{{ end }} style="max-width:{{ $image.Width }}">
+  <img
+    class="lazy"
+    src="{{ $placeholder.Permalink }}"
+    data-src="{{ $image.Permalink }}"
+    {{ with .Get "link" }}link='{{.}}'{{ end }}
+    {{ with .Get "target" }}target='{{.}}'{{ end }}
+    {{ with .Get "rel" }}rel='{{.}}'{{ end }}
+    {{ with .Get "alt" }}alt='{{.}}'{{ else }}alt=""{{ end }}
+    {{ with .Get "title" }}title='{{.}}'{{ end }}
+    {{ with .Get "height" }}height='{{.}}'{{ end }}
+    {{ with .Get "width" }}width='{{.}}'{{ else }}width="100%"{{ end }}
+    {{ with .Get "attr" }}attr='{{.}}'{{ end }}
+    {{ with .Get "attrlink" }}attrlink='{{.}}'{{ end }}>
+  {{ with .Get "caption" }}
+  <figcaption>
+    <p>{{.}}</p>
+  </figcaption>
+  {{ end }}
+</figure>

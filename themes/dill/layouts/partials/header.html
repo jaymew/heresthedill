@@ -2,14 +2,15 @@
 <html lang="{{ .Site.LanguageCode }}">
 	{{ partial "head.html" . }}
 	<body>
+		<a class="accessibility-link" href="#main-content">Skip to content</a>
 	<header>
 		<div class="banner overlay">
 			<a href="/">
 			<div class="logo">
-				<img src="/img/logo-outlined.svg" alt="Here's the Dill Logo">
+				<img src="/img/logo-outlined.svg" role="img" alt="Here's the Dill Logo">
 			</div>
 			</a>
-			<img class="pattern" src="/img/banner.svg">
+			<img class="pattern" alt="" src="/img/banner.svg">
 		</div>
 		<nav id="site-navigation" class="main-navigation">
 			<button class="menu-toggle" aria-controls="primary-menu" aria-expanded="false">Main Menu</button>
@@ -23,4 +24,4 @@
 				</ul>
 			</nav>
 	</header>
-	<div class="container">
+	<div id="main-content" tabindex="-1" class="container">
