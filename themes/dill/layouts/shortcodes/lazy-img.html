@@ -2,7 +2,7 @@
 {{ $placeholder := $image.Resize "48x q20" }}
 {{ $small := $image.Resize "300x" }}
 
-<figure {{ with .Get "class" }}class='{{.}}'{{ end }} style="max-width:{{ $image.Width }}">
+<figure {{ with .Get "class" }}class='{{.}}'{{ end }} style="max-width:{{ $image.Width }}px">
   <img
     class="lazy"
     {{ with .Get "width" }}
