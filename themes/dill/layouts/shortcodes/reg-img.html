@@ -1,28 +1,22 @@
 {{ $image := .Page.Resources.GetMatch (printf "*%s*" (.Get "src")) }}
 {{ $small := $image.Resize "300x" }}
 
-<figure {{ with .Get "class" }}class='{{.}}'{{ end }} style="max-width:{{ $image.Width }}px">
+<figure {{ with .Get "class" }}class='{{.}}'{{ end }} style="max-width:{{ $image.Width }}px;">
   <img
-    {{ with .Get "width" }}
-      {{ if le "width" "300" }}
-        width='{{.}}'
-        src="{{ $small.Permalink }}"
-      {{ else }}
-        width="100%"
-        src="{{ $image.Permalink }}"
-      {{ end }}
-      {{ else }}
+  {{ with .Get "width" }}
+    {{ if le "width" "300" }}
+      width='{{.}}'
+      src="{{ $small.Permalink }}"
+    {{ else }}
       width="100%"
       src="{{ $image.Permalink }}"
     {{ end }}
-    {{ with .Get "link" }}link='{{.}}'{{ end }}
-    {{ with .Get "target" }}target='{{.}}'{{ end }}
-    {{ with .Get "rel" }}rel='{{.}}'{{ end }}
-    {{ with .Get "alt" }}alt='{{.}}'{{ else }}alt=""{{ end }}
-    {{ with .Get "title" }}title='{{.}}'{{ end }}
-    {{ with .Get "height" }}height='{{.}}'{{ end }}
-    {{ with .Get "attr" }}attr='{{.}}'{{ end }}
-    {{ with .Get "attrlink" }}attrlink='{{.}}'{{ end }}>
+    {{ else }}
+    width="100%"
+    src="{{ $image.Permalink }}"
+  {{ end }}
+  {{ with .Get "alt" }}alt='{{.}}'{{ else }}alt=""{{ end }}
+  {{ with .Get "height" }}height='{{.}}'{{ end }}>
   {{ with .Get "caption" }}
   <figcaption>
     <p>{{.}}</p>

@@ -14,7 +14,7 @@ Seed calendars provide an overview of the year and organize when to sow the hord
 
 You’ll need a gridded piece of paper, a pencil, straight edge ruler, and a pen.
 
-{{< lazy-img src="calendar03" alt="your starting point" lazy="yes" >}}
+{{< lazy-img src="calendar03" alt="your starting point" >}}
 
 I created a calendar directly in my garden journal. Use 4 squares to represent the weeks for each month. The grid I’m using has 42 squares, limiting my calendar to 10 months. Not much sowing and transplanting occurs during December and January, so throw these months out if your grid is limited, too.
 

@@ -622,6 +622,10 @@ figure {
 	margin: 0 auto 2rem;
 }
 
+.no-js {
+	display: none;
+}
+
 .alignleft {
 	clear: left;
 	margin-right: 2rem;
