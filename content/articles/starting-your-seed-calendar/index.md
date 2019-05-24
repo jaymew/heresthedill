@@ -1,33 +1,75 @@
 ---
 title: "Starting Your Seed Calendar"
 date: 2019-05-21T17:37:14+02:00
-draft: true
+draft: false
 categories:
   - Seeds
   - Organization
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur dignissim in augue at tristique. Aenean varius ligula a rutrum gravida. Curabitur ut tincidunt leo. Mauris malesuada euismod leo vel aliquam. Praesent posuere odio eget velit tristique, vitae gravida justo congue. Fusce at nunc vel tellus laoreet sagittis ut eu ligula. Nulla blandit felis faucibus, fermentum nisi a, tempus libero. Cras condimentum ex vitae arcu mollis congue. Sed id cursus diam. Curabitur ullamcorper mollis sagittis. Nunc a odio nisl.
+I think everyone loves the idea of growing from seed but most people are afraid to do it. It’s time to get over that fear—me included—mainly because they are much cheaper than buying plants at the store and are much more rewarding. There are also more varieties to choose from than what you’ll find in stores. But before you plant seeds it’s best to know when to plant them for the most success, and this is where a seed calendar comes in handy.
 
-{{< gallery float="left" >}}
+{{< reg-img src="calendar01" alt="the completed seed calendar" >}}
 
-Duis at egestas nisl. Integer ut urna ut quam mattis mattis. Nunc molestie iaculis lobortis. Proin id ante et magna auctor sagittis. Nunc ac tristique ligula, et convallis justo. Donec sed pellentesque ante, id rutrum diam. Duis ac vulputate enim, eu venenatis sapien. Integer pharetra porta aliquam. Integer tempor, sem eget mollis blandit, quam sapien molestie neque, id dapibus risus est ac elit. In tristique erat non turpis pharetra, non varius lorem iaculis. Suspendisse potenti. Nullam sed sodales enim. Quisque lacus magna, rutrum eget convallis rutrum, cursus vitae neque. Sed mollis sem mi, non dignissim est fringilla congue. Suspendisse potenti. Mauris elementum, urna in tincidunt mollis, ex dolor ornare diam, at laoreet nunc risus eu nibh.
+Seed calendars provide an overview of the year and organize when to sow the horde of seed packets we all have. It’s also a great way to visualize when to transplant and harvest.
 
-Duis commodo neque eget erat fermentum, et facilisis urna consequat. Cras in elit lacinia, ultrices nunc ac, vestibulum est. Nunc ultrices ex sit amet quam accumsan consequat. Phasellus nisl elit, mattis id tristique in, bibendum quis urna. Pellentesque eu nisi vestibulum, congue leo in, pellentesque mi. Vestibulum diam est, ornare ac viverra ut, volutpat tincidunt augue. Suspendisse dignissim suscipit facilisis. Morbi fermentum urna nec est lobortis, vel semper est gravida. Donec at lacus vitae risus commodo ornare ut ut ligula. Etiam et risus vehicula, suscipit quam id, bibendum tellus. Sed quis tempus justo. Nulla dapibus suscipit orci eget dignissim. Donec eleifend odio nec porttitor maximus. Sed non metus et ipsum sagittis dictum. Donec in neque in lacus finibus elementum eget non lorem. Maecenas magna augue, lacinia nec leo posuere, pulvinar gravida eros.
+You’ll need a gridded piece of paper, a pencil, straight edge ruler, and a pen.
 
-Mauris gravida eros tortor, vitae tincidunt arcu iaculis a. Mauris efficitur velit ligula, ullamcorper interdum turpis pharetra eget. Suspendisse ac tellus mollis, aliquam odio eu, luctus dui. Pellentesque sed massa vitae felis rutrum eleifend eget a felis. Proin venenatis eu enim tincidunt dapibus. Pellentesque a dolor enim. Morbi posuere mollis feugiat. Vivamus quis rutrum felis, nec rutrum orci. Curabitur dolor mi, tincidunt in sagittis nec, finibus eu nunc.
+{{< lazy-img src="calendar03" alt="your starting point" lazy="yes" >}}
 
-Nunc porta consectetur risus, sed vulputate nulla efficitur sed. In consequat pretium iaculis. Sed lacinia magna eu neque porta, vitae ornare quam scelerisque. Ut neque lorem, bibendum in metus non, mollis eleifend sem. Donec commodo porttitor eros, vitae dictum est suscipit nec. Sed interdum orci diam, ut scelerisque ex ornare id. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nam maximus lobortis leo at dignissim. Nullam faucibus et ante ut varius. Suspendisse nisi justo, malesuada et magna sit amet, fermentum aliquam enim. Etiam ut venenatis quam. Etiam tempus elit eros, id scelerisque urna interdum ut. Donec dapibus commodo orci, ut rhoncus diam blandit in.
+I created a calendar directly in my garden journal. Use 4 squares to represent the weeks for each month. The grid I’m using has 42 squares, limiting my calendar to 10 months. Not much sowing and transplanting occurs during December and January, so throw these months out if your grid is limited, too.
 
-Phasellus justo elit, tincidunt et rhoncus consectetur, semper nec nisi. Suspendisse mauris eros, lobortis eget massa id, dignissim feugiat nisl. Phasellus pulvinar massa sem. Vestibulum gravida ultricies justo eu fermentum. Nam facilisis, nisi eu maximus luctus, turpis elit vestibulum risus, sed vehicula mi libero at velit. In hac habitasse platea dictumst. Quisque tempus diam ac porttitor mattis. Aenean dapibus libero ac dolor vulputate, a pulvinar velit venenatis. Duis sed massa convallis arcu convallis iaculis. Donec pellentesque hendrerit tortor, eget sollicitudin metus lacinia ut. Duis ullamcorper dictum egestas. Nullam sit amet dapibus est. Cras sed velit sem. Aliquam fermentum quis dolor ac vestibulum.
+I recommend using a pencil so mistakes can be erased but a pen will work for this step too. Across the top of the page label every four squares with the appropriate month. Then use a ruler to draw straight lines down the page.
 
-Duis quis lacus purus. Aliquam fermentum, leo vitae fermentum vehicula, dolor sapien fermentum nulla, non ultrices orci eros nec est. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Proin justo neque, mollis eget sapien a, ullamcorper consectetur augue. Curabitur feugiat placerat dolor nec luctus. Nullam elementum sed ante eu pharetra. Nam eget metus porta, dictum elit quis, blandit mauris. Ut vitae ornare mi. Mauris quis laoreet massa.
+Now that the calendar is created, mark your first and last frost dates with a dotted line. US residents can find it here [https://www.almanac.com/gardening/frostdates](https://www.almanac.com/gardening/frostdates), but for everyone else, search for “average first and last frost, city and country” to find it. In the future, you could use a pen to record the year’s actual last and first frost dates and then use them as a reference for coming years.
 
-Vestibulum ultricies accumsan massa, sed hendrerit sapien dapibus ut. Etiam dictum eros ac enim scelerisque, vel auctor dui tincidunt. Etiam rhoncus venenatis arcu, sit amet imperdiet purus ullamcorper vitae. Phasellus suscipit ut mi ut porta. In viverra gravida faucibus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Sed in ipsum ullamcorper, viverra odio vel, feugiat elit. Proin id turpis dictum, vulputate orci vel, feugiat dolor. Morbi mattis semper nulla at aliquam. Sed et ullamcorper risus. Suspendisse feugiat mattis cursus. Maecenas quis mattis lectus, a consectetur turpis.
+{{< lazy-img src="calendar05" alt="your starting point" >}}
 
-Fusce vestibulum odio in diam fermentum rhoncus non sed ipsum. Duis bibendum nunc quis egestas aliquet. Curabitur tincidunt ipsum lectus, quis feugiat odio dignissim quis. Nam scelerisque lacus in rutrum aliquet. Sed ultrices erat vel massa finibus, quis condimentum orci aliquet. Donec eget tempor turpis, quis mattis felis. Sed nec urna quis sapien ullamcorper sagittis eu at sem. Phasellus at tellus non sem sollicitudin convallis. Duis ornare lectus eu lectus rutrum, non ornare purus vulputate. Fusce massa ligula, maximus ut lectus in, dignissim consectetur lectus. Nam consequat enim turpis, eu tristique sapien suscipit semper. Quisque ullamcorper ante leo, non elementum purus blandit sit amet. Nulla facilisi.
+On to the fun part, filling in the calendar! Gather your seed packets or seed list and begin reading the information. In Germany, seed packets list the recommended month for planting, but I prefer knowing the weeks or days before the last frost to be planted.
 
-Proin ut lorem quam. Morbi a pellentesque quam, sed fermentum arcu. Nam sed pellentesque mauris, nec dictum neque. Duis ultrices eros eget vehicula rhoncus. Donec molestie, purus in placerat eleifend, risus ligula vulputate turpis, a lacinia mi nisi quis ipsum. Praesent quis nisl suscipit sapien tincidunt vulputate vel ac nibh. Nunc ultricies leo id libero dignissim iaculis. Quisque placerat, dolor vitae scelerisque pulvinar, est lorem sodales nunc, at laoreet lorem nibh vel quam. Pellentesque a nibh et nunc eleifend tincidunt vel sit amet velit. Praesent quis commodo ex. Etiam posuere tortor blandit, aliquam diam sed, venenatis sapien. Fusce velit dolor, sodales vel quam eget, sodales rhoncus ante.
+To be a good gardener, it’s best to start learning plants in terms of days or weeks growing so if you move to a different climate, the only info required are the frost days. Growth information is also helpful for succession planting, a way to extend a crop’s availability during the growing season in order to make efficient use of time and space. Do yourself a favor and familiarize yourself on days till harvest.
 
-Nulla in auctor eros. Etiam euismod eleifend mollis. Nullam sagittis nunc at neque vestibulum, nec porttitor orci aliquet. Proin feugiat erat at purus iaculis, eu tincidunt erat rutrum. Nullam porta sem vitae felis viverra, et hendrerit tortor consequat. Maecenas iaculis elit in eros scelerisque, at tincidunt diam congue. Ut elementum fermentum mi sed molestie. Nulla interdum risus ac risus congue, non volutpat diam venenatis. Phasellus rutrum ligula eu lectus mollis aliquam. Vestibulum gravida sollicitudin eros, at accumsan quam cursus in. Maecenas eget velit id dui ornare sagittis et id nulla. Nunc feugiat volutpat sapien, vel convallis nisi pretium vel.
+{{< lazy-img src="calendar15" alt="succession planting" width="300" class="alignright" >}}
 
-Cras blandit metus eget augue sodales, pretium suscipit lectus interdum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Vivamus mollis purus magna. Nam hendrerit nisl sollicitudin porta venenatis. Curabitur sed lorem ullamcorper, fringilla turpis vitae, pellentesque nisi. Etiam interdum fringilla velit, sollicitudin volutpat libero fermentum vel. Quisque consectetur nulla eget magna condimentum elementum. Nulla facilisi. Aliquam pellentesque ipsum et tempus placerat. Duis venenatis interdum quam. Mauris mattis non mauris id tristique. Nullam consectetur, diam ac consectetur vestibulum, nulla metus sagittis nisl, ut egestas odio sem et leo. Nulla mollis enim vitae odio consectetur, eget scelerisque mauris sollicitudin. Mauris rhoncus viverra tincidunt. Sed aliquam lacus a lacinia imperdiet. Sed eget ultrices elit, a egestas leo. Praesent ultrices placerat diam nec.
+The symbols I use for the chart are: Harvest “H,” Sow Indoors “SI,” Direct Sow “DS” Transplant “T” By all means use whatever symbols and abbreviations you like; it’s your calendar, go ahead and personalize it.
+
+Let’s use lettuce and tomatoes as examples.
+
+{{< lazy-img src="calendar08" alt="your starting point" width="300" class="alignright" >}}
+
+Lettuce can be sown indoors 6 weeks before last frost, transplanted 4 weeks before last frost, or direct sown 4 weeks before last frost, then harvested in 40 days, roughly 1.5 months later. Using a pencil, write lettuce on the left side of your chart, find your frost date line then count 6 squares back from the line. For my area that means seeds can be sown at the earliest of the last week in February.
+
+Create a rectangle for at least 3 weeks and mark with your “sow indoors” symbol—I use circles. This rectangle represents the earliest you can sow your seeds.
+
+{{< lazy-img src="calendar09" alt="your starting point" width="300" class="alignright" >}}
+
+From the frost date line count four squares back and mark as earliest transplant time.
+
+40 days till harvest, does that mean from sowing the seed or after transplanting? It depends: some seed companies clearly state whether it’s from sowing or after transplant so always read the seed packet or check the website. If it’s not clearly stated then the general rule is: if the seed is direct sown then it’s from the time of sowing; if the seedling is transplanted then it’s from the time after transplanting.
+
+{{< lazy-img src="calendar10" alt="your starting point" width="300" class="alignright" >}}
+
+Plants can have a tendency to stop growing for short period of time after transplanting to adjust to the new soil biology. (As a side note, this pause in growth is when they are most vulnerable to pests.) 40 days is a little over five weeks. From your first transplant line count 5-6 squares forward. For me this would be the third week in April. Mark as “harvest.”
+
+{{< lazy-img src="calendar11" alt="your starting point" width="300" class="alignright" >}}
+
+All this recording should be done in pencil so that when you do sow, it can be marked in pen. So let’s say there wasn’t much time to sow seeds during that last week in February, or you’ll be on vacation and didn’t sow your seeds until the second or third week of March. Mark when you actually sowed your seeds in pen or a different colored pencil, and shift the subsequent transplant and harvest times. And since you were late, you can now see on the calendar that the seeds could be sown directly outside if you don’t want to start them indoors.
+
+A seed calendar is a guideline. It’s okay to be late: in fact, a general rule is that it’s better to be a little late than too early (unless it’s cold crops like radishes or kale).
+
+{{< lazy-img src="calendar13" alt="succession planting" width="300" class="alignright" >}}
+
+To have lettuce from April - June consider succession planting. On the lines below offset the sowing and harvest dates. This way you’ll have a continuous supply for 2-3 months rather than only 1-2 weeks in April.
+
+Tomatoes require a different strategy. Unless you live in a warm climate that rarely gets frost—say, southern Mexico and below—tomatoes must be started indoors. Tomatoes require roughly 120 days from seed to fruit. The growing season for my area here in Germany is roughly 190 days, 70 days extra… if there isn’t a sudden frost early or late in the season: tomatoes absolutely hate frost. Even though there’s a potential month of harvest at the end of season from direct sow to fruit, it’s too risky. Also, by starting early you can harvest tomatoes for up to 3 months earlier rather than in one month at the end of summer especially with succession planting or early varieties.
+
+Sowing tomatoes indoors starts 6 weeks before the last frost—end of February. Earliest transplant to latest transplant 2-10 weeks after frost—end of April until end of June. Harvest 60 days or 8 weeks later—end of June until fall.
+
+Again the calendar is a guideline, giving an overview of the year. If the weather was particularly cool after transplanting for warm weather crops, such as tomatoes, harvest might be in 70 or 80 days instead of 60.
+
+The calendar is also useful if you’d like to cook a special dish made entirely of fruits or vegetables from your garden, such as ratatouille, especially if the plants are harvested at different times of the year. Or maybe, you want annual flowers in bloom for a special occasion like a wedding, birthday, or anniversary. Let’s say you know you’ll be on vacation during the normal tomato harvest: transplant the seedlings so the harvest will be before or after the trip. If you want the longest harvest possible for a particular, vegetable look at early, mid and late season varieties.
+
+I should note that the calendar is not very useful if trying to manipulate perennial crops and flowers, such as fruiting trees, fruiting bushes, asparagus, artichokes, purple coneflowers etc,. They are fixed in the seasons and special early or late varieties are needed to extend the season. If you have space on the calendar after recording the annuals feel free to record your perennial harvest times. It’s your calendar, record whatever you like!
+
+I hope this guide helps organize when to plant your seeds. It’s time to face our fears! For advice on the next step, come back for the next article, “How to sow seeds.”
+
+{{< lazy-img src="calendar14" alt="the finished product" >}}

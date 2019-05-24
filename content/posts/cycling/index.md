@@ -7,7 +7,7 @@ featured_image_alt: "The Rhein"
 categories:
   - Germany
 ---
-{{< lazy-img src="fahrradstrasse.jpg" width="300" class="alignright" alt="Fahrradstraße" caption="Fahrradstraße, or 'bike street'" >}}
+{{< reg-img src="fahrradstrasse.jpg" width="300" class="alignright" alt="Fahrradstraße" caption="Fahrradstraße, or 'bike street'" >}}
 
 Bicycling is one of my favorite things about living in Germany. There are clearly-marked lanes specifically for bicyclists and should you accidently wander into one, you will be reminded by angry shouts and ringing bells, or simply run over.
 

@@ -3,10 +3,15 @@
 <div class="gallery" style="float:{{ $float }};">
 {{ with $images }}
   {{ range sort . "Name" }}
+    {{ $placeholder := .Resize "48x q20" }}
     {{ $original := . }}
-    {{ $resized := .Resize "400x" }}
+    {{ $resized := .Resize "300x" }}
       <a href="{{ $original.Permalink }}">
-        <img src="{{ $resized.Permalink }}"/>
+        <img
+          class="lazy"
+          width="100%"
+          src="{{ $placeholder.Permalink }}"
+          data-src="{{ $resized.Permalink }}" />
       </a>
   {{ end }}
 {{ end }}
