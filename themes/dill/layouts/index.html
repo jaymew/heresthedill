@@ -1,7 +1,7 @@
 {{ partial "header.html" . }}
 <main>
 {{ .Content }}
-  {{ $paginator := .Paginate (where .Data.Pages "Type" "posts") }}
+  {{ $paginator := .Paginate (where .Data.Pages "Type" "posts") 5 }}
   {{ range $paginator.Pages }}
   <article>
     {{ with .Params.featured_image }}<img class="featured-image" src="{{ . }}" alt="">{{ end }}
