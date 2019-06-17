@@ -36,9 +36,9 @@ Keeping your eyes open to opportunities when they present themselves allows you 
 
 {{< lazy-img src="dg6.jpg" alt="Aquarium greenhouse all lit up"  >}}
 
-Not only will you find joy growing seedlings on your desk but so will your co-workers. I can’t tell you how many times I’ve come in and a colleague excitedly points out a new seedling poking through the soil.
-
 {{< lazy-img src="dg7.jpg" width="300" class="alignright" alt="poking through!"  >}}
+
+Not only will you find joy growing seedlings on your desk but so will your co-workers. I can’t tell you how many times I’ve come in and a colleague excitedly points out a new seedling poking through the soil.
 
 They are an interesting and easy addition to the workspace to casually watch throughout the work week.
 
