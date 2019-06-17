@@ -9,7 +9,7 @@
 		<div class="meta-box">
     	<br/><span class="date-day">{{ .Date.Format "02" }}</span>
       <br/><span class="date-mon-year">{{ .Date.Format "Jan 06" }}</span>
-			<br/><a href="{{ .URL }}">Permalink</a>
+			<br/><a href="{{ .Permalink }}">Permalink</a>
 		</div>
 		{{ .Content }}
     {{ with .Params.categories }}

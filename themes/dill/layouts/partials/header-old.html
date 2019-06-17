@@ -11,10 +11,10 @@
 		<nav class="navigation">
 				<ul class="menu">
 					{{ range .Site.Menus.main }}
-						<li><a href="{{ .URL | relURL }}">{{ .Name }}{{ .Pre }}</a></li>
+						<li><a href="{{ .Permalink | relURL }}">{{ .Name }}{{ .Pre }}</a></li>
 					{{ end }}
 					{{ range .Site.Menus.social }}
-						<li><a href="{{ .URL | safeURL }}" target="_blank">{{ .Pre }}</a></li>
+						<li><a href="{{ .Permalink | safeURL }}" target="_blank">{{ .Pre }}</a></li>
 					{{ end }}
 				</ul>
 			</nav>

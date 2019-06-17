@@ -5,7 +5,7 @@
     {{ range (where .Data.Pages "Section" "!=" "articles") }}
       {{ if ( gt ( len .Data.Pages ) 0 ) }}
       <div class="category-box" style="background: top right / cover url('{{ .Params.featured_image }}') #eee;">
-        <a href="{{ .URL }}">
+        <a href="{{ .Permalink }}">
           <div class="category-link">
             <div class="category-title">{{ .Title }}</div>
           </div>

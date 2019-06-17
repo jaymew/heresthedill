@@ -6,11 +6,11 @@
   {{ range $paginator.Pages }}
   <article>
     {{ with .Params.featured_image }}<img class="featured-image" src="{{ . }}" alt="">{{ end }}
-		<a href="{{ .URL }}"><h2>{{ .Title }}</h2></a>
+		<a href="{{ .Permalink }}"><h2>{{ .Title }}</h2></a>
 		<div class="meta-box">
     	<br/><span class="date-day">{{ .Date.Format "02" }}</span>
       <br/><span class="date-mon-year">{{ .Date.Format "Jan 06" }}</span>
-			<br/><a href="{{ .URL }}">Permalink</a>
+			<br/><a href="{{ .Permalink }}">Permalink</a>
 		</div>
 		{{ .Content }}
     {{ with .Params.categories }}

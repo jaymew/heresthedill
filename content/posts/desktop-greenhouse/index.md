@@ -14,9 +14,9 @@ One of my favorite things about gardening is the creative opportunity to constru
 
 Now, my job involves working with fish so this equipment is useful but this aquarium is missing a side panel: not very useful for holding water anymore. This particular aquarium light is not used in the lab anymore either so these items were destined for the *Auspackraum*, the recycling / trash room within the University.
 
-But an idea struck me: a mini seedling greenhouse for my office desk! I have the space so why not? The nice thing about this particular set up is easy access of the plants from the side since the panel is off: this way I don’t have to remove the light every time seedlings need to be checked, which is daily.
+But an idea struck me: a mini seedling greenhouse for my office desk! I have the space, so why not? The nice thing about this particular set up is the easy access of the plants from the side, since the panel is off: this way I don’t have to remove the light every time seedlings need to be checked, which is daily.
 
-Disclaimer, I don’t recommend you attempt popping off an aquarium panel as it’s potentially dangerous due to shattering. It was a lucky accident that this panel popped off the seams without breaking or creating any sharp edges.
+**Disclaimer:** I don’t recommend you attempt popping off an aquarium panel as it’s potentially dangerous due to shattering. It was a lucky accident that this panel popped off the seams without breaking or creating any sharp edges.
 
 The first step is to check the bulb to see if it contains the spectrum plants need to grow. It’s a T8 which is good. Although I might replace it anyway: lights tend to lose their strength over time and since I do not know how long the bulb was used, it’s a safe bet it’s old enough not to be at full strength anymore. For now, I’ll watch how the first batch of seedlings grow as an experiment until I acquire a new bulb.
 
