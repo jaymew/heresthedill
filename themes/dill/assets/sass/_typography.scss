@@ -95,6 +95,25 @@ figcaption {
 	text-transform: uppercase;
 }
 
+.footnote {
+	display: block;
+	float: right;
+	margin: 3rem;
+	margin-right: -15rem;
+	width: 30rem;
+	font-size: 1.6rem;
+	font-style: italic;
+	color: $color__orange;
+}
+
+@media screen and (max-width: calc($size__break + 15rem) ) {
+	.footnote {
+		float: none;
+		margin-right: 3rem;
+		width: 100%;
+	}
+}
+
 @media screen and (max-width: $size__mobilemenu) {
 	h1 {
 		font-size: 3rem;

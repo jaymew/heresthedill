@@ -6,10 +6,19 @@
     <description>Recent content in Categories on Here&#39;s the Dill</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 18 Jun 2019 09:46:18 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 25 Jun 2019 11:34:45 +0200</lastBuildDate>
     
 	<atom:link href="https://hereisthedill.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Seeds</title>
+      <link>https://hereisthedill.com/categories/seeds/</link>
+      <pubDate>Tue, 25 Jun 2019 11:34:45 +0200</pubDate>
+      
+      <guid>https://hereisthedill.com/categories/seeds/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Balkongarten</title>
@@ -44,15 +53,6 @@
       <pubDate>Sun, 16 Jun 2019 13:21:49 +0200</pubDate>
       
       <guid>https://hereisthedill.com/categories/germany/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Seeds</title>
-      <link>https://hereisthedill.com/categories/seeds/</link>
-      <pubDate>Wed, 12 Jun 2019 12:57:07 +0200</pubDate>
-      
-      <guid>https://hereisthedill.com/categories/seeds/</guid>
       <description></description>
     </item>
     
