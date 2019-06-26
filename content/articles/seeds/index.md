@@ -7,6 +7,8 @@ categories:
 ---
 This is the year, the year that I’m finally going to face a fear. In the past I’ve avoided it and paid the price. It’s the seed.
 
+{{< reg-img src="00.jpg" alt="before and after plant" caption="Tithonia seedlings I forgot to water; luckily they sprung back after a good soak." >}}
+
 That’s right, I’ve been afraid of starting from seed. Who wants to get their hopes up watching their tiny seedlings grow, only to see them die later?
 
 And I don’t think I’m the only one. But it’s important to learn how to grow from seed—for the sake of our wallets. So this year I’m going full force, it’s all or nothing; I’ve set up not one, not two, but three seed stations.
@@ -36,8 +38,6 @@ Interesting seed facts:
 Cold stratification is the moist cold period before the warming of spring certain seeds require to break dormancy.
 Pyrohytic plants, plants evolved to tolerate fire, are triggered to release seeds during the event of wildfire. Triggers can include smoke or intense heat. This environmental release response is called serotiny.
 
-{{< lazy-img src="06.jpg" alt="Flowers in bright light" width="300" class="alignleft" >}}
-
 ## Light
 
 Seedlings require a lot of light. They continue to grow towards light until they reach sufficient light levels. When they don’t have enough light, they think they are still in the soil or being shaded out by plants. They’ll keep stretching until their energy reserve is exhausted, leaving little strength to properly thicken the stem and develop a stable set of roots and true leaves.
@@ -56,13 +56,11 @@ Using grow lights and some bright shop lights solve this indoor issue.
 
 In conjunction with light intensity, is the length of time the light needs to be on. Seedlings require a minimum of 12-15 hours of light per day. That makes sense since daylight length in April, the average time when seeds and plants outdoors begin sprouting, reaches 12-13 hours. It’s important to note that they also require a dark period of rest so don’t think you can leave grow lights on 24/7 in hopes of growing a massive plant quicker.
 
-{{< lazy-img src="08.jpg" alt="Flowers behind a gate" width="300" class="alignleft" >}}
+{{< lazy-img src="09.jpg" alt="seedling with roots" width="300" class="alignleft" >}}
 
 ## Air Circulation
 
 The last important factor is air circulation. This prevents a fungal disease called damping off. Fungi thrive in a moist low-airflow environment. And while fungi are important in plant health, the strains that cause damping off are not. The easiest prevention is placing seedlings in an area with good air circulation, using a fan if needed, as well as using a sterile seedling potting mix.
-
-{{< lazy-img src="09.jpg" alt="seedling with roots" width="300" class="alignleft" >}}
 
 ## Sowing Seeds
 
@@ -72,30 +70,36 @@ For foxglove and tomatoes I recommend using small seed plug trays or small conta
 
 Fill your containers with medium and then gently tap the containers on a table to settle it. Do not press on the medium! This compacts the it, making it difficult for seedling roots to push through and providing less micro spaces for air and water pockets, both of which plant roots need.
 
-{{< lazy-img src="10.jpg" alt="tiny foxglove seeds" caption="tiny foxglove seeds" width="300" class="alignleft" >}}
+{{< lazy-img src="10.jpg" alt="tiny foxglove seeds" caption="tiny foxglove seeds"  width="300" class="alignleft" >}}
 
 Next, it’s very important to read the seed packet or look up online at what depth to sow the seeds. Foxglove seeds need light to germinate so they are sown directly on top of the medium. Tomatoes require a planting depth of a ½ cm (¼ in) of medium. If seeds are sown too deeply they risk rotting from the damping-off fungi; too shallow and they stay dry and will not germinate. A general rule is sow seeds a depth of their size. Foxglove seeds are tiny, like dust, sprinkle them as thinly as possible over the surface. Tomato seeds are larger, place two seeds per cell on top of the medium, then poke them in using a pencil tip to a depth equal to the diameter of the seed; cover lightly with soil.
 
 {{< footnote "Sowing two seeds per cell insures a higher success rate of germination in every container. This reduces the potential waste of resources: time spent sowing, watering and medium mix." >}}
 
-{{< lazy-img src="11.jpg" alt="soaked seeds" width="300" class="alignleft" >}}
+{{< lazy-img src="11.jpg" alt="soaked seeds" caption="Soaking the seed tray" width="300" class="alignleft" >}}
 
 After sowing the seeds, soak them. It’s best to water from below and allow the water to soak up. This prevents a gush of water from washing away the mix and seeds. Fill a flat container with room temperature water and place seed trays or seed pots inside. Leave in the pool of water until the surface of the medium is moist. This will take at least 15 minutes. Alternatively you could use a fine mist spray bottle or hose with a fine mist attachment but this could take longer to fully saturate the mix.
 
 {{< footnote "Room temperature water keeps the potting medium temperature warm for faster and more even germination." >}}
 
-{{< lazy-img src="12.jpg" alt="radishes" width="300" class="alignleft" >}}
-
 Radishes are slightly different, they require being directly sown in their permanent place until harvest, which is true for most root crops. Sow directly in the garden or use a container with at least 15 cm (6 in) depth.
-
-{{< lazy-img src="13.jpg" alt="seed depth" width="300" class="alignleft" >}}
 
 Fill the container with a nutrient rich potting mix, not seed-starter mix! Remember, they will be here permanently for the next month and require nutrients to grow. I recommend watering the mix at this point since it’s a larger/deeper pot that can be more difficult to saturate from soaking; that is, if you don’t have a container larger and deeper than what you plan on using. Create small impressions in the soil using the back of the pencil 1 cm (½ in) deep spaced 2.5 cm (1in) apart. Cover lightly with soil and mist the top to prevent disturbing the seeds.
 
-{{< lazy-img src="14.jpg" alt="radishes" width="300" class="alignleft" >}}
+<div class="four-across">
+  {{< lazy-img src="12.jpg" alt="radish seedlings"  >}}
+  {{< lazy-img src="13.jpg" alt="radishe seeds on the soil" >}}
+  {{< lazy-img src="14.jpg" alt="radishes"  >}}
+</div>
 
 Radishes are a cool weather crop and can be placed outside or sown directly as soon as the soil is workable. The foxglove and tomato seeds should be placed in your designated seed station.
 
 Once the true leaves of the tomatoes and foxgloves are large enough to start crowding out neighboring seedlings, generally larger than the cotyledons (seed leaves), transplant them into a slightly larger pot with nutrient-rich mix. The goal is to form a nice plug of roots and keep the seedlings continually growing. You may pot on as many as 3-4 times before the plants are ready for the garden.
 
 I suggest these three seeds because they are pretty forgiving. Radishes basically take care of themselves during the 25-30 days until harvest: tomatoes will easily show you when they are unhappy and bounce back quickly: and foxgloves will pause their growth until conditions are favorable again. So if you’re new to seeds, I recommend giving these three a try.
+
+<div class="four-across">
+  {{< lazy-img src="15.jpg" alt="radish"  >}}
+  {{< lazy-img src="16.jpg" alt="seedling" >}}
+  {{< lazy-img src="17.jpg" alt="seedling from above"  >}}
+</div>
