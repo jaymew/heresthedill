@@ -87,9 +87,9 @@ Radishes are slightly different, they require being directly sown in their perma
 Fill the container with a nutrient rich potting mix, not seed-starter mix! Remember, they will be here permanently for the next month and require nutrients to grow. I recommend watering the mix at this point since it’s a larger/deeper pot that can be more difficult to saturate from soaking; that is, if you don’t have a container larger and deeper than what you plan on using. Create small impressions in the soil using the back of the pencil 1 cm (½ in) deep spaced 2.5 cm (1in) apart. Cover lightly with soil and mist the top to prevent disturbing the seeds.
 
 <div class="four-across">
-  {{< lazy-img src="12.jpg" alt="radish seedlings"  >}}
-  {{< lazy-img src="13.jpg" alt="radishe seeds on the soil" >}}
-  {{< lazy-img src="14.jpg" alt="radishes"  >}}
+  {{< lazy-img src="12.jpg" alt="radish seedlings" width="300"  >}}
+  {{< lazy-img src="13.jpg" alt="radishe seeds on the soil" width="300" >}}
+  {{< lazy-img src="14.jpg" alt="radishes" width="300"  >}}
 </div>
 
 Radishes are a cool weather crop and can be placed outside or sown directly as soon as the soil is workable. The foxglove and tomato seeds should be placed in your designated seed station.
@@ -99,7 +99,7 @@ Once the true leaves of the tomatoes and foxgloves are large enough to start cro
 I suggest these three seeds because they are pretty forgiving. Radishes basically take care of themselves during the 25-30 days until harvest: tomatoes will easily show you when they are unhappy and bounce back quickly: and foxgloves will pause their growth until conditions are favorable again. So if you’re new to seeds, I recommend giving these three a try.
 
 <div class="four-across">
-  {{< lazy-img src="15.jpg" alt="radish"  >}}
-  {{< lazy-img src="16.jpg" alt="seedling" >}}
-  {{< lazy-img src="17.jpg" alt="seedling from above"  >}}
+  {{< lazy-img src="15.jpg" alt="radish" width="300"  >}}
+  {{< lazy-img src="16.jpg" alt="seedling" width="300" >}}
+  {{< lazy-img src="17.jpg" alt="seedling from above" width="300"  >}}
 </div>
