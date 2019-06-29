@@ -244,11 +244,14 @@ aside div:nth-of-type(1n+2) {
 
 .sidebar-content {
 	clear: both;
+	padding: 2rem 1rem;
+}
+
+.sidebar-content p {
 	font-size: 1.2rem;
 	line-height: 1.6rem;
 	font-weight: lighter;
 	color: #555;
-	padding: 2rem 1rem;
 }
 
 .sidebar-tax {
@@ -458,6 +461,7 @@ h1, h2, h3, h4, h5, h6 {
 	font-family: "Bodedo", "Bodoni", sans-serif;
 	color: #669966;
 	margin-bottom: 2rem;
+	line-height: normal;
 }
 
 h1 {
@@ -475,6 +479,18 @@ h2 {
 
 h3 {
 	font-size: 2.8rem;
+	font-weight: 100;
+	margin-bottom: 1rem;
+}
+
+h4 {
+	font-size: 2.4rem;
+	font-weight: 100;
+	margin-bottom: 1rem;
+}
+
+h5 {
+	font-size: 2rem;
 	font-weight: 100;
 	margin-bottom: 1rem;
 }
@@ -561,7 +577,7 @@ figcaption p {
 	color: #ff6633;
 }
 
-@media screen and (max-width: 1200px) {
+@media screen and (max-width: calc($size__break + 15rem)) {
 	.footnote {
 		float: none;
 		margin-right: 3rem;
