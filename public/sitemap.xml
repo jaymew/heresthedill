@@ -3,20 +3,46 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://hereisthedill.com/categories/articles/</loc>
+    <lastmod>2019-07-07T08:21:30+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hereisthedill.com/categories/balkongarten/</loc>
+    <lastmod>2019-07-07T08:21:30+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://hereisthedill.com/categories/</loc>
-    <lastmod>2019-06-25T11:34:45+02:00</lastmod>
+    <lastmod>2019-07-07T08:21:30+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://hereisthedill.com/</loc>
-    <lastmod>2019-06-25T11:34:45+02:00</lastmod>
+    <lastmod>2019-07-07T08:21:30+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hereisthedill.com/posts/seed-blurb/</loc>
+    <lastmod>2019-07-07T08:21:30+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hereisthedill.com/posts/</loc>
+    <lastmod>2019-07-07T08:21:30+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://hereisthedill.com/categories/seeds/</loc>
-    <lastmod>2019-06-25T11:34:45+02:00</lastmod>
+    <lastmod>2019-07-07T08:21:30+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hereisthedill.com/categories/soil/</loc>
+    <lastmod>2019-07-07T08:21:30+02:00</lastmod>
   </url>
   
   <url>
@@ -25,19 +51,8 @@
   </url>
   
   <url>
-    <loc>https://hereisthedill.com/categories/balkongarten/</loc>
-    <lastmod>2019-06-18T09:46:18+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://hereisthedill.com/posts/june-update/</loc>
     <lastmod>2019-06-18T09:46:18+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hereisthedill.com/posts/</loc>
-    <lastmod>2019-06-18T09:46:18+02:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -51,9 +66,8 @@
   </url>
   
   <url>
-    <loc>https://hereisthedill.com/categories/deustch/</loc>
+    <loc>https://hereisthedill.com/categories/deutsch/</loc>
     <lastmod>2019-06-16T13:21:49+02:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -62,23 +76,28 @@
   </url>
   
   <url>
-    <loc>https://hereisthedill.com/posts/desktop-greenhouse/</loc>
-    <lastmod>2019-06-12T12:57:07+02:00</lastmod>
+    <loc>https://hereisthedill.com/posts/calendar-blurb/</loc>
+    <lastmod>2019-06-13T08:14:21+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hereisthedill.com/categories/organization/</loc>
+    <lastmod>2019-06-13T08:14:21+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://hereisthedill.com/categories/work/</loc>
+    <lastmod>2019-06-13T08:14:21+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hereisthedill.com/posts/desktop-greenhouse/</loc>
     <lastmod>2019-06-12T12:57:07+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://hereisthedill.com/posts/cycling/</loc>
     <lastmod>2019-05-22T12:40:11+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hereisthedill.com/categories/organization/</loc>
-    <lastmod>2019-05-21T17:37:14+02:00</lastmod>
   </url>
   
   <url>
@@ -117,15 +136,7 @@
   </url>
   
   <url>
-    <loc>https://hereisthedill.com/categories/deutsch/</loc>
-  </url>
-  
-  <url>
     <loc>https://hereisthedill.com/categories/kleingarten/</loc>
-  </url>
-  
-  <url>
-    <loc>https://hereisthedill.com/categories/soil/</loc>
   </url>
   
   <url>

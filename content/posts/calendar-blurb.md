@@ -12,4 +12,4 @@ categories:
 ---
 Hi Everyone!
 
-If you haven’t done so, check out my [Articles](https://hereisthedill.com/articles/) section for [Starting Your Seed Calendar](https://hereisthedill.com/articles/starting-your-seed-calendar/). It’ll teach you how to create an outline of when to sow seeds so you don’t miss crucial planting windows in your specific climate. A seed calendar is a great organizational and record keeping tool for present and future growing seasons. Be sure to post your photo on twitter with #seedcalendar and [@hereisthedill](https://twitter.com/hereisthedill)!
+If you haven’t done so, check out my [Articles](https://hereisthedill.com/articles/) section for [Starting Your Seed Calendar](https://hereisthedill.com/articles/starting-your-seed-calendar/). It’ll teach you how to create an outline of when to sow seeds so you don’t miss crucial planting windows in your specific climate. It’s a great way to stay organized and keep records for present and future growing seasons. Be sure to post your photo on twitter with #seedcalendar and [@hereisthedill](https://twitter.com/hereisthedill)!
