@@ -1,4 +1,4 @@
 ---
 title: "Articles"
-featured_image: ""
+featured_image: "/img/uploads/glove.png"
 ---
