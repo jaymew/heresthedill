@@ -1,4 +1,4 @@
 ---
 title: "Soil"
-featured_image: "/img/uploads/imag1495.jpg"
+featured_image: "/img/uploads/soil.jpg"
 ---

@@ -5,7 +5,7 @@ draft: false
 featured_image: ""
 featured_image_alt: ""
 categories:
-- Deustch
+- Deutsch
 - Germany
 ---
 {{< reg-img src="strasse.jpg" width="300" class="alignright" alt="Steigstrasse" caption="Steigstraße"  >}}
