@@ -117,9 +117,10 @@ figcaption {
 	color: $color__orange;
 }
 
-@media screen and (max-width: calc($size__break + 15rem) ) {
+@media screen and (max-width: 1299px) {
 	.footnote {
 		float: none;
+		margin-left: 0;
 		margin-right: 3rem;
 		width: 100%;
 	}
