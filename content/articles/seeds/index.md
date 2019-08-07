@@ -27,16 +27,13 @@ When starting seeds indoors, it’s best to use mixes specifically for seeds. Qu
 
 It’s important to keep the medium moist to begin the process of germination. Once the seed breaks dormancy, water is used to fill and expand the cell vacuoles within plant cells and transport soluble nutrients into the plant. It’s very important to keep seedlings moist since they are not yet large enough to store excess water in roots and leaves for periods of drought simply because they do not have many roots or leaves yet.
 
+{{< footnote "Interesting seed facts: Cold stratification is the moist cold period before the warming of spring certain seeds require to break dormancy. Pyrohytic plants, plants evolved to tolerate fire, are triggered to release seeds during the event of wildfire. Triggers can include smoke or intense heat. This environmental release response is called serotiny." >}}
+
 {{< lazy-img src="05.jpg" alt="Flowers at dusk" width="300" class="alignleft" >}}
 
 ## Temperature
 
 Temperature tells the seed what season it is so they don’t sprout during the wrong time of the year and perish. This varies from seed to seed but in general seeds like a temperature between 18-22C (64-72F). Read the seed packet to find out if your seeds require a different temperature range.
-
-pull quote
-Interesting seed facts:
-Cold stratification is the moist cold period before the warming of spring certain seeds require to break dormancy.
-Pyrohytic plants, plants evolved to tolerate fire, are triggered to release seeds during the event of wildfire. Triggers can include smoke or intense heat. This environmental release response is called serotiny.
 
 ## Light
 
@@ -68,9 +65,9 @@ Once you have your sterile potting mix, pots, and seeds it’s time to start sow
 
 For foxglove and tomatoes I recommend using small seed plug trays or small containers. The benefit is that it uses less medium during their germination stage and allows them to create a nice plug of roots; enough to hold the medium together but not enough to become root bound (roots wrapping around within the container). Using less medium is also more cost effective. Seedling potting mix is not the cheapest, so if some seeds do not germinate, little medium was wasted. It also does not have many nutrients, so by the time the seeds grow their first set of true leaves, the roots will have taken up the space within the plugs and be ready for transplant in a more nutrient rich mix.
 
-Fill your containers with medium and then gently tap the containers on a table to settle it. Do not press on the medium! This compacts the it, making it difficult for seedling roots to push through and providing less micro spaces for air and water pockets, both of which plant roots need.
+Fill your containers with medium and then gently tap the containers on a table to settle it. Do not press on the medium! This compacts it, making it difficult for seedling roots to push through and providing less micro spaces for air and water pockets, both of which plant roots need.
 
-{{< lazy-img src="10.jpg" alt="tiny foxglove seeds" caption="tiny foxglove seeds"  width="300" class="alignleft" >}}
+{{< lazy-img src="10.jpg" alt="tiny foxglove seeds" caption="Tiny foxglove seeds"  width="300" class="alignleft" >}}
 
 Next, it’s very important to read the seed packet or look up online at what depth to sow the seeds. Foxglove seeds need light to germinate so they are sown directly on top of the medium. Tomatoes require a planting depth of a ½ cm (¼ in) of medium. If seeds are sown too deeply they risk rotting from the damping-off fungi; too shallow and they stay dry and will not germinate. A general rule is sow seeds a depth of their size. Foxglove seeds are tiny, like dust, sprinkle them as thinly as possible over the surface. Tomato seeds are larger, place two seeds per cell on top of the medium, then poke them in using a pencil tip to a depth equal to the diameter of the seed; cover lightly with soil.
 
