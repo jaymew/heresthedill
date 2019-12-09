@@ -6,10 +6,37 @@
     <description>Recent content in Categories on Here&#39;s the Dill</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 07 Jul 2019 08:21:30 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 08 Dec 2019 11:34:02 +0100</lastBuildDate>
     
 	<atom:link href="https://hereisthedill.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Gifts</title>
+      <link>https://hereisthedill.com/categories/gifts/</link>
+      <pubDate>Sun, 08 Dec 2019 11:34:02 +0100</pubDate>
+      
+      <guid>https://hereisthedill.com/categories/gifts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kleingarten</title>
+      <link>https://hereisthedill.com/categories/kleingarten/</link>
+      <pubDate>Fri, 01 Nov 2019 11:36:38 +0100</pubDate>
+      
+      <guid>https://hereisthedill.com/categories/kleingarten/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Video</title>
+      <link>https://hereisthedill.com/categories/video/</link>
+      <pubDate>Fri, 01 Nov 2019 11:36:38 +0100</pubDate>
+      
+      <guid>https://hereisthedill.com/categories/video/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Articles</title>
@@ -89,15 +116,6 @@
       <pubDate>Thu, 13 Jun 2019 08:14:21 +0200</pubDate>
       
       <guid>https://hereisthedill.com/categories/work/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Kleingarten</title>
-      <link>https://hereisthedill.com/categories/kleingarten/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://hereisthedill.com/categories/kleingarten/</guid>
       <description></description>
     </item>
     

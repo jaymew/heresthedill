@@ -3,6 +3,49 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://hereisthedill.com/categories/</loc>
+    <lastmod>2019-12-08T11:34:02+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hereisthedill.com/categories/gifts/</loc>
+    <lastmod>2019-12-08T11:34:02+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hereisthedill.com/posts/plants-as-gifts/</loc>
+    <lastmod>2019-12-08T11:34:02+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hereisthedill.com/</loc>
+    <lastmod>2019-12-08T11:34:02+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hereisthedill.com/posts/</loc>
+    <lastmod>2019-12-08T11:34:02+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hereisthedill.com/posts/gardeners-fall/</loc>
+    <lastmod>2019-11-01T11:36:38+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hereisthedill.com/categories/kleingarten/</loc>
+    <lastmod>2019-11-01T11:36:38+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hereisthedill.com/categories/video/</loc>
+    <lastmod>2019-11-01T11:36:38+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://hereisthedill.com/categories/articles/</loc>
     <lastmod>2019-07-07T08:21:30+02:00</lastmod>
   </url>
@@ -13,26 +56,8 @@
   </url>
   
   <url>
-    <loc>https://hereisthedill.com/categories/</loc>
-    <lastmod>2019-07-07T08:21:30+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hereisthedill.com/</loc>
-    <lastmod>2019-07-07T08:21:30+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://hereisthedill.com/posts/seed-blurb/</loc>
     <lastmod>2019-07-07T08:21:30+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hereisthedill.com/posts/</loc>
-    <lastmod>2019-07-07T08:21:30+02:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -133,10 +158,6 @@
   <url>
     <loc>https://hereisthedill.com/about/</loc>
     <lastmod>2018-08-14T15:25:08-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hereisthedill.com/categories/kleingarten/</loc>
   </url>
   
   <url>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Video on Here&#39;s the Dill</title>
+    <link>https://hereisthedill.com/categories/video/</link>
+    <description>Recent content in Video on Here&#39;s the Dill</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Nov 2019 11:36:38 +0100</lastBuildDate>
+    
+	<atom:link href="https://hereisthedill.com/categories/video/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Gardener&#39;s Fall</title>
+      <link>https://hereisthedill.com/posts/gardeners-fall/</link>
+      <pubDate>Fri, 01 Nov 2019 11:36:38 +0100</pubDate>
+      
+      <guid>https://hereisthedill.com/posts/gardeners-fall/</guid>
+      <description>First video created! Wishing all the gardeners&amp;rsquo; out there a wonderful season as they prepare for spring. Enjoy!
+  </description>
+    </item>
+    
+  </channel>
+</rss>

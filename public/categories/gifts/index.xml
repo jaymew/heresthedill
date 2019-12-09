@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gifts on Here&#39;s the Dill</title>
+    <link>https://hereisthedill.com/categories/gifts/</link>
+    <description>Recent content in Gifts on Here&#39;s the Dill</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 08 Dec 2019 11:34:02 +0100</lastBuildDate>
+    
+	<atom:link href="https://hereisthedill.com/categories/gifts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Giving the Gift that Grows</title>
+      <link>https://hereisthedill.com/posts/plants-as-gifts/</link>
+      <pubDate>Sun, 08 Dec 2019 11:34:02 +0100</pubDate>
+      
+      <guid>https://hereisthedill.com/posts/plants-as-gifts/</guid>
+      <description>Over the past few years I’ve been changing my gift-giving game. I used to give generic items that people might like but might not be useful to them. When receiving items like this I thought, “if I don’t like receiving gifts like this then why should I give them?” It’s a waste of money and the person is stuck trying to figure out what to do with it. I’ve changed my mindset to giving things that I know they need/want, are useful, something enjoyable, or money when nothing fits the above criteria.</description>
+    </item>
+    
+  </channel>
+</rss>
