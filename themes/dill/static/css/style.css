@@ -495,6 +495,10 @@ h5 {
 	margin-bottom: 1rem;
 }
 
+.title {
+	margin-top: 1rem;
+}
+
 a {
 	color: #f03709;
 	text-decoration: none;
@@ -527,6 +531,7 @@ p {
 }
 
 .cat-list {
+	margin-top: 1rem;
 	display: inline-block;
 }
 

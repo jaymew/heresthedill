@@ -4,7 +4,7 @@
 {{ .Content }}
   {{ range (where .Data.Pages "Section" "!=" "") }}
   <article>
-		<h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+		<h2 class="title"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
 		<p>{{ .Summary }}<a href="{{ .RelPermalink }}"> Read More…</a></p>
     {{ with .Params.categories }}
     <ul id="categories" class="cat-list">

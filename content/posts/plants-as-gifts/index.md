@@ -6,6 +6,7 @@ featured_image: ""
 featured_image_alt: ""
 categories:
 - Gifts
+- Balkongarten
 ---
 Over the past few years I’ve been changing my gift-giving game. I used to give generic items that people might like but might not be useful to them. When receiving items like this I thought, “if I don’t like receiving gifts like this then why should I give them?” It’s a waste of money and the person is stuck trying to figure out what to do with it. I’ve changed my mindset to giving things that I know they need/want, are useful, something enjoyable, or money when nothing fits the above criteria. At any point during the year, if a person says they’d like something, I make a note of the need/want on my phone for future gift-giving occasions. One Christmas I gave jars of red and green M&Ms with a little cash hidden in the center, creating a 3-in-1 useful gift with the delayed experience of finding money. I’ve also thrown parties that the person will enjoy, but lately I’ve been giving plants to friends who I know will enjoy them.
 
