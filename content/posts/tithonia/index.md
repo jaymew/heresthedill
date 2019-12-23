@@ -1,7 +1,7 @@
 ---
 title: "2019 Flower of the Year"
 date: 2019-12-08T11:42:51+01:00
-draft: true
+draft: false
 featured_image: "/posts/tithonia/7.jpg"
 featured_image_alt: "tithonia and hand"
 categories:
@@ -21,9 +21,6 @@ Tithonia rotundifolia produce sturdy stems and have the ability to reach over 1.
 [Missouri Botanical Garden](http://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=b763)
 
 I’m really excited to grow these plants again next year because I think they will make a beautiful shade screen on our hot south facing balcony. They were grown in balcony boxes with 15cm (6in) depth and grew 60-70 cm (24-27in). Next summer, they will be planted in a tall 60cm (24in) pallet pot to see if they’ll reach their full height. I tried growing tomato vines in the tall pallet pot in order to create a shaded section but they were too much of a hassle for our space.
-
-
-August vs September height in 15cm (6in) tall balcony box.
 
 They are, however, greedy plants requiring full sun, weekly/biweekly feeding, and daily watering when grown in containers. If forgotten for a day or two they will wither to the point of seeming lifeless but don’t worry, they will quickly forgive you once provided with water again, almost expanding before your eyes. Next year I’ll try growing some in the Kleingarten and imagine once planted out they will take care of themselves so long as they are not in a waterlogged area. Slugs will probably be the biggest problem.
 
