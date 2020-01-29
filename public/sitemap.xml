@@ -3,30 +3,35 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://hereisthedill.com/articles/balkongarten-reflection/</loc>
+    <lastmod>2020-01-29T09:32:09+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hereisthedill.com/categories/balkongarten/</loc>
+    <lastmod>2020-01-29T09:32:09+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hereisthedill.com/categories/</loc>
+    <lastmod>2020-01-29T09:32:09+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hereisthedill.com/</loc>
+    <lastmod>2020-01-29T09:32:09+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://hereisthedill.com/posts/tithonia/</loc>
     <lastmod>2019-12-08T11:42:51+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://hereisthedill.com/categories/balkongarten/</loc>
-    <lastmod>2019-12-08T11:42:51+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hereisthedill.com/categories/</loc>
-    <lastmod>2019-12-08T11:42:51+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://hereisthedill.com/categories/gifts/</loc>
     <lastmod>2019-12-08T11:42:51+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hereisthedill.com/</loc>
-    <lastmod>2019-12-08T11:42:51+01:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>

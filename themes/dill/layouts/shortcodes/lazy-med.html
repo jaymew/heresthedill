@@ -1,0 +1,28 @@
+{{ $image := .Page.Resources.GetMatch (printf "*%s*" (.Get "src")) }}
+{{ $placeholder := $image.Resize "48x q20" }}
+{{ $med := $image.Resize "700x" }}
+
+<figure {{ with .Get "class" }}class='{{.}}'{{ end }} style="max-width:700px;">
+  <img
+    class="lazy no-js"
+    width='700'
+    src="{{ $placeholder.Permalink }}"
+    data-src="{{ $med.Permalink }}"
+    {{ if .Get "alt" }}alt='{{.Get "alt"}}'
+    {{ else if .Get "caption" }}alt='{{.Get "caption"}}'
+    {{ else }}alt=""
+    {{ end }}
+    {{ with .Get "height" }}height='{{.}}'{{ end }}>
+    <noscript>
+      <img
+        width='700'
+        src="{{ $med.Permalink }}"
+        {{ with .Get "alt" }}alt='{{.}}'{{ else }}alt=""{{ end }}
+        {{ with .Get "height" }}height='{{.}}'{{ end }}>
+    </noscript>
+  {{ with .Get "caption" }}
+  <figcaption>
+    <p>{{.}}</p>
+  </figcaption>
+  {{ end }}
+</figure>

@@ -26,7 +26,10 @@
       src="{{ $placeholder.Permalink }}"
       data-src="{{ $image.Permalink }}"
     {{ end }}
-    {{ with .Get "alt" }}alt='{{.}}'{{ else }}alt=""{{ end }}
+    {{ if .Get "alt" }}alt='{{.Get "alt"}}'
+    {{ else if .Get "caption" }}alt='{{.Get "caption"}}'
+    {{ else }}alt=""
+    {{ end }}
     {{ with .Get "height" }}height='{{.}}'{{ end }}>
     <noscript>
       <img
