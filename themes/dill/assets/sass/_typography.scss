@@ -72,6 +72,17 @@ p {
   fill: none;
 }
 
+article ul {
+	font-size: 1.6rem;
+	line-height: 2.2rem;
+	margin-bottom: 2rem;
+
+	li {
+		list-style: disc;
+		margin-left: 2rem;
+	}
+}
+
 .cat-list {
 	margin-top: 1rem;
 	display: inline-block;
@@ -79,6 +90,7 @@ p {
 	li {
 		float: left;
 		padding: 0 .5rem;
+		list-style: none;
 	}
 }
 
@@ -142,6 +154,11 @@ figcaption {
 		font-size: 1.8rem;
 	}
 	p {
+		font-size: 1.4rem;
+		line-height: 1.8rem;
+		margin-bottom: 1.8rem;
+	}
+	article ul {
 		font-size: 1.4rem;
 		line-height: 1.8rem;
 		margin-bottom: 1.8rem;

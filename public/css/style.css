@@ -237,6 +237,19 @@ aside div:nth-of-type(1n+2) {
 	border-top: 2px solid #f03709;
 }
 
+.mugshot {
+	display: block;
+	float: left;
+	margin: 0 1rem 1rem 0;
+	width: 120px;
+	height: 200px;
+	background: center/cover url("/img/uploads/mug.jpg");
+}
+
+.mugshot:hover {
+	background: center/cover url("/img/uploads/mugbite.jpg");
+}
+
 .name-box {
 	width: 100%;
 	text-align: center;
@@ -244,7 +257,7 @@ aside div:nth-of-type(1n+2) {
 
 .sidebar-content {
 	clear: both;
-	padding: 2rem 1rem;
+	padding: 1rem 1rem;
 }
 
 .sidebar-content p {
@@ -530,6 +543,17 @@ p {
 	fill: none;
 }
 
+article ul {
+	font-size: 1.6rem;
+	line-height: 2.2rem;
+	margin-bottom: 2rem;
+}
+
+article ul li {
+	list-style: disc;
+	margin-left: 2rem;
+}
+
 .cat-list {
 	margin-top: 1rem;
 	display: inline-block;
@@ -538,6 +562,7 @@ p {
 .cat-list li {
 	float: left;
 	padding: 0 .5rem;
+	list-style: none;
 }
 
 em {
@@ -602,6 +627,11 @@ figcaption p {
 		font-size: 1.8rem;
 	}
 	p {
+		font-size: 1.4rem;
+		line-height: 1.8rem;
+		margin-bottom: 1.8rem;
+	}
+	article ul {
 		font-size: 1.4rem;
 		line-height: 1.8rem;
 		margin-bottom: 1.8rem;

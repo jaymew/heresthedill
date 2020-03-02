@@ -108,13 +108,24 @@ aside {
 			border-top: 2px solid $color__pink;
 		}
 }
+.mugshot {
+	display: block;
+	float: left;
+	margin: 0 1rem 1rem 0;
+	width: 120px;
+	height: 200px;
+	background: center / cover url('/img/uploads/mug.jpg');
+}
+.mugshot:hover {
+	background: center / cover url('/img/uploads/mugbite.jpg');
+}
 .name-box{
 	width: 100%;
 	text-align: center;
 }
 .sidebar-content {
 	clear: both;
-	padding: 2rem 1rem;
+	padding: 1rem 1rem;
 	//border-bottom: 2px solid $color__pink;
 	p {
 		font-size: 1.2rem;
