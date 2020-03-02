@@ -14,11 +14,11 @@ If you’re at a loss for a gift, consider giving a plant. Plants are wonderful 
 
 {{< reg-img src="header.jpg"  alt="bulb pot"  >}}
 
-{{< lazy-img src="7.jpg" width="300" class="alignright" alt="tulips" caption="Tulips and daffodils were planted near her front door. Crocuses and daffodils were planted near the front lawn"  >}}
+{{< lazy-post src="7.jpg" width="300" class="alignright" alt="tulips" caption="Tulips and daffodils were planted near her front door. Crocuses and daffodils were planted near the front lawn"  >}}
 
-{{< lazy-img src="2.jpg" width="300" class="alignright" alt="strawberry with runners" caption="Strawberry plant with runners"  >}}
+{{< lazy-post src="2.jpg" width="300" class="alignright" alt="strawberry with runners" caption="Strawberry plant with runners"  >}}
 
-{{< lazy-img src="1.jpg" width="300" class="alignright" alt="sick strawberry" caption="Sick strawberry plant after removing dead leaves and transplanting to a new pot"  >}}
+{{< lazy-post src="1.jpg" width="300" class="alignright" alt="sick strawberry" caption="Sick strawberry plant after removing dead leaves and transplanting to a new pot"  >}}
 
 In October 2018, I gave what seemed like a bowl of rocks and dirt for a friend's birthday. I told her, "place it outside for winter, keep it moist, and you'll be rewarded in spring." To her delight, in March she produced yellow and purple crocuses, in April came the daffodils, and in May tulips should have popped up—but they never did. This might of been a bad batch of tulip bulbs, or my excitement in overstuffing the pot. Either way, she loved it.
 
@@ -30,13 +30,13 @@ This fall, a friend is expressing her desire to create a Balkongarten for next y
 
 If you decide to give a friend or family member plants, be sure to give them something low maintenance or at their skill level. Spring bulbs in a yard require no maintenance. The spring bulb planter required minimal watering, maybe once a month to every other month in winter. Something she could handle since she and her husband grow a forest of tomatoes, eggplants and peppers on their balcony every summer. Balkongarten friend is a beginner and is nervous that she’ll have a brown thumb, so I’m giving her easy-to-grow seeds and a difficult-to-kill plant. How do I know it’s difficult to kill? Well, I abused this particular strawberry plant. A lot of events occurred in 2018—the homemade potting mix that killed a bunch of plants; the balcony being demolished for the entire summer—that caused this one euro strawberry plant to be severely neglected in its original tiny pot. Come spring 2019, it was still alive, barely, so I finally planted it in a larger pot thinking it was probably a waste of soil. Turns out it recovered and by late summer started creating runners! No strawberries have been produced on this particular plant, which isn’t a surprise due to its abused past, so I can’t guarantee she’ll get strawberries in spring 2020 but I can guarantee that they’re tough to kill.
 
-{{< lazy-img src="3.jpg" alt="rooting strawberry runners" caption="To root strawberry runners, all you need to do is fill up a pot with potting mix, push the plantlet into it, and wait a few weeks for the roots to develop before cutting the running stem from the mother"  >}}
+{{< lazy-post src="3.jpg" alt="rooting strawberry runners" caption="To root strawberry runners, all you need to do is fill up a pot with potting mix, push the plantlet into it, and wait a few weeks for the roots to develop before cutting the running stem from the mother"  >}}
 
-{{< lazy-img src="9.jpg" width="300" class="alignright" alt="hummingbird planter" caption="The hummingbird planter included a red Bee balm Monarda, a light blue Giant Hyssop Agastache foeniculum, a white Lantana Lantana camara, and a purple Salvia Salvia. In hindsight, I should have bought more mature Lantana and Salvia plants, as they were too small to compete and were engulfed by the Bee Balm and Giant Hyssop"  >}}
+{{< lazy-post src="9.jpg" width="300" class="alignright" alt="hummingbird planter" caption="The hummingbird planter included a red Bee balm Monarda, a light blue Giant Hyssop Agastache foeniculum, a white Lantana Lantana camara, and a purple Salvia Salvia. In hindsight, I should have bought more mature Lantana and Salvia plants, as they were too small to compete and were engulfed by the Bee Balm and Giant Hyssop"  >}}
 
-{{< lazy-img src="4.jpg" width="300" class="alignright" alt="Efeutute Epipremnum aureum" caption="Efeutute Epipremnum aureum. Small money plant propagated from cuttings Planted in an insert pot placed within a white decorative pot"  >}}
+{{< lazy-post src="4.jpg" width="300" class="alignright" alt="Efeutute Epipremnum aureum" caption="Efeutute Epipremnum aureum. Small money plant propagated from cuttings Planted in an insert pot placed within a white decorative pot"  >}}
 
-{{< lazy-img src="5.jpg" width="300" class="alignright" alt="Gruenlilie Chlorophytum comosum" caption="Gruenlilie Chlorophytum comosum. Small spider plants from spiderettes. Spiderettes are similar to strawberry plantlets created by runners from the mother plant."  >}}
+{{< lazy-post src="5.jpg" width="300" class="alignright" alt="Gruenlilie Chlorophytum comosum" caption="Gruenlilie Chlorophytum comosum. Small spider plants from spiderettes. Spiderettes are similar to strawberry plantlets created by runners from the mother plant."  >}}
 
 The hummingbird planter requires a slightly higher skill level and one that I knew the group could handle. They already had planters of marigolds, hot peppers, and herbs on their deck, so I filled a large container with low maintenance, hummingbird-loving plants. All they had to do was water it, feed it every so often, and deadhead it so the flowers would keep coming back—the same maintenance they were already doing with their other containers. At the end of the year or next spring, they could also split the plants in half to create more containers and potentially attract more hummingbirds. Or, they could plant them out in the garden, so long as they don’t mind the Bee Balm and Giant Hyssop spreading. These are native to their region but are members of the mint family. If you’re familiar with mint family members you know they grow like weeds. So they either need space to grow or barriers to contain them, such as a berm—the strip of soil between a street and a sidewalk.
 

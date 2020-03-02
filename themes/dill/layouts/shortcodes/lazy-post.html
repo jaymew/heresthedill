@@ -1,0 +1,57 @@
+{{ $image := .Page.Resources.GetMatch (printf "*%s*" (.Get "src")) }}
+{{ $placeholder := $image.Resize "48x q20" }}
+{{ $small := $image.Resize "300x" }}
+{{ $full := $image.Resize "750x" }}
+
+<figure {{ with .Get "class" }}class='{{.}}'{{ end }}
+{{ with .Get "width" }}
+{{ if le "width" "300" }}
+  style="max-width:300px;"
+{{ else }}
+  style="max-width:{{ $image.Width }}px;"
+{{ end }}{{ end }}>
+  <img
+    class="lazy no-js"
+    {{ with .Get "width" }}
+      {{ if le "width" "300" }}
+        width='{{.}}'
+        src="{{ $placeholder.Permalink }}"
+        data-src="{{ $small.Permalink }}"
+      {{ else }}
+        width="100%"
+        src="{{ $placeholder.Permalink }}"
+        data-src="{{ $full.Permalink }}"
+      {{ end }}
+      {{ else }}
+      width="100%"
+      src="{{ $placeholder.Permalink }}"
+      data-src="{{ $full.Permalink }}"
+    {{ end }}
+    {{ if .Get "alt" }}alt='{{.Get "alt"}}'
+    {{ else if .Get "caption" }}alt='{{.Get "caption"}}'
+    {{ else }}alt=""
+    {{ end }}
+    {{ with .Get "height" }}height='{{.}}'{{ end }}>
+    <noscript>
+      <img
+        {{ with .Get "width" }}
+          {{ if le "width" "300" }}
+            width='{{.}}'
+            src="{{ $small.Permalink }}"
+          {{ else }}
+            width="100%"
+            src="{{ $full.Permalink }}"
+          {{ end }}
+          {{ else }}
+          width="100%"
+          src="{{ $full.Permalink }}"
+        {{ end }}
+        {{ with .Get "alt" }}alt='{{.}}'{{ else }}alt=""{{ end }}
+        {{ with .Get "height" }}height='{{.}}'{{ end }}>
+    </noscript>
+  {{ with .Get "caption" }}
+  <figcaption>
+    <p>{{.}}</p>
+  </figcaption>
+  {{ end }}
+</figure>

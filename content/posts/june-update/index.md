@@ -14,7 +14,7 @@ This is the craziest time of the year for gardeners. Everything is growing so fa
 
 My main task was to get plants into their final pots. Two tomato plants, dahlias, wallflowers, a cucumber, and pepper seedlings were all desperate for transplanting. All but one tomato plant made it into new pots. Unfortunately, it has to wait until I can get more soil, which adds to the delays.
 
-{{< lazy-img src="balkon2.jpg" alt="One tomato plant planted in the pallet container" caption="One tomato plant planted in the pallet container"  >}}
+{{< lazy-post src="balkon2.jpg" alt="One tomato plant planted in the pallet container" caption="One tomato plant planted in the pallet container"  >}}
 
 Between the two tomato plants, I planted the worse-looking one. I was afraid that if I didn’t I would lose it. But on this seed-to-plant journey I’ve noticed a difference in stress and plant growth based on what type of pot they were grown in. The weaker tomato plant was in a peat pot and significantly shorter than the other in a plastic pot. The plastic pot tomato is taller, has dark green leaves and, even more surprising, has not one but two plants inside. Having multiple plants in a pot like this normally stunts their growth. I find it very interesting that the two tomatoes are doing better than the one alone in a peat pot the same size. This also conflicts with my desire to reduce plastic in the garden.
 
@@ -24,6 +24,6 @@ At the moment, the plastic pot tomatoes are just now showing signs that they are
 
 Keeping to the theme of biodegradable pots, I have mixed feelings about the newspaper pots I used to start seedlings. They are great but, again, only if you keep on top of the plant care, otherwise they turn into a nightmare. The pots dry out faster so they require constant attention to the moisture levels. They also dry out unevenly, with pots on the outside drying faster than those in the middle. And once the true leaves appear twice the size as the seed leaves, they require immediate potting on into a nutrient-rich soil.
 
-{{< lazy-img src="balkon3.jpg" alt="Newspaper pots in April" caption="Newspaper pots in April"  >}}
+{{< lazy-post src="balkon3.jpg" alt="Newspaper pots in April" caption="Newspaper pots in April"  >}}
 
 I still need to do a few more tests, but my current advice for biodegradable pots is to stick to the plant’s schedule, not yours. As soon as you see these signals, you have to act quickly no matter how busy your life is, otherwise they’ll end up stunted or die. Pay attention to what your plants are telling you and they will reward you in kind.

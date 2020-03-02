@@ -16,7 +16,7 @@ For example, where can one find speciality spring bulbs? In the US, I can instan
 
 Now, tell me, where I can buy spring bulbs in Germany?
 
-{{< lazy-img src="flowers.jpg" width="300" class="alignright" alt="Pansies" caption="Tiefmutterchen"  >}}
+{{< lazy-post src="flowers.jpg" width="300" class="alignright" alt="Pansies" caption="Tiefmutterchen"  >}}
 
 Let’s walk through the process.
 
@@ -29,11 +29,11 @@ Next result, Samen Mauser.ch, a Swiss site. I can’t easily order from there si
 Now, it’s time to sort through and rank which nurseries are best to order from. Start the next research process.
 Most of the time it’s fun to research and learn the German name of a plant. A favorite of mine is *Stiefmuetterchen* which translates ‘little step mother’ for pansies *Viola tricolor hortensis* and *Fingerhut*, ‘finger hat’ foxglove *Digitalis purpurea*.
 
-{{< lazy-img src="book.jpg" width="300" class="alignright" alt="german books and notebooks" caption="It's a process"  >}}
+{{< lazy-post src="book.jpg" width="300" class="alignright" alt="german books and notebooks" caption="It's a process"  >}}
 
 But it’s also a pain when I want to quickly look something up, or if I’m in a store trying to decipher a label. Not only do I need to learn the new word, I have to retain it, something that does not come easily to me.
 
-{{< lazy-img src="you.jpg" width="300" class="alignright" alt="all the different forms of you"  >}}
+{{< lazy-post src="you.jpg" width="300" class="alignright" alt="all the different forms of you"  >}}
 
 A huge hurdle when learning German is memorizing words. I’m terrible! And yet, I love learning the language. I’m not entirely sure why: it’s not the prettiest to listen to, although I’d argue that it’s not as ugly as most make it out to be. Many examples Americans hear are in anger, which emphasizes the harshness of the language, but in everyday speech it’s pleasant. The grammar is difficult, to put it mildly. It’s frustrating when you don’t understand a rule but so satisfying once you finally do and can move on to the next frustrating one. It’s definitely a love-hate relationship.
 

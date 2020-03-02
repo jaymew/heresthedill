@@ -17,15 +17,15 @@ Think about it, when you go to the nursery you’re able to fill up your car wit
 
 Me? I have this.
 
-{{< lazy-img src="load.jpg" alt="My bike loaded down with plants in the basket" caption="My bike loaded down at Obi" >}}
+{{< lazy-post src="load.jpg" alt="My bike loaded down with plants in the basket" caption="My bike loaded down at Obi" >}}
 
 You can barely fit 5 plants in that basket! The one advantage is it prevents impulse purchases. I always have to go in knowing what materials or plants I need and then figure out how to squeeze them on my bike without damaging them. Although this isn’t always the case. In the above photo I went to the store to buy large bag of potting soil and ended up leaving with 70% off houseplants—and no potting soil.
 
 And since I own a men's bike, which requires swinging a leg around the back, forget about tall plants too. I learned this the hard way with a climbing rose and clematis I purchased in 2017.
 
-{{< lazy-img src="obi.jpg" width="300" alt="plants" class="alignright" >}}
+{{< lazy-post src="obi.jpg" width="300" alt="plants" class="alignright" >}}
 
-{{< lazy-img src="pallet.jpg" width="300" class="alignright" alt="public cargo bike" caption="Cargo bike" >}}
+{{< lazy-post src="pallet.jpg" width="300" class="alignright" alt="public cargo bike" caption="Cargo bike" >}}
 
 Picture a woman in the parking lot hesitantly raising her foot 20 times deciding whether she’ll make it over the bike without falling over. I wandered around the parking lot eventually finding a curb to make the swing distance shorter. Only issue was forgetting when I arrived home and proceeded to fall into a bush next to the building. This is the one time where learning the splits would have been useful.
 
@@ -39,4 +39,4 @@ Or in the case of some unfortunate plant-loving friends, they must climb a large
 
 Thankfully I only have to worry about the ramps to reach the garden center. I will admit when carting heavy items around town I do not find biking fun anymore. Just another love/hate relationship while living in Germany.
 
-{{< lazy-img src="spiral.jpg" alt="Cycle spiral near the Rhein in Paradies" caption="Cycle spiral near the Rhein in Paradies"  >}}
+{{< lazy-post src="spiral.jpg" alt="Cycle spiral near the Rhein in Paradies" caption="Cycle spiral near the Rhein in Paradies"  >}}
