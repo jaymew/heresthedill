@@ -8,21 +8,21 @@ categories:
 ---
 {{< reg-img src="01.jpg" alt="Garden journal on the desk next to my computer" >}}
 
-{{< reg-img src="13.jpg" width="300" class="alignright" caption="Bonus: stickers can be used to personalize it! This one's from the Herdhover project, a friend of HTD!" >}}
-
 During my final years at college, I created a crude version of a bullet journal to keep track of all the various classes and activities. That planner was a life saver. Post college I stopped using the planner as the activity level dropped; but in the past few years, I found myself needing to record events and thoughts again, and came across bullet journaling. It has really helped keep life organized, so in the spirit of staying organized, I decided to create a garden journal using the same techniques.
+
+{{< reg-img src="13.jpg" width="300" class="alignright" caption="Bonus: stickers can be used to personalize it! This one's from the Herdhover project, a friend of HTD!" >}}
 
 I started a garden journal in 2019 because during 2018 I thought, “Nah, I can remember everything: what worked and didn’t work, dates plants sprouted, last frost date, etc.”, but, in all honesty, the human brain has a terrible memory for so many minuscule details. The Kleingarten is fairly large; it’s two allotments as one, not to mention the Balkongarten. There are so many projects and techniques that I’d love to learn and experiment with, it gets difficult to keep track of them. In order to improve, records need to be kept of what happens in a garden to hopefully cultivate a better observer and a better gardener.
 
 This guide is mostly for those who like to write in a notebook or journal and is especially good for those who enjoy Bullet Journaling. Most of the techniques can be modified on the computer as well if you prefer electronic keeping. If you’d like a premade program check this out: https://www.growveg.com/garden-planner-intro.aspx I’ve never used it so I cannot say whether it is useful or not.
-
-{{< lazy-small src="03.jpg" class="alignright" caption="Best use a pencil rather than pen." >}}
 
 ## Pick a Journal You’ll Use
 
 Any blank book will do. If you’re a journalling beginner find something with lines, grids or dotted grids. It can be as simple as a college notebook or nice as a Moleskine. Pick something you’ll like but nothing too fancy, as it’ll be taken into the garden where it will most likely get dirty and wet.
 
 I’m currently using a simple gridded notebook with a simple layout. Normally I would use something a little nicer but this was lying around and it doesn’t create a mentality of every entry needing to be perfectly executed, as often seen on social media. Keep that in mind if you’re a perfectionist!
+
+{{< lazy-small src="03.jpg" class="alignright" caption="Best use a pencil rather than pen." >}}
 
 ## Setting Up Your Journal
 
@@ -79,7 +79,7 @@ We are halfway there! If you plan on growing some or all of your plants from see
 
 Go through your list, research and write down the “sow indoors” or “direct sow” before the last frost date, transplant dates and harvest dates. This information is approximated in days or weeks so you can arrange it around your area’s frost dates. Most of this can be found online or on the back of seed packets.
 
-{{< lazy-img src="16.jpg" caption="You can see the information on the back" >}}
+{{< lazy-img src="12.jpg" caption="You can see the information on the back" >}}
 
 For a detailed explanation on how to make your calendar, check out [Starting Your Seed Calendar](/articles/starting-your-seed-calendar)
 
