@@ -20,7 +20,7 @@
   </url>
   
   <url>
-    <loc>https://hereisthedill.com/categories/uncategorized/</loc>
+    <loc>https://hereisthedill.com/categories/organization/</loc>
     <lastmod>2020-03-27T09:07:33+01:00</lastmod>
   </url>
   
@@ -131,11 +131,6 @@
   </url>
   
   <url>
-    <loc>https://hereisthedill.com/categories/organization/</loc>
-    <lastmod>2019-06-13T08:14:21+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://hereisthedill.com/categories/work/</loc>
     <lastmod>2019-06-13T08:14:21+02:00</lastmod>
   </url>
@@ -188,6 +183,10 @@
   <url>
     <loc>https://hereisthedill.com/tags/</loc>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hereisthedill.com/categories/uncategorized/</loc>
   </url>
   
 </urlset>

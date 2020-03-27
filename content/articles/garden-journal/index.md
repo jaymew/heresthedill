@@ -3,7 +3,7 @@ title: "Garden Journal"
 date: 2020-03-27T09:07:33+01:00
 draft: false
 categories:
-  - Uncategorized
+  - organization
 
 ---
 {{< reg-img src="01.jpg" alt="Garden journal on the desk next to my computer" >}}
