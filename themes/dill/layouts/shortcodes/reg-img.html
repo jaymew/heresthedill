@@ -1,7 +1,12 @@
 {{ $image := .Page.Resources.GetMatch (printf "*%s*" (.Get "src")) }}
 {{ $small := $image.Resize "300x" }}
 
-<figure {{ with .Get "class" }}class='{{.}}'{{ end }} style="max-width:{{ $image.Width }}px;">
+<figure {{ with .Get "class" }}class='{{.}}'{{ end }}
+{{ with .Get "width" }}
+style="max-width:300px;">
+{{ else }}
+style="max-width:100%;">
+{{ end }}
   <img
   {{ with .Get "width" }}
     {{ if le "width" "300" }}
