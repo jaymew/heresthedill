@@ -22,7 +22,7 @@ Any blank book will do. If you’re a journalling beginner find something with l
 
 I’m currently using a simple gridded notebook with a simple layout. Normally I would use something a little nicer but this was lying around and it doesn’t create a mentality of every entry needing to be perfectly executed, as often seen on social media. Keep that in mind if you’re a perfectionist!
 
-{{< lazy-small src="03.jpg" class="alignright" caption="Best use a pencil rather than pen." >}}
+{{< lazy-small src="03.jpg" class="alignright" caption="When you have the time, feel free to have fun with your journal through sketching. Here's an example for the Key page. I'm keeping the garden journal layout simple for ease of use." >}}
 
 ## Setting Up Your Journal
 
