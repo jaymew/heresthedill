@@ -1,5 +1,5 @@
 ---
-title: "Garden Journal"
+title: "Creating a Garden Journal using Bullet Journal Techniques"
 date: 2020-03-27T09:07:33+01:00
 draft: false
 categories:
