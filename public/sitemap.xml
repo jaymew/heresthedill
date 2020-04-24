@@ -3,9 +3,46 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://hereisthedill.com/posts/covid-update/</loc>
+    <lastmod>2020-04-24T11:06:38+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hereisthedill.com/categories/balkongarten/</loc>
+    <lastmod>2020-04-24T11:06:38+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://hereisthedill.com/categories/</loc>
-    <lastmod>2020-03-27T09:07:33+01:00</lastmod>
+    <lastmod>2020-04-24T11:06:38+02:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hereisthedill.com/categories/germany/</loc>
+    <lastmod>2020-04-24T11:06:38+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hereisthedill.com/</loc>
+    <lastmod>2020-04-24T11:06:38+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hereisthedill.com/categories/kleingarten/</loc>
+    <lastmod>2020-04-24T11:06:38+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hereisthedill.com/posts/</loc>
+    <lastmod>2020-04-24T11:06:38+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hereisthedill.com/categories/thoughts/</loc>
+    <lastmod>2020-04-24T11:06:38+02:00</lastmod>
   </url>
   
   <url>
@@ -14,25 +51,8 @@
   </url>
   
   <url>
-    <loc>https://hereisthedill.com/</loc>
-    <lastmod>2020-03-27T09:07:33+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://hereisthedill.com/categories/organization/</loc>
     <lastmod>2020-03-27T09:07:33+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hereisthedill.com/categories/kleingarten/</loc>
-    <lastmod>2020-03-02T10:34:21+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hereisthedill.com/posts/</loc>
-    <lastmod>2020-03-02T10:34:21+01:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -46,22 +66,12 @@
   </url>
   
   <url>
-    <loc>https://hereisthedill.com/categories/balkongarten/</loc>
-    <lastmod>2020-01-29T09:32:09+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://hereisthedill.com/posts/tithonia/</loc>
     <lastmod>2019-12-08T11:42:51+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://hereisthedill.com/categories/gifts/</loc>
-    <lastmod>2019-12-08T11:42:51+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hereisthedill.com/categories/thoughts/</loc>
     <lastmod>2019-12-08T11:42:51+01:00</lastmod>
   </url>
   
@@ -117,11 +127,6 @@
   
   <url>
     <loc>https://hereisthedill.com/categories/deutsch/</loc>
-    <lastmod>2019-06-16T13:21:49+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hereisthedill.com/categories/germany/</loc>
     <lastmod>2019-06-16T13:21:49+02:00</lastmod>
   </url>
   
