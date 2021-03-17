@@ -27,6 +27,12 @@ figcaption {
 	margin-top: 0;
 	float: right;
 }
+.side-lefft {
+	float: left;
+}
+.side-right {
+	float: right;
+}
 @media screen and (max-width: 599px) {
 	.alignleft {
 		margin-right: 0;
